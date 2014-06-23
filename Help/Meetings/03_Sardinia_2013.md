@@ -1,5 +1,4 @@
-OSB Kick off meeting, Sardinia, 13-15 May 2013
-----------------------------------------------
+### OSB Kick off meeting, Sardinia, 13-15 May 2013
 
 ![](/attachments/download/42/osbbanner.png)
 
@@ -10,7 +9,7 @@ Location: [Hotel Calabona](http://www.hotelcalabona.com/), [Alghero](http://www.
 Local organisers: [Sergio Solinas](/users/23), Irene Solinas
 Organising committee: [Matteo Cantarelli](/users/43), [Sharon Crook](/users/8), [Padraig Gleeson](/users/4), [Eugenio Piasini](/users/3), [Angus Silver](/users/6)
 
-### Focus of meeting
+#### Focus of meeting
 
 The focus of this meeting was on **cerebellar cell & network models**.
 
@@ -18,9 +17,9 @@ Some notes taken during the discussion sessions are currently being converted in
 
 One specific outcome of the meeting was the setting up of a project to try to create a community developed model (or models) of the [cerebellar granule cell](http://www.opensourcebrain.org/projects/cerebellar-granule-cell-modelling/wiki/Wiki).
 
-### Agenda
+#### Agenda
 
-#### Monday 13th May, 9am - 6pm
+##### Monday 13th May, 9am - 6pm
 
 | |**Morning Session** | |
 |:---|:---|:---|
@@ -49,7 +48,7 @@ One specific outcome of the meeting was the setting up of a project to try to cr
 |16:00 | *Open discussion on collaborative modelling* | |
 | | Chair:**[Robert Cannon](/users/21)** | |
 
-#### Tuesday 14th May, 9am - 6pm
+##### Tuesday 14th May, 9am - 6pm
 
 | |**Morning Session** | |
 |:---|:---|:---|
@@ -76,7 +75,7 @@ One specific outcome of the meeting was the setting up of a project to try to cr
 |:---|:---|:---|
 |19:30 |*Conference Dinner*: [Movida Restaurant](http://www.movidaristorante.com/) | |
 
-#### Wednesday 15th May, 9am - 5pm
+##### Wednesday 15th May, 9am - 5pm
 
 | |**Morning Session** | |
 |:---|:---|:---|
@@ -97,7 +96,7 @@ One specific outcome of the meeting was the setting up of a project to try to cr
 | 15:30 | *Presentations of results & feedback* | |
 | 16:30 | *Future plans for OSB* | |
 
-### Posters presented
+#### Posters presented
 
 ***Maximum poster size: 1.5m x 1.5m***
 
@@ -109,6 +108,6 @@ One specific outcome of the meeting was the setting up of a project to try to cr
 |**[Jesus Garrido](/users/128)** | Event-and-time driven simulator accelerated with CPU-GPU co-processing ([PDF](http://www.opensourcebrain.org/attachments/download/67/post_OSB_Garrido_et_al.pdf)) |
 |**[Helena Głąbska](/users/69)** | Meaningful decompositions of multielectrode LFP recordings ([PDF](http://www.opensourcebrain.org/attachments/download/78/Glabska_icakcsd.pdf)) |
 
-### Enquiries
+#### Enquiries
 
 If you have any enquiries about this meeting, please don’t hesitate to contact: [p.gleeson@ucl.ac.uk](mailto:p.gleeson@ucl.ac.uk).

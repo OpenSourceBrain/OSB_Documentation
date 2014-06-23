@@ -1,8 +1,7 @@
 ![](/attachments/download/106/OSBHackathon1.png)
  (Illustration courtesy of [Matteo Farinella](/users/34))
 
-OSB Hackathon 2013
-------------------
+### OSB Hackathon 2013
 
 (Looking for details on the [Open Source Brain kick off meeting](http://www.opensourcebrain.org/projects/osb/wiki/Sardinia2013) in Sardinia?)
 
@@ -12,13 +11,13 @@ Location: University College London, UK.
 
 Local organisers: [Matteo Cantarelli](/users/43), [Padraig Gleeson](/users/4), [Eugenio Piasini](/users/3), [Angus Silver](/users/6), [Boris Marin](/users/67)
 
-### Focus of meeting
+#### Focus of meeting
 
 The focus of this meeting was on **open source multicompartmental, conductance based cortical cell & network models**.
 
 There are an increasing number of multicompartmental, conductance based (thalamo)cortical cell models being made available and reused/modified by interested parties to address different scientific questions. An example is the [Traub et al 2005 thalamocortical network model](http://www.opensourcebrain.org/projects/thalamocortical) for which Fortran, NEURON, MOOSE and NeuroML versions have been developed in various labs. This meeting was to look at the range of models out there from the neocortex and thalamus which are interesting for multiple parties and work towards getting these onto public, open source repositories, in standardised formats (NeuroML & potentially PyNN) and get them well tested, annotated and ready for use as research tools by the attendees and the wider community.
 
-### Aims
+#### Aims
 
 There were 3 specific aims of the meeting:
 
@@ -28,13 +27,13 @@ There were 3 specific aims of the meeting:
 
 3) Look at the range of **other multicompartmental, conductance based cortical models** which could benefit from this process too (and potentially could be candidates for modification for use in the model of 2)
 
-### Attendees
+#### Attendees
 
 [Laszlo Bicskei](/users/229), Andrew Brown ([Southampton](http://www.ecs.soton.ac.uk/people/adb)), [Matteo Cantarelli](/users/43), [Chaitanya Chintaluri](/users/75), [Thomas Greg Corcoran](/users/228), [Helena Głąbska](/users/69), [Padraig Gleeson](/users/4), [Lea Goetz](/users/188), [Boris Marin](/users/67), [Philipe Mendonca](/users/195), [Simon O’Connor](/users/92), [Paola Perin](/users/210), [Eugenio Piasini](/users/3), [Subhasis Ray](/users/39), [Martina Rizza](/users/132), [Arnd Roth](/users/108), [Angus Silver](/users/6), [Richard Tomsett](/users/198), [Mike Vella](/users/50)
 
-### Agenda
+#### Agenda
 
-#### Wednesday 6th November
+##### Wednesday 6th November
 
 Overall theme: [Thalamocortical modelling](http://www.opensourcebrain.org/projects/corticalmodelling/wiki/Wiki), specifically project:thalamocortical
 
@@ -72,7 +71,7 @@ Overall theme: [Thalamocortical modelling](http://www.opensourcebrain.org/projec
 |17:30| | **Close of day** |
 |19:30| | **Dinner** |
 
-#### Thursday 7th November
+##### Thursday 7th November
 
 Overall theme: [Layer 5 pyramidal cell models](http://www.opensourcebrain.org/projects/l5pyramidalcellmodels/wiki)
 
@@ -105,9 +104,9 @@ Overall theme: [Layer 5 pyramidal cell models](http://www.opensourcebrain.org/pr
 |15:45| Next steps | How do we proceed ([WIKI](http://www.opensourcebrain.org/projects/corticalmodelling/wiki/Priorities)?) Planning for OSB 2014 |
 |17:30| | **Close of meeting** |
 
-### Next steps
+#### Next steps
 
-#### Some ideas/suggestions for improving OSB interface
+##### Some ideas/suggestions for improving OSB interface
 
 Add a search box beside tree view ([issue](https://github.com/epiasini/redmine/issues/63)). Related to [this](https://github.com/epiasini/redmine/issues/57)
 
@@ -117,11 +116,11 @@ Link to GitHub issues/stars/forks ([issue](https://github.com/epiasini/redmine/i
 
 List of contributors to the wiki more prominent ([issue](https://github.com/epiasini/redmine/issues/66))
 
-#### Thalamocortical modelling
+##### Thalamocortical modelling
 
 A list of the priorities/agreed action points from the meeting are [here](http://www.opensourcebrain.org/projects/corticalmodelling/wiki/Priorities).
 
-### Practicalities
+#### Practicalities
 
 The meeting was held on the main UCL campus: http://www.ucl.ac.uk/maps. Room for both days was: [Foster Court 243](http://www.ucl.ac.uk/estates/roombooking/building-location/?id=040).
 
@@ -129,6 +128,6 @@ Suggestions for accommodation in the vicinity:
 http://www.gowerhousehotel.co.uk
 http://www.jenkinshotel.demon.co.uk
 
-### Enquiries
+#### Enquiries
 
 If you have any enquiries about this meeting, please don’t hesitate to contact: [p.gleeson@ucl.ac.uk](mailto:p.gleeson@ucl.ac.uk).

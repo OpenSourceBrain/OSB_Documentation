@@ -1,6 +1,3 @@
-Using neuroConstruct based projects
------------------------------------
-
 A number of the projects on the OSB are based on [neuroConstruct](http://www.neuroconstruct.org/) projects. neuroConstruct is used to import model elements in NeuroML (e.g. exported from a simulator or other application), can generate code for multiple simulators, and can export NeuroML in various formats.
 
 ### Install the latest version of neuroConstruct

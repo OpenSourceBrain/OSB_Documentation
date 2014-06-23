@@ -1,17 +1,12 @@
-Interactions with other Neuroinformatics resources
-==================================================
-
 Below is a list of some important resources in the neuroinformatics, computational neuroscience and systems biology fields and how the Open Source Brian Repository is planning to interact with them.
 
-ModelDB
--------
+### ModelDB
 
 [ModelDB](http://senselab.med.yale.edu/ModelDB/) is a curated database of published models in computational neuroscience. This has been the primary source for most of the original simulator scripts on which the models in OSB are based. Where appropriate OSB models will link back to the original published models on ModelDB.
 
 Greater links are planned between these resources in the future to facilitate finding original model scripts (in a simulator specific format) and updated versions (in a standardized format) which have been extended/improved/used in other modeling studies.
 
-NeuralEnsemble
---------------
+### NeuralEnsemble
 
 ![](/images/neuralensemble.png):http://neuralensemble.org
 
@@ -19,8 +14,7 @@ NeuralEnsemble
 
 Many of the tools developed as part of the NeuralEnsemble initiative will be target applications for models developed on OSB.
 
-NeuroLex & NIF
---------------
+### NeuroLex & NIF
 
 ![](http://www.opensourcebrain.org/attachments/download/85/nifneurolex.png)
 
@@ -30,15 +24,13 @@ These references are currently used in many of the Theme Wiki pages (e.g. [here]
 
 See the [NIF and NeuroLex Showcase project](http://www.opensourcebrain.org/projects/nifshowcase) for more details.
 
-BioModels
----------
+### BioModels
 
 The [BioModels](http://www.ebi.ac.uk/biomodels-main/) database is a repository of peer-reviewed, published, computational models. We are working with the developers of this database to allow greater linking between models in these repositories.
 
 This work is chiefly taking place in the framework of the [COMBINE Network](http://co.mbine.org).
 
-NeuroElectro
-------------
+### NeuroElectro
 
 ![](/images/neuroelectro_logo.png):http://neuroelectro.org
 

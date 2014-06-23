@@ -1,6 +1,3 @@
-Frequently Asked Questions
---------------------------
-
 ### What is the motivation for the Open Source Brain repository?
 
 There are an increasing number of detailed single neuron and network models from various brain regions becoming available which encapsulate the latest data on anatomical and electrophysiological properties of the systems being investigated. These complex models take a long time to develop and are normally only available in one of many incompatible, simulator specific formats.

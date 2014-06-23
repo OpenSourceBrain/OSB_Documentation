@@ -1,5 +1,4 @@
 An overview of the main target simulators for models in OSB
------------------------------------------------------------
 
 **Note: not all simulators will be able to execute all models.** See [here](/status) for more information.
 
