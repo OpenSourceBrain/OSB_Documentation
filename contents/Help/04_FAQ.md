@@ -1,15 +1,3 @@
-### What is the motivation for the Open Source Brain repository?
-
-There are an increasing number of detailed single neuron and network models from various brain regions becoming available which encapsulate the latest data on anatomical and electrophysiological properties of the systems being investigated. These complex models take a long time to develop and are normally only available in one of many incompatible, simulator specific formats.
-
-The Open Source Brain repository (OSB) is a public repository for detailed neuronal models in standardised formats, with curated, stable releases which will evolve in line with new experimental findings, the latest modelling paradigms and simulator technology development.
-
-While the models can be collaboratively developed in any simulator format, the ultimate aim is to get as much of the model as possible into simulator independent formats like NeuroML and PyNN to ensure modularity, accessibility and cross simulator portability.
-
-![](http://www.neuroml.org/images/neuroml_logo/neuroml_small.png)
-
-There are a number of [Guides](/guides) available to further explain the functionality of OSB.
-
 ### What types of models can be developed?
 
 Models of information processing in the nervous system are created at many levels, from high level models of cognitive processes and consciousness to low level models of signal transduction at synapses. In the near term the **OSB will focus on spiking neuron models**, i.e. networks of individual neurons which communicate through sending events to synapses on target cells. The core set of models currently under development in the OSB are conductance based models of (often multicompartmental) neurons. This class of neuronal model is particularly suited to collaborative development, as models of channels and synapses, or whole cell models, are often reused between studies, and the models themselves are complex software entities. The focus of [NeuroML v1.x](http://www.neuroml.org/introduction.php) was on this type of model, but with [version 2.0](http://www.neuroml.org/neuroml2.php), support has been extended to more abstract neuron models (e.g. leaky integrate and fire, adaptive threshold models).
@@ -22,6 +10,22 @@ Yes! If the model is already published, please submit to [ModelDB](http://sensel
 
 If your model is not yet published but it still public (we salute you; you are [the future](http://www.openworm.org)) we’re very happy to have it, but would ask that you make sure the versions used in publications are archived in ModelDB.
 
+### I don't have my model in a public repository. Can I still create a project for my model?
+
+Yes! In order to create a project you only need a name. Anyway the more you define in your OSB project the more tools you can use in OSB. For instance by publish your model in a [repository](/doc/Help/Some_Extra_Information) and link it to your OSB projects you may look at it with the OSB EXplorer or use some validation tools.
+
+### Do I have to be registered for accessing OSB projects and tools?
+
+No. You can browse the OSB projects and use most of the OSB tools. However, if you would like to create your own project you should sign up. Besides, there are a few features which will not be available unless you are logged in.
+
+### How can I contribute?
+
+We are happy to hear from anyone interested in helping out with this initiative. We are particularly keen to get modellers or software developers in computational neuroscience involved.
+
+Please sign up [here](/account/register) to be part of OSB or [contact us directly](mailto:info@opensourcebrain.org) for more information. You can also sign up to the **[OSB Announce mailing list](https://groups.google.com/forum/#!forum/osb-announce)** to get updates of progress, or the **[OSB Discuss mailing list](https://groups.google.com/forum/#!forum/osb-discuss)** for more detailed discussions on the various projects on OSB. If you find an issue or you would like to request a feature, you can create a [new issue](https://github.com/OpenSourceBrain/redmine/issues/new) our [GitHub repository](https://github.com/OpenSourceBrain/redmine).
+
+Follow us on Twitter at [@OSBTeam](https://twitter.com/OSBTeam).
+
 ### Who’s behind it?
 
 This project was started in the [Silver Lab](http://www.ucl.ac.uk/silverlab) at UCL as part of a [Wellcome Trust](http://www.wellcome.ac.uk) funded project to encourage collaborative development of models in computational neuroscience.
@@ -29,6 +33,18 @@ This project was started in the [Silver Lab](http://www.ucl.ac.uk/silverlab) at 
 ![](http://www.neuroconstruct.org/images/wct.png)
 
 A number of research groups and organizations are currently involved in the Open Source Brain Initiative. See [here](/about) for more details.
+
+### What is the motivation for the Open Source Brain repository?
+
+There are an increasing number of detailed single neuron and network models from various brain regions becoming available which encapsulate the latest data on anatomical and electrophysiological properties of the systems being investigated. These complex models take a long time to develop and are normally only available in one of many incompatible, simulator specific formats.
+
+The Open Source Brain repository (OSB) is a public repository for detailed neuronal models in standardised formats, with curated, stable releases which will evolve in line with new experimental findings, the latest modelling paradigms and simulator technology development.
+
+While the models can be collaboratively developed in any simulator format, the ultimate aim is to get as much of the model as possible into simulator independent formats like NeuroML and PyNN to ensure modularity, accessibility and cross simulator portability.
+
+![](http://www.neuroml.org/images/neuroml_logo/neuroml_small.png)
+
+There are a number of [Guides](/guides) available to further explain the functionality of OSB.
 
 ### How is this related to other neuroinformatics initiatives?
 
@@ -41,11 +57,3 @@ See [here](http://www.opensourcebrain.org/projects/neuroinformatics/wiki/Wiki) f
 A number of the contributors to this initiative are involved with the various national nodes of the [INCF](http://www.incf.org).
 
 ![](/images/incf.png)
-
-### How can I contribute?
-
-We are happy to hear from anyone interested in helping out with this initiative. We are particularly keen to get modellers or software developers in computational neuroscience involved.
-
-Please sign up [here](/account/register) to be part of OSB or [contact us directly](mailto:info@opensourcebrain.org) for more information. You can also sign up to the **[OSB Announce mailing list](https://groups.google.com/forum/#!forum/osb-announce*) to get updates of progress, or the**[OSB Discuss mailing list](https://groups.google.com/forum/#!forum/osb-discuss*) for more detailed discussions on the various projects on OSB.
-
-Follow us on Twitter at [@OSBTeam](https://twitter.com/OSBTeam).

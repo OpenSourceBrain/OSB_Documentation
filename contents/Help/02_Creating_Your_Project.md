@@ -1,21 +1,19 @@
+### On ModelDB?
 
+First of all, if the model is published, please submit the original scripts to [ModelDB](http://senselab.med.yale.edu/ModelDB/default.asp*). This is the correct place for depositing models at the time of publication and should be the first port of call for anyone looking for scripts related to a publication in computational neuroscience.
 
-### Source Control
+Placing a model on OSB in addition to ModelDB is an indication that you wish to develop your (or other modellers’ publicly shared) models in an open source collaborative environment, to get help debugging/improving them, to convert them to simulator independent formats, and generally encourage wider reuse.
 
-Source or version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. It also prevents files from being altered by more than one person at a time.
+### Sign up to OSB
 
-#### Git
+Register as a user of OSB [here](/account/register). Add your GitHub username and [INCF user profile](http://incf.org/community/people) if you have one.
 
-[Git](http://git-scm.com/) is a distributed [version control system](http://en.wikipedia.org/wiki/Revision_control) (DVCS) with an emphasis on fast performance and nonlinear editing. Initially conceived in 2005 as a development tool for the Linux kernel codebase, it is as of 2014 one of the most widely adopted version control technologies. Git is free and open source and it has been designed to handle everything from small to very large projects with speed and efficiency.
+You should also add the URL of your project, software or lab. In the latter case, if the PI is in agreement, we can add the group to the list of [labs taking part in the OSB initiative](/about#who_about).
 
-##### Github
+### Share your code
 
-Born in 2008, [GitHub](https://github.com/) is now the largest open source code hosting service on the web, with more than [10 million repositories](https://github.com/blog/1724-10-million-repositories) as of January 2013. It offers free hosting for open source, public git repositories as well as paid-for hosting for private ones, and an array of powerful tools for [collaborative coding](https://github.com/features/projects) and social networking functionality such as feeds, followers, wikis, etc. It can be used via the web interface or standalone clients for [Mac](http://mac.github.com/), [Windows](http://windows.github.com/) and [mobile](http://mobile.github.com/) platforms.
+Create a new repository for your code on GitHub (see [here](/doc/Help/Some_Extra_Information) if want to know more about Source Code tecnologies and Git/GitHub). See the introduction to this on [GitHub help](https://help.github.com/articles/create-a-repo). You can use the short project name above for the repository name.
 
-Going through [this 15-minutes in-browser tutorial](http://try.github.com/levels/1/challenges/1) is the quickest way of getting started with Git and GitHub. Another good option is this [Hello World Guide for GitHub](https://guides.github.com/activities/hello-world/). [This screencast](http://www.ralfebert.de/blog/tools/git_screencast/) by Ralf Ebert is a good all-around introduction (especially if you are already familiar with version control systems), while for a more systematic treatment see the excellent [Pro Git](http://git-scm.com/book) book by Scott Chacon, available as part of the [official documentation](http://git-scm.com/doc) on Git’s website. The [Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) by Mark Lodato is very helpful when trying to understand some of the more advanced concepts.
+This can be hosted on the [OpenSourceBrain GitHub organisation](https://github.com/OpenSourceBrain), but there is no problem having it under your personal account. If you would like us to host the repository, <a href="mailto:info@opensourcebrain.org">let us know</a> and we’ll add the repository and give your GitHub user full access to it.
 
-While many people interact with Git repositories through the command line interface, graphical applications are becoming increasingly popular for managing multiple local and remote repositories. GitHub have useful GUIs for interacting with repos hosted there for [Windows](http://windows.github.com/) and [Mac](http://mac.github.com/). Alternatively, a more complex and general-purpose version control GUI is [SourceTree](http://sourcetreeapp.com/) (Windows and Mac).
-
-#### Alternative VCSs and hosting services
-
-While GitHub is the hosting service we (strongly) recommend for new users, for those with specific technical requirements Open Source Brain supports [Mercurial](http://mercurial.selenic.com/) repositories hosted on [Bitbucket](https://bitbucket.org/) (see for example project:destexhe\_jcns\_2009) and self-hosted SVN/Git/Mercurial/Bazaar public repositories.
+Note, you can also get in contact on info@opensourcebrain.org to discuss with us about setting up the project for you.

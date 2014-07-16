@@ -6,9 +6,9 @@ To get in contact with the whole OSB community see the [OSB discuss](https://gro
 
 ### Report a bug / Request a feature
 
-To report an issue or request a feature with the OSB website, create a [new issue](http://www.opensourcebrain.org/projects/osb/issues/new) on the main project: project:osb.
+To report an issue or request a feature with the OSB website, create a [new issue](https://github.com/OpenSourceBrain/redmine/issues/new) on our [GitHub repository](https://github.com/OpenSourceBrain/redmine). Keep in mind that you need a GitHub user to do so.
 
-Note that you will have to [register](/account/register) and be logged in to create a new issue.
+Note that you will have to [register](https://github.com/join) and be [logged in](https://github.com/login) GitHub to create a new issue.
 
 ### Follow us on Twitter at @OSBTeam
 

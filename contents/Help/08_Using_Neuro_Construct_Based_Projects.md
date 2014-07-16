@@ -38,7 +38,7 @@ without Ant.
 
 ### Install your simulator(s) of choice
 
-More details on the simulators supported by OSB can be found here: osbDoc:07_simulators.
+More details on the simulators supported by OSB can be found <a href="/doc#Simulators">here</a>.
 
 ### Get a local copy of one of the neuroConstruct based projects
 
