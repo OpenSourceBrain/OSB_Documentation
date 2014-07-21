@@ -16,6 +16,20 @@ While many people interact with Git repositories through the command line interf
 
 Born in 2008, [GitHub](https://github.com/) is now the largest open source code hosting service on the web, with more than [10 million repositories](https://github.com/blog/1724-10-million-repositories) as of January 2013. It offers free hosting for open source, public git repositories as well as paid-for hosting for private ones, and an array of powerful tools for [collaborative coding](https://github.com/features/projects) and social networking functionality such as feeds, followers, wikis, etc. It can be used via the web interface or standalone clients for [Mac](http://mac.github.com/), [Windows](http://windows.github.com/) and [mobile](http://mobile.github.com/) platforms.
 
+### Graphical clients for Windows and Mac
+
+While many people interact with Git repositories through the command line interface, graphical applications are becoming increasingly popular for managing multiple local and remote repositories. GitHub have useful GUIs for interacting with repos hosted there for [Windows](http://windows.github.com/):
+
+![](/attachments/download/48/GuiWin.png)
+
+and [Mac](http://mac.github.com/):
+
+![](/attachments/download/47/GuiMac.png)
+
+Alternatively, a more complex and general-purpose version control GUI is [SourceTree](http://sourcetreeapp.com/) (Windows and Mac):
+
+![](/attachments/download/59/SourceTree.png)
+
 
 #### Alternative Version Control System (VCSs) and hosting services
 

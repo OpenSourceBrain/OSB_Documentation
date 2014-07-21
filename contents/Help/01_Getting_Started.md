@@ -1,19 +1,10 @@
 ### Browse the projects available so far
 
-This is a quick video where we show some tools you can use for browsing through the projects.
+This is a quick video where we show some tools you can use for browsing the projects.
 
-video:toolToNavigateExplorer.mp4@osbDoc
+<iframe src="http://wl.figshare.com/articles/1112432/embed?show_title=0" width="568" height="502" frameborder="0"></iframe>
 
 ### Choose one of the projects
-
-TODO: An overview of the project sections
-
-TODO: Video showing the 3D explorer
-
-TODO: Video showing wiki functions
-
-[Granule Cell Layer](/projects/grancelllayer)
-
 
 For example [GranCellSolinasEtAl10](/projects/grancellsolinasetal10) - Granule Cell by Solinas et al. 2010
 
@@ -21,7 +12,10 @@ This project contains a single compartment model of a cerebellar granule cell. T
 
 See [here](/doc#Using_Neuro_Construct_Based_Projects) for info on using the neuroConstruct GUI with OSB projects.
 
-neuroConstruct projects can be translated into HTML descriptions of the model elements. See [here](/embedded/grancellsolinasetal10) for an example.
+Here you can find a brief video showing what you can do by using the OSB Explorer>
+
+<iframe src="http://wl.figshare.com/articles/1112447/embed?show_title=0" width="568" height="502" frameborder="0"></iframe>
+
 
 ### Clone the project for your own local copy
 

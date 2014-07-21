@@ -16,4 +16,19 @@ Create a new repository for your code on GitHub (see [here](/doc/Help/Some_Extra
 
 This can be hosted on the [OpenSourceBrain GitHub organisation](https://github.com/OpenSourceBrain), but there is no problem having it under your personal account. If you would like us to host the repository, <a href="mailto:info@opensourcebrain.org">let us know</a> and we’ll add the repository and give your GitHub user full access to it.
 
-Note, you can also get in contact on info@opensourcebrain.org to discuss with us about setting up the project for you.
+### Create a new OSB project
+
+Go to http://www.opensourcebrain.org when you’re logged in. There should be a green button on the top right for adding a new project.
+
+![](https://github.com/OpenSourceBrain/OSB_Documentation/resources/images/NewProject.png)
+
+Enter the long name of the project (can be edited later), the short ID, a description of the project and the path to the GitHub repository. If the code is not on GitHub yet, or if you host it elsewhere leave this blank. The repository URL can be added manually at a later point.
+
+### Write your documentation
+
+
+### Say hello…
+
+Now is a good time to drop us a line on info@opensourcebrain.org, and let us know your plans for what you’d like to get out of OSB. We’re always happy to hear from new users.
+
+**Note, you can also get in contact on info@opensourcebrain.org to discuss with us about setting up the project for you.**
