@@ -20,11 +20,88 @@ This can be hosted on the [OpenSourceBrain GitHub organisation](https://github.c
 
 Go to http://www.opensourcebrain.org when you’re logged in. There should be a green button on the top right for adding a new project.
 
-![](https://github.com/OpenSourceBrain/OSB_Documentation/resources/images/NewProject.png)
+![](https://raw.githubusercontent.com/OpenSourceBrain/OSB_Documentation/master/resources/images/NewProject.png)
 
 Enter the long name of the project (can be edited later), the short ID, a description of the project and the path to the GitHub repository. If the code is not on GitHub yet, or if you host it elsewhere leave this blank. The repository URL can be added manually at a later point.
 
-### Write your documentation
+### Write your documentation/wiki
+
+OSB documentation may be generated using [Markdown format syntax](https://daringfireball.net/projects/markdown/basics) and some further Redmine and OSB clauses (See bellow for further information). Note Markdown allows using most html syntax (i.e. videos...). In order to be as compatible as possible with GitHub wikis OSB uses [GitHub Flavored Markdown](https://help.github.com/articles/markdown-basics). You can find a cheatsheet [here](http://127.0.0.1:3000/help/en/wiki_markdown_syntax.html).  
+
+We describe briefly some OSB/Redmine functions to facilitate the doc generation process
+
+#### Reference to a Repository file. 
+
+You can point to any file (markdown or plain text) in your GitHub or Bitbucket repository (the repository set in your project). We will retrieve the file content and display in OSB.
+
+<code>github:[path]
+bitbucket:[path]</code>
+
+###### Example: 
+<code>github:help/readme.md
+bitbucket:help.txt
+</code>
+
+
+#### Reference to pubmed publication: 
+
+<code>pubmed:[publicationID]
+</code>
+
+###### Example: 
+
+<code>pubmed:17442244
+</code> 
+
+This syntax will generate a reference link like this:
+pubmed:17442244
+
+and a bibliography section will be automatically generated at the bottom of the page. This section will summarize all the references using the following format:
+
+Gleeson P,			Steuber V and 			Silver RA,
+<i><a href="http://www.ncbi.nlm.nih.gov/pubmed/17442244">neuroConstruct: a tool for modeling networks of neurons in 3D space.</a></i> Neuron, 2007, 54(2): 219-35 
+
+#### Create a formula
+
+You can wrte formulas in your documentation using the latex syntax. You only need to enclose you formula like this:
+
+<code>{{latex(formula)}}
+</code>
+
+###### Example:
+
+<code>{{latex(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})}}
+</code>
+
+This will automatically generate the following image using the [google chart API](https://developers.google.com/chart/infographics/docs/formulas): 
+![](https://raw.githubusercontent.com/OpenSourceBrain/OSB_Documentation/master/resources/images/formula.png)
+
+#### Link to Wiki page
+
+If you want to link to other wiki page:
+
+<code>[[Wiki page]]
+</code>
+
+<a href="#">Wiki page</a>
+
+#### Link to an Issue
+
+If you want to link to an issue in your project:
+
+<code>Issue #12
+</code>
+
+Issue <a href="#">#12</a>
+
+#### Link to a Commit
+
+If you want to link to a commit in your repository:
+
+<code>commit:f30e13e43
+</code>
+
+<a href="#">f30e13e4</a>
 
 
 ### Say hello…
