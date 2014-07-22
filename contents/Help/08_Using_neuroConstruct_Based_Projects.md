@@ -14,7 +14,7 @@ More details on the simulators supported by OSB can be found <a href="/doc#Simul
 
 Check out a local copy of one of the projects, e.g. project:granulecell
 
-git clone https://github.com/OpenSourceBrain/GranuleCell.git
+    git clone https://github.com/OpenSourceBrain/GranuleCell.git
 
 Run neuroConstruct as outlined above.
 
