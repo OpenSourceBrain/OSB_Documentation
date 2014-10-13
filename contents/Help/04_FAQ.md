@@ -12,7 +12,7 @@ If your model is not yet published but it still public (we salute you; you are [
 
 ### I don't have my model in a public repository. Can I still create a project for my model?
 
-Yes! In order to create a project you only need a name. Anyway the more you define in your OSB project the more tools you can use in OSB. For instance by publish your model in a [repository](/doc/Help/Some_Extra_Information) and link it to your OSB projects you may look at it with the OSB EXplorer or use some validation tools.
+Yes! In order to create a project you only need a name. Anyway the more you define in your OSB project the more tools you can use in OSB. For instance by publish your model in a [repository](/docs/Help/Some_Extra_Information) and link it to your OSB projects you may look at it with the OSB EXplorer or use some validation tools.
 
 ### Do I have to be registered for accessing OSB projects and tools?
 

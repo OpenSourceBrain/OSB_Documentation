@@ -8,7 +8,7 @@ Get the latest version of Git (see [here](http://www.opensourcebrain.org/project
 
 ### Install your simulator(s) of choice
 
-More details on the simulators supported by OSB can be found <a href="/doc#Simulators">here</a>.
+More details on the simulators supported by OSB can be found <a href="/docs#Simulators">here</a>.
 
 ### Get a local copy of one of the neuroConstruct based projects
 

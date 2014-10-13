@@ -12,7 +12,7 @@ You should also add the URL of your project, software or lab. In the latter case
 
 ### Share your code
 
-Create a new repository for your code on GitHub (see [here](/doc/Help/Some_Extra_Information) if want to know more about Source Code tecnologies and Git/GitHub). See the introduction to this on [GitHub help](https://help.github.com/articles/create-a-repo). You can use the short project name above for the repository name.
+Create a new repository for your code on GitHub (see [here](/docs/Help/Some_Extra_Information) if want to know more about Source Code tecnologies and Git/GitHub). See the introduction to this on [GitHub help](https://help.github.com/articles/create-a-repo). You can use the short project name above for the repository name.
 
 This can be hosted on the [OpenSourceBrain GitHub organisation](https://github.com/OpenSourceBrain), but there is no problem having it under your personal account. If you would like us to host the repository, <a href="mailto:info@opensourcebrain.org">let us know</a> and we’ll add the repository and give your GitHub user full access to it.
 

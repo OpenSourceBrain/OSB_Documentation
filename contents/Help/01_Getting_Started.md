@@ -10,7 +10,7 @@ For example [GranCellSolinasEtAl10](/projects/grancellsolinasetal10) - Granule C
 
 This project contains a single compartment model of a cerebellar granule cell. This, like many other projects is based on a [neuroConstruct](http://www.neuroConstruct.org) project containing the NeuroML elements of the model. neuroConstruct can facilitate generating code for running the model in simulators like NEURON & MOOSE.
 
-See [here](/doc#Using_Neuro_Construct_Based_Projects) for info on using the neuroConstruct GUI with OSB projects.
+See [here](/docs#Using_Neuro_Construct_Based_Projects) for info on using the neuroConstruct GUI with OSB projects.
 
 Here you can find a brief video showing what you can do by using the OSB Explorer>
 
@@ -19,7 +19,7 @@ Here you can find a brief video showing what you can do by using the OSB Explore
 
 ### Clone the project for your own local copy
 
-If you do not know what is Git and GitHub click [here](/doc/Help/Some_Extra_Information) for a quick explanation and some useful links. 
+If you do not know what is Git and GitHub click [here](/docs/Help/Some_Extra_Information) for a quick explanation and some useful links. 
 
 The previous projects can be clone using the following commands: 
 
@@ -29,4 +29,4 @@ The previous projects can be clone using the following commands:
 
 If the project contains a neuroConstruct project to facilitate generating scripts for multiple simulators (it contains a **neuroConstruct** directory), see here: project:neuroconstructprojects.
 
-### [Now it is time to create your own project!!!](/doc#Creating_Your_Project)
+### [Now it is time to create your own project!!!](/docs#Creating_Your_Project)
