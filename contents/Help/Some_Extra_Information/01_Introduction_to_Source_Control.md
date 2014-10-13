@@ -20,16 +20,15 @@ Born in 2008, [GitHub](https://github.com/) is now the largest open source code 
 
 While many people interact with Git repositories through the command line interface, graphical applications are becoming increasingly popular for managing multiple local and remote repositories. GitHub have useful GUIs for interacting with repos hosted there for [Windows](http://windows.github.com/):
 
-![](/attachments/download/48/GuiWin.png)
+![](https://raw.githubusercontent.com/OpenSourceBrain/OSB_Documentation/master/resources/images/GuiWin.png)
 
 and [Mac](http://mac.github.com/):
 
-![](/attachments/download/47/GuiMac.png)
+![](https://raw.githubusercontent.com/OpenSourceBrain/OSB_Documentation/master/resources/images/GuiMac.png)
 
 Alternatively, a more complex and general-purpose version control GUI is [SourceTree](http://sourcetreeapp.com/) (Windows and Mac):
 
-![](/attachments/download/59/SourceTree.png)
-
+![](https://raw.githubusercontent.com/OpenSourceBrain/OSB_Documentation/master/resources/images/SourceTree.png)
 
 #### Alternative Version Control System (VCSs) and hosting services
 
