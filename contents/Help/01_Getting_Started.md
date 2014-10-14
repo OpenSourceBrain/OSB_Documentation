@@ -1,6 +1,6 @@
-### Browse the projects available so far
+### Browse the projects currently available on OSB
 
-This is a quick video where we show some tools you can use for browsing the projects.
+This is a quick video where we show some of the tools you can use for browsing the projects on OSB.
 
 <iframe src="http://wl.figshare.com/articles/1112432/embed?show_title=0" width="568" height="502" frameborder="0"></iframe>
 
