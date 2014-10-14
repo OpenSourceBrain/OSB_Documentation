@@ -39,19 +39,16 @@ bitbucket:[path]</code>
 
 ###### Example: 
 <code>github:help/readme.md
-bitbucket:help.txt
-</code>
+bitbucket:help.txt</code>
 
 
 #### Reference to pubmed publication: 
 
-<code>pubmed:[publicationID]
-</code>
+<code>pubmed:[publicationID]</code>
 
 ###### Example: 
 
-<code>pubmed:17442244
-</code> 
+<code>pubmed:17442244</code> 
 
 This syntax will generate a reference link like this:
 pubmed:17442244
@@ -65,8 +62,7 @@ Gleeson P,			Steuber V and 			Silver RA,
 
 You can wrte formulas in your documentation using the latex syntax. You only need to enclose you formula like this:
 
-<code>{{latex(formula)}}
-</code>
+<code>{{latex(formula)}}</code>
 
 ###### Example:
 
@@ -80,8 +76,7 @@ This will automatically generate the following image using the [google chart API
 
 If you want to link to other wiki page:
 
-<code>[[Wiki page]]
-</code>
+<code>[[Wiki page]]</code>
 
 <a href="#">Wiki page</a>
 
@@ -89,8 +84,7 @@ If you want to link to other wiki page:
 
 If you want to link to an issue in your project:
 
-<code>Issue #12
-</code>
+<code>Issue #12</code>
 
 Issue <a href="#">#12</a>
 
@@ -98,8 +92,7 @@ Issue <a href="#">#12</a>
 
 If you want to link to a commit in your repository:
 
-<code>commit:f30e13e43
-</code>
+<code>commit:f30e13e43</code>
 
 <a href="#">f30e13e4</a>
 
