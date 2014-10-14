@@ -2,7 +2,7 @@
 
 First of all, if the model is published, please submit the original scripts to [ModelDB](http://senselab.med.yale.edu/ModelDB/default.asp*). This is the correct place for depositing models at the time of publication and should be the first port of call for anyone looking for scripts related to a publication in computational neuroscience.
 
-Placing a model on OSB in addition to ModelDB is an indication that you wish to develop your (or other modellers’ publicly shared) models in an open source collaborative environment, to get help debugging/improving them, to convert them to simulator independent formats, and generally encourage wider reuse.
+Placing a model on OSB after submission to ModelDB is an indication that you wish to develop your (or other modellers’ publicly shared) models in an open source collaborative environment, to get help debugging/improving them, to convert them to simulator independent formats, and generally encourage wider reuse.
 
 ### Sign up to OSB
 
@@ -12,9 +12,9 @@ You should also add the URL of your project, software or lab. In the latter case
 
 ### Share your code
 
-Create a new repository for your code on GitHub (see [here](/docs/Help/Some_Extra_Information) if want to know more about Source Code tecnologies and Git/GitHub). See the introduction to this on [GitHub help](https://help.github.com/articles/create-a-repo). You can use the short project name above for the repository name.
+Create a new repository for your code on GitHub (see [here](/docs/Help/Some_Extra_Information) if want to know more about Source Code technologies and Git/GitHub). See the introduction to this on [GitHub help](https://help.github.com/articles/create-a-repo). 
 
-This can be hosted on the [OpenSourceBrain GitHub organisation](https://github.com/OpenSourceBrain), but there is no problem having it under your personal account. If you would like us to host the repository, <a href="mailto:info@opensourcebrain.org">let us know</a> and we’ll add the repository and give your GitHub user full access to it.
+The repository can be hosted on the [OpenSourceBrain GitHub organisation](https://github.com/OpenSourceBrain), but there is no problem having it under your personal account. If you would like us to host the repository, <a href="mailto:info@opensourcebrain.org">let us know</a> and we’ll add the repository and give your GitHub user full access to it.
 
 ### Create a new OSB project
 
@@ -26,7 +26,7 @@ Enter the long name of the project (can be edited later), the short ID, a descri
 
 ### Write your documentation/wiki
 
-OSB documentation may be generated using [Markdown format syntax](https://daringfireball.net/projects/markdown/basics) and some further Redmine and OSB clauses (See bellow for further information). Note Markdown allows using most html syntax (i.e. videos...). In order to be as compatible as possible with GitHub wikis OSB uses [GitHub Flavored Markdown](https://help.github.com/articles/markdown-basics). You can find a cheatsheet [here](http://127.0.0.1:3000/help/en/wiki_markdown_syntax.html).  
+OSB documentation is written in [Markdown format syntax](https://daringfireball.net/projects/markdown/basics), together with some further Redmine and OSB specific additions (See below for further information). Note Markdown allows you to include most HTML syntax (i.e. videos...). In order to be as compatible as possible with GitHub wikis, OSB uses [GitHub Flavored Markdown](https://help.github.com/articles/markdown-basics). You can find a cheatsheet [here](/help/en/wiki_markdown_syntax.html).  
 
 We describe briefly some OSB/Redmine functions to facilitate the doc generation process
 
