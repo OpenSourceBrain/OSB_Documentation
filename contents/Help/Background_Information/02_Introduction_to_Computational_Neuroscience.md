@@ -12,7 +12,7 @@ Some information for newcomers to computational neuroscience
 
 #### Organisations
 
-OCNS
+OCNS...
 
 #### Online courses
 
@@ -21,4 +21,3 @@ OCNS
 #### Other resources
 
 ....
- 
