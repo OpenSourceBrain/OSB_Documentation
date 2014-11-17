@@ -37,7 +37,7 @@ You can point to any file (markdown or plain text) in your GitHub or Bitbucket r
 <code>github:[path]</code>
 <code>bitbucket:[path]</code> 
 
-This will retrieve the file content and display it in the OSB wiki page. This allows a single file in your repo (e.g. the main README) to be the master copy of the documentation for your project.
+This will retrieve the file content and display it in the OSB wiki page. This allows a single file in your repo (e.g. the main README) to be the master copy of the documentation for your project, and to make that accessible to someone browsing the project on OSB.
 
 ###### Example: 
 <code>github:help/readme.md</code>
@@ -62,7 +62,7 @@ Gleeson P,			Steuber V and 			Silver RA,
 
 #### Create a formula
 
-You can wrte formulas in your documentation using the latex syntax. You only need to enclose you formula like this:
+You can wrte formulas in your documentation using the LaTeX syntax. You only need to enclose you formula like this:
 
 <code>{{latex(formula)}}</code>
 
@@ -103,4 +103,3 @@ If you want to link to a commit in your repository:
 
 Now is a good time to drop us a line on info@opensourcebrain.org, and let us know your plans for what you’d like to get out of OSB. We’re always happy to hear from new users.
 
-**Note, you can also get in contact on info@opensourcebrain.org to discuss with us about setting up the project for you.**
