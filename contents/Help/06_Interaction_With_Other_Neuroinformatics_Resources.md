@@ -2,7 +2,7 @@ Below is a list of some important resources in the neuroinformatics, computation
 
 ### ModelDB
 
-[ModelDB](http://senselab.med.yale.edu/ModelDB/) is a curated database of published models in computational neuroscience. This has been the primary source for most of the original simulator scripts on which the models in OSB are based. Where appropriate OSB models will link back to the original published models on ModelDB.
+[ModelDB](http://senselab.med.yale.edu/ModelDB/) is a curated database of published models in computational neuroscience. This has been the primary source for most of the original simulator scripts on which the models in OSB are based. Where appropriate, OSB models will link back to the original published models on ModelDB.
 
 Greater links are planned between these resources in the future to facilitate finding original model scripts (in a simulator specific format) and updated versions (in a standardized format) which have been extended/improved/used in other modeling studies.
 
