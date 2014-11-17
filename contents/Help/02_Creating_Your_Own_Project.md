@@ -1,6 +1,6 @@
-### On ModelDB?
+### Is your model on ModelDB?
 
-First of all, if the model is published, please submit the original scripts to [ModelDB](http://senselab.med.yale.edu/ModelDB/default.asp*). This is the correct place for depositing models at the time of publication and should be the first port of call for anyone looking for scripts related to a publication in computational neuroscience.
+First of all, if the model is published, **please submit the original scripts to [ModelDB](http://senselab.med.yale.edu/ModelDB/default.asp*)**. This is the correct place for depositing models at the time of publication and should be the first port of call for anyone looking for scripts related to a publication in computational neuroscience.
 
 Placing a model on OSB after submission to ModelDB is an indication that you wish to develop your (or other modellers’ publicly shared) models in an open source collaborative environment, to get help debugging/improving them, to convert them to simulator independent formats, and generally encourage wider reuse.
 
@@ -8,11 +8,11 @@ Placing a model on OSB after submission to ModelDB is an indication that you wis
 
 Register as a user of OSB [here](/account/register). Add your GitHub username and [INCF user profile](http://incf.org/community/people) if you have one.
 
-You should also add the URL of your project, software or lab. In the latter case, if the PI is in agreement, we can add the group to the list of [labs taking part in the OSB initiative](/about#who_about).
+You should also add the URL of your project, software or lab. In the latter case, if the PI is in agreement, we can add the group to the list of [labs taking part in the OSB initiative](/about#who_about). Please send a mail to info@opensourcebrain.org if you are interested in that.
 
 ### Share your code
 
-Create a new repository for your code on GitHub (see [here](/docs/Help/Some_Extra_Information) if want to know more about Source Code technologies and Git/GitHub). See the introduction to this on [GitHub help](https://help.github.com/articles/create-a-repo). 
+Create a new repository for your code on GitHub (see [here](/docs/Help/Some_Extra_Information) if want to know more about Source Code technologies and Git/GitHub). See the introduction to creating a new repository on [GitHub help](https://help.github.com/articles/create-a-repo). 
 
 The repository can be hosted on the [OpenSourceBrain GitHub organisation](https://github.com/OpenSourceBrain), but there is no problem having it under your personal account. If you would like us to host the repository, <a href="mailto:info@opensourcebrain.org">let us know</a> and we’ll add the repository and give your GitHub user full access to it.
 
@@ -22,24 +22,26 @@ Go to http://www.opensourcebrain.org when you’re logged in. There should be a 
 
 ![](https://raw.githubusercontent.com/OpenSourceBrain/OSB_Documentation/master/resources/images/NewProject.png)
 
-Enter the long name of the project (can be edited later), the short ID, a description of the project and the path to the GitHub repository. If the code is not on GitHub yet, or if you host it elsewhere leave this blank. The repository URL can be added manually at a later point.
+Enter the long name of the project (this can be edited later), the short ID (this can't be changed), a description of the project and the path to the GitHub repository. If the code is not on GitHub yet, or if you host it elsewhere leave this blank. The repository URL can be added manually at a later point.
 
 ### Write your documentation/wiki
 
 OSB documentation is written in [Markdown format syntax](https://daringfireball.net/projects/markdown/basics), together with some further Redmine and OSB specific additions (See below for further information). Note Markdown allows you to include most HTML syntax (i.e. videos...). In order to be as compatible as possible with GitHub wikis, OSB uses [GitHub Flavored Markdown](https://help.github.com/articles/markdown-basics). You can find a cheatsheet [here](/help/en/wiki_markdown_syntax.html).  
 
-We describe briefly some OSB/Redmine functions to facilitate the doc generation process
+We describe briefly below some OSB/Redmine features to enhance wiki pages on OSB.
 
 #### Reference to a Repository file. 
 
-You can point to any file (markdown or plain text) in your GitHub or Bitbucket repository (the repository set in your project). We will retrieve the file content and display in OSB.
+You can point to any file (markdown or plain text) in your GitHub or Bitbucket repository (the repository used in your project).
 
-<code>github:[path]
-bitbucket:[path]</code>
+<code>github:[path]</code>
+<code>bitbucket:[path]</code> 
+
+This will retrieve the file content and display it in the OSB wiki page. This allows a single file in your repo (e.g. the main README) to be the master copy of the documentation for your project.
 
 ###### Example: 
-<code>github:help/readme.md
-bitbucket:help.txt</code>
+<code>github:help/readme.md</code>
+<code>bitbucket:help.txt</code>
 
 
 #### Reference to pubmed publication: 
