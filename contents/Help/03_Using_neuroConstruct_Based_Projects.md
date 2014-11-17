@@ -4,7 +4,7 @@ A number of the projects on the OSB are based on [neuroConstruct](http://www.neu
 
 First, get the latest version of neuroConstruct. While there are binary installers available on the neuroConstruct download page, it’s best to **use the latest version of this application from GitHub**, as this will most likely be the version in which the projects on OSB were last saved.
 
-Get the latest version of Git (see [here](http://www.opensourcebrain.org/projects/gitintro/wiki/Wiki)). Detailed instructions for installing neuroConstruct from source can be found [here](https://github.com/NeuralEnsemble/neuroConstruct/blob/master/INSTALL).
+Get the latest version of Git (see [here](http://www.opensourcebrain.org/projects/gitintro/wiki/Wiki) for more about Git). Detailed instructions for installing neuroConstruct from source can be found [here](https://github.com/NeuralEnsemble/neuroConstruct/blob/master/INSTALL).
 
 ### Install your simulator(s) of choice
 
@@ -16,11 +16,11 @@ Check out a local copy of one of the projects, e.g. project:granulecell
 
     git clone https://github.com/OpenSourceBrain/GranuleCell.git
 
-Run neuroConstruct as outlined above.
+Run neuroConstruct as outlined in the installation instructions.
 
-Go to **File**, then **Open Project…** and select **GranuleCell/neuroConstruct/GranuleCell.ncx**.
+Go to **File**, then **Open Project…**, go to the folder you installed the project in and select **GranuleCell/neuroConstruct/GranuleCell.ncx**.
 Go to tab **Generate** and press **Generate Cell Positions and Connections**.
-Go to tab **Export** and then the tab for your chosen simulator, press **Create XXX files**, then **Run XXX simulation**.
+Go to tab **Export** and then the tab for your chosen simulator (e.g. NEURON), press **Create XXX files**, then **Run XXX simulation**.
 For more details on the interaction of neuroConstruct with these simulators see [here](http://www.neuroconstruct.org/docs/interact.html).
 
 ### Get all of the neuroConstruct based projects on OSB
