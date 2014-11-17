@@ -1,5 +1,5 @@
 
-### What is the motivation for the Open Source Brain repository?
+### What is the motivation behind the Open Source Brain repository?
 
 There are an increasing number of detailed single neuron and network models from various brain regions becoming available which encapsulate the latest data on anatomical and electrophysiological properties of the systems being investigated (e.g. on [ModelDB](http://senselab.med.yale.edu/ModelDB/default.asp*)). These complex models take a long time to develop and are normally only available in one of many incompatible, simulator specific formats.
 
@@ -35,23 +35,23 @@ A number of the contributors to this initiative are involved with the various na
 
 ### What types of models can be developed?
 
-Models of information processing in the nervous system are created at many levels, from high level models of cognitive processes and consciousness to low level models of signal transduction at synapses. In the near term the **OSB will focus on spiking neuron models**, i.e. networks of individual neurons which communicate through sending events to synapses on target cells. The core set of models currently under development in the OSB are conductance based models of (often multicompartmental) neurons. This class of neuronal model is particularly suited to collaborative development, as models of channels and synapses, or whole cell models, are often reused between studies, and the models themselves are complex software entities. The focus of [NeuroML v1.x](http://www.neuroml.org/introduction.php) was on this type of model, but with [version 2.0](http://www.neuroml.org/neuroml2.php), support has been extended to more abstract neuron models (e.g. leaky integrate and fire, adaptive threshold models).
+Models of information processing in the nervous system are created at many levels, from high level models of cognitive processes and consciousness to low level models of signal transduction at synapses. In the short to medium term **OSB will focus on spiking neuron models**, i.e. networks of individual neurons which communicate through sending events to synapses on target cells. The core set of models currently under development in the OSB are conductance based models of (often multicompartmental) neurons. This class of neuronal model is particularly suited to collaborative development, as models of channels and synapses, or whole cell models, are often reused between studies, and the models themselves are complex software entities. The focus of [NeuroML v1.x](http://www.neuroml.org/introduction.php) was on this type of model, but with [version 2.0](http://www.neuroml.org/neuroml2.php), support has been extended to more abstract neuron models (e.g. leaky integrate and fire, adaptive threshold models).
 
 While converting the model components to NeuroML will be a key step towards increasing model transparency and accessibility and making them available for use on multiple simulators, other cross platform technologies will be used to assist model portability. Python is a scripting language commonly used in computational neuroscience and has been adopted by a number of the target simulators for OSB models. [PyNN](http://neuralensemble.org/PyNN) is a Python package for simulator independent specification of neuronal network models, and will be useful for procedural specification of complex network structures. The Simulation Experiment Description Markup Language ([SED-ML](http://sed-ml.org/)) will be used for specifying settings for running simulations of the models. Mappings of the model components in OSB to other structured languages in computational biology will be supported too where appropriate, such as [SBML](http://www.sbml.org), [CellML](http://www.cellml.org/) and [NineML](http://software.incf.org/software/nineml).
 
 ### My model’s only available in simulator X, not NeuroML/PyNN. Can I still share it on OSB?
 
-Yes! If the model is already published, please submit to [ModelDB](http://senselab.med.yale.edu/modeldb) first. On OSB we are happy to point to public repositories with the latest version of the code in any format, and have a link to the version on ModelDB. However, some of the advanced features of OSB will only be available if (parts of) the model are converted to NeuroML.
+Yes! **If the model is already published, please submit to [ModelDB](http://senselab.med.yale.edu/modeldb) first**. On OSB we are happy to point to public repositories with the latest version of the code in any format, and have a link to the version on ModelDB. However, some of the advanced features of OSB will only be available if (parts of) the model are converted to NeuroML.
 
 If your model is not yet published but it still public (we salute you; you are [the future](http://www.openworm.org)) we’re very happy to have it, but would ask that you make sure the versions used in publications are archived in ModelDB.
 
 ### I don't have my model in a public repository. Can I still create a project for my model?
 
-Yes! In order to create a project you only need a name. Anyway the more you define in your OSB project the more tools you can use in OSB. For instance by publish your model in a [repository](/docs/Help/Some_Extra_Information) and link it to your OSB projects you may look at it with the OSB EXplorer or use some validation tools.
+Yes! In order to create a project you only need a name. The more you add to your OSB project the more tools you can use in OSB. For instance by publish your model in a [repository](/docs/Help/Some_Extra_Information) and link it to your OSB projects you may look at it with the OSB Explorer or use some of the validation tools.
 
 ### Do I have to be registered for accessing OSB projects and tools?
 
-No. You can browse the OSB projects and use most of the OSB tools. However, if you would like to create your own project you should sign up. Besides, there are a few features which will not be available unless you are logged in.
+No. You can browse the OSB projects and use most of the OSB tools. However, if you would like to create your own project you should sign up. 
 
 ### How can I contribute?
 
