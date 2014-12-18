@@ -12,20 +12,20 @@ Here you can find a video showing how you can use the OSB Explorer to visualise 
 
 ### Browse one of the projects
 
-To get a feel for what a typical project on OSB contains, have a look through [GranCellSolinasEtAl10](/projects/grancellsolinasetal10) - Granule Cell by Solinas et al. 2010
+To get a feel for what a typical project on OSB contains, have a look through [GranCellSolinasEtAl10](http://www.opensourcebrain.org/projects/grancellsolinasetal10) - Granule Cell by Solinas et al. 2010
 
 This project contains a single compartment model of a cerebellar granule cell. This, like many other projects is based on a [neuroConstruct](http://www.neuroConstruct.org) project containing the NeuroML elements of the model. neuroConstruct can facilitate generating code for running the model in simulators like NEURON & MOOSE.
 
 
 ### Clone a project for your own local copy
 
-If you're not familiar with Git or GitHub click [here](/docs/Help/Some_Extra_Information) for a quick explanation and some useful links. 
+If you're not familiar with Git or GitHub click [here](http://www.opensourcebrain.org/docs/Help/Background_Information#Introduction_to_Source_Control) for a quick explanation and some useful links. 
 
 The project mentioned above can be cloned using the following command: 
 
 `git clone git://github.com/OpenSourceBrain/GranCellSolinasEtAl10.git`
 
 
-If the project contains a neuroConstruct project to facilitate generating scripts for multiple simulators (it contains a **neuroConstruct** directory), see [here](/docs#Using_Neuro_Construct_Based_Projects).
+If the project contains a neuroConstruct project to facilitate generating scripts for multiple simulators (it contains a **neuroConstruct** directory), see [here](http://www.opensourcebrain.org/docs#Using_neuroConstruct_Based_Projects).
 
-### [Now it's time to create your own project!](/docs#Creating_Your_Project)
+### [Now it's time to create your own project!](http://www.opensourcebrain.org/docs#Creating_Your_Own_Project)
