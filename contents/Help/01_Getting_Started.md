@@ -28,4 +28,4 @@ The project mentioned above can be cloned using the following command:
 
 If the project contains a neuroConstruct project to facilitate generating scripts for multiple simulators (it contains a **neuroConstruct** directory), see [here](http://www.opensourcebrain.org/docs#Using_neuroConstruct_Based_Projects).
 
-### [Now it's time to create your own project!](http://www.opensourcebrain.org/docs#Creating_Your_Own_Project)
+### [Now it's time to create your own project!](http://127.0.0.1:3000/docs#Creating_Your_Own_Project)
