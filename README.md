@@ -1,9 +1,9 @@
 OSB Documentation
 =================
 
-Documentation and help for the OSB iniative.
+Documentation and help for the OSB initiative.
 
-The contents of this repository are used to generate http://opensourcebrain.org/docs.
+The contents of this repository are used to automatically generate http://opensourcebrain.org/docs.
 
 Feel free to [fork this repository](https://github.com/OpenSourceBrain/OSB_Documentation/fork), update the documentation and create a pull request.
 
