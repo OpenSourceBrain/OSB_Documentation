@@ -27,6 +27,6 @@ This feature was used to extract a number of cell models from the original NEURO
 ![30 cells](https://raw.githubusercontent.com/OpenSourceBrain/MiglioreEtAl14_OlfactoryBulb3D/master/images/30cells.jpg)
 
 
-**Use neuroConstruct to help conversion from to NeuroML v1/2**
+**Use neuroConstruct to help conversion to NeuroML v1/2**
 
-Many projects on OSB were originally converted from the original format (NEURON, GENESIS, etc.) to NeuroML v1.8.1 (see [here](http://www.opensourcebrain.org/search_custom_field?f[]=43&op[43]=~&v[43][]=neuroConstruct) for a list of these), and from there the conversion to NeuroML2 inside neuroConstruct was straightforward. More on using neuroConstruct [here](http://www.opensourcebrain.org/docs#Using_neuroConstruct_Based_Projects) and details on conversion of models to NeuroML v1 [here](http://www.neuroconstruct.org/docs/importneuron.html#Converting+mod+file%2FGENESIS+script+channels+into+ChannelML).
+Many projects on OSB were originally converted from the original format (NEURON, GENESIS, etc.) to NeuroML v1.8.1 using neuroConstruct (see [here](http://www.opensourcebrain.org/search_custom_field?f[]=43&op[43]=~&v[43][]=neuroConstruct) for a list of these), and from there the conversion to NeuroML2 inside neuroConstruct was straightforward. More on using neuroConstruct [here](http://www.opensourcebrain.org/docs#Using_neuroConstruct_Based_Projects) and details on conversion of models to NeuroML v1 [here](http://www.neuroconstruct.org/docs/importneuron.html#Converting+mod+file%2FGENESIS+script+channels+into+ChannelML).
