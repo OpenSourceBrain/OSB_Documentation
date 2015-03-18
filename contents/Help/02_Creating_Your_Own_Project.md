@@ -1,6 +1,6 @@
 ### Is your model on ModelDB?
 
-First of all, if the model is published, **please submit the original scripts to [ModelDB](http://senselab.med.yale.edu/ModelDB/default.asp*)**. This is the correct place for depositing models at the time of publication and should be the first port of call for anyone looking for scripts related to a publication in computational neuroscience.
+First of all, if the model is published, **please submit the original scripts to [ModelDB](http://senselab.med.yale.edu/ModelDB/default.asp)**. This is the correct place for depositing models at the time of publication and should be the first port of call for anyone looking for scripts related to a publication in computational neuroscience.
 
 Placing a model on OSB after submission to ModelDB is an indication that you wish to develop your (or other modellers’ publicly shared) models in an open source collaborative environment, to get help debugging/improving them, to convert them to simulator independent formats, and generally encourage wider reuse.
 
