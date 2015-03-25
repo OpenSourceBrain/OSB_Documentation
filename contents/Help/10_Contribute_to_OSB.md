@@ -1,4 +1,4 @@
-### Contribute to Open Source Brain!
+#### Want to contribute to Open Source Brain?
 
 There is a central repository for issues listing OSB projects looking for contributors. A number of other programming tasks (e.g. further development of NeuroML based tools) are also listed, which would be of benefit to OSB projects.
 
@@ -6,6 +6,6 @@ There is a central repository for issues listing OSB projects looking for contri
 
 A template for new issues/project suggestions can be found [here](https://github.com/OpenSourceBrain/Contribute/blob/master/CONTRIBUTING.md).
 
-This is also a place for labs who have a specific model building (or tool development) task, related to the aims of Open Source Brain, to advertise the project with the understanding that they would be willing to help the developer complete the task. 
+This is also a place for **labs who have a specific, well defined model building/conversion project** (or tool development task), related to the aims of Open Source Brain, to advertise the project with the understanding that they would be willing to help the developer complete the task, and that the model/code will be open to all. 
 
 
