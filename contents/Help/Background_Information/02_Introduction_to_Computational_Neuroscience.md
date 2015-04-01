@@ -27,12 +27,13 @@ Data analysis
 2. Open Source Brain Project [(OSB)][d_2]  
 3. Digitally Reconstructed Neurons Database [(NeuroMorpho)][d_3]  
 4. Neuroscience Information Framework [(NIF)][d_4]  
+5. Brain Operation Database System [(BODB)][d_5]  
 
 [d_1]: https://senselab.med.yale.edu/ModelDB/
 [d_2]: http://opensourcebrain.org/
 [d_3]: http://neuromorpho.org/neuroMorpho/index.jsp
 [d_4]: http://www.neuinfo.org/about/index.shtm
-
+[d_5]: http://bodb.usc.edu/bodb/
 
 #### Organisations  
 1. Organization for Computational Neurosciences [(OCNS)][o_1]  
@@ -47,13 +48,27 @@ Data analysis
    1.2 [RIKEN Brain Science Institute (BSI)][larg_1.2]  
    1.3 [Neural Computation Unit, OIST][larg_1.3]  
 2. Europe  
+   2.1 [National Bernstein Network Computational Neuroscience][larg_2.1]  
+   2.2 [Gatsby Computational Neuroscience Unit][larg_2.2]  
 3. USA  
 
 [larg_1.1]: http://www.cns.atr.jp/en/home-3/cns/
 [larg_1.2]: http://www.brain.riken.jp/en/
 [larg_1.3]: https://groups.oist.jp/ncu/research
+[larg_2.1]: http://www.nncn.de/en
+[larg_2.2]: http://www.gatsby.ucl.ac.uk/
 
-#### Mailing Lists and News
+#### Mailing Lists, Forums and News  
+
+1- Mailing lists  
+  1.1 Computational Neuroscience [(neuroinf)][mlfn_1.1]  
+  1.2 Computational and Systems Neuroscience [(Cosyne)][mlfn_1.2]  
+  1.3 The connectionists mailing list [(connectionists)][mlfn_1.3]
+
+
+[mlfn_1.1]: http://www.neuroinf.org/mailman/listinfo/comp-neuro
+[mlfn_1.2]: https://groups.google.com/forum/#!forum/cosyne-announce
+[mlfn_1.3]: http://www.cnbc.cmu.edu/connectionists
 
 #### Online courses  
 
