@@ -60,7 +60,7 @@ Data analysis
 
 #### Mailing Lists, Forums and News  
 
-1- Mailing lists  
+1. Mailing lists  
   1.1 Computational Neuroscience [(neuroinf)][mlfn_1.1]  
   1.2 Computational and Systems Neuroscience [(Cosyne)][mlfn_1.2]  
   1.3 The connectionists mailing list [(connectionists)][mlfn_1.3]
