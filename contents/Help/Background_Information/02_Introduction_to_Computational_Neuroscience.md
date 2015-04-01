@@ -25,11 +25,24 @@ Data analysis
 
 ModelDB, OSB, NeuroMorpho, NIF
 
-#### Organisations
+#### Organisations  
+1. Organization for Computational Neurosciences [(OCNS)][o_1]  
+2. International Neuroinformatics Coordinating Facility[(INCF)][o_2]  
 
-OCNS
-INCF
+[o_1]: http://www.cnsorg.org/
+[o_2]: http://www.incf.org/
 
+#### Laboratories and Research Groups
+1. Asia  
+   1.1 [Computational Neuroscience Laboratories, ATR][larg_1.1]  
+   1.2 [RIKEN Brain Science Institute (BSI)][larg_1.2]  
+   1.3 [Neural Computation Unit, OIST][larg_1.3]  
+2. Europe  
+3. USA  
+
+[larg_1.1]: http://www.cns.atr.jp/en/home-3/cns/
+[larg_1.2]: http://www.brain.riken.jp/en/
+[larg_1.3]: https://groups.oist.jp/ncu/research
 #### Online courses  
 
 1. Coursera   
