@@ -30,11 +30,36 @@ ModelDB, OSB, NeuroMorpho, NIF
 OCNS
 INCF
 
-#### Online courses
+#### Online courses  
 
-Coursera...
+1. Coursera   
+  1.1 [Computational Neuroscience][oc_1.1]  
+  1.2 [Exploring Neural Data][oc_1.2]  
+  1.3 [Machine Learning][oc_1.3]  
+  1.4 [Synapses, Neurons and Brains][oc_1.4]  
 
+2. edX  
+  2.1 [Fundamentals of Neuroscience, Part I][oc_2.1]  
+  2.2 [Fundamentals of Neuroscience, Part II][oc_2.2]
+  
+3. Wulfram Gerstner  
+  3.1 [Neuronal Dynamics - Computational Neuroscience of Single Neurons][oc_3.1]  
+  3.2 [Modeling of Biological Neurons and Neural Networks][oc_3.2]
 
+4. OCW MIT  
+  4.1 [Introduction to Computational Neuroscience][oc_4.1]  
+  4.2 [Computational Cognitive Science][oc_4.2]  
+
+[oc_1.1]: https://www.coursera.org/course/compneuro
+[oc_1.2]: https://www.coursera.org/course/neuraldata
+[oc_1.3]: https://www.coursera.org/learn/machine-learning
+[oc_1.4]: https://www.coursera.org/course/bluebrain
+[oc_2.1]: https://www.edx.org/course/fundamentals-neuroscience-part-i-harvardx-mcb80-1x#.VRv8q8svD0o
+[oc_2.2]: https://www.edx.org/course/fundamentals-neuroscience-part-2-neurons-harvardx-mcb80-2x#.VRv9qMsvD0o
+[oc_3.1]: http://lcn.epfl.ch/~gerstner/NeuronalDynamics-MOOC1.html
+[oc_3.2]: http://lcn.epfl.ch/~gerstner/VideoLecturesGerstner.html
+[oc_4.1]: http://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-29j-introduction-to-computational-neuroscience-spring-2004
+[oc_4.2]: http://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-66j-computational-cognitive-science-fall-2004/
 #### Other resources
 
 ....
