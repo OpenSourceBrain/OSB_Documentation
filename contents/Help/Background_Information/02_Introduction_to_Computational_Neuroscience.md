@@ -21,9 +21,18 @@ Modelling
  
 Data analysis
 
-#### Databases
+#### Databases  
 
-ModelDB, OSB, NeuroMorpho, NIF
+1. Model Database [(ModelDB)][d_1]  
+2. Open Source Brain Project [(OSB)][d_2]  
+3. Digitally Reconstructed Neurons Database [(NeuroMorpho)][d_3]  
+4. Neuroscience Information Framework [(NIF)][d_4]  
+
+[d_1]: https://senselab.med.yale.edu/ModelDB/
+[d_2]: http://opensourcebrain.org/
+[d_3]: http://neuromorpho.org/neuroMorpho/index.jsp
+[d_4]: http://www.neuinfo.org/about/index.shtm
+
 
 #### Organisations  
 1. Organization for Computational Neurosciences [(OCNS)][o_1]  
@@ -43,6 +52,9 @@ ModelDB, OSB, NeuroMorpho, NIF
 [larg_1.1]: http://www.cns.atr.jp/en/home-3/cns/
 [larg_1.2]: http://www.brain.riken.jp/en/
 [larg_1.3]: https://groups.oist.jp/ncu/research
+
+#### Mailing Lists and News
+
 #### Online courses  
 
 1. Coursera   
