@@ -1,25 +1,39 @@
 ### Computational Neuroscience
-
-Some information for newcomers to computational neuroscience.
-
-_(Work in progress. [Offers of help](https://github.com/OpenSourceBrain/Contribute/issues/3) to complete this are very welcome!)_
+This document prepared to enable newcomers to get into computational neuroscience.
+Note that this is a living document and it will regularly be updated.
+[Offers of help](https://github.com/OpenSourceBrain/Contribute/issues/3) to complete this are very welcome!
 
 #### Books
+1. Neuroscience  
 
-...
+2. Computational modelling  
+
+3. Programming  
+   3.1 [Matlab for Neuroscientists][b_1]  
+   3.2 [SciPy and NumPy][b_2]  
+   3.3 [Python for Data Analysis][b_3]  
+   3.4 [Think Stats][b_4]  
+   3.5 [Dive into Python][b_5]  
+
+[b_1]: http://www.amazon.com/MATLAB-Neuroscientists-Introduction-Scientific-Computing/dp/0123745519
+[b_2]: http://shop.oreilly.com/product/0636920020219.do
+[b_3]: http://shop.oreilly.com/product/0636920023784.do
+[b_4]: http://greenteapress.com/thinkstats/
+[b_5]: www.diveintopython.net/
+
 
 #### Publications
 
-Review articles
+1. Review articles  
 
-Classic papers
+2. Classic papers  
 
 #### Software
 
-Modelling 
+1. Modelling   
  (link to review)
  
-Data analysis
+2. Data analysis  
 
 #### Databases 
 
@@ -50,10 +64,12 @@ Data analysis
    1.2 [RIKEN Brain Science Institute (BSI)][larg_1.2]  
    1.3 [Neural Computation Unit, OIST][larg_1.3]  
    1.4 [Computational Neuroscience Unit, OIST][larg_1.4]  
+
 2. Europe  
    2.1 [National Bernstein Network Computational Neuroscience][larg_2.1]  
    2.2 [Gatsby Computational Neuroscience Unit][larg_2.2]  
    2.3 [Centre for Computational Neuroscience and Cognitive Robotics (CNCR)][larg_2.3]  
+
 3. USA  
 
 [larg_1.1]: http://www.cns.atr.jp/en/home-3/cns/
