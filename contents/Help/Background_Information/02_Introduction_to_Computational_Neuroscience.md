@@ -13,7 +13,9 @@ Note that this is a living document and it will regularly be updated.
 2. Computational modelling  
    2.1 [Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems][b_2.1]  
    2.2 [Introduction To The Theory Of Neural Computation][b_2.2]  
-
+   2.3 [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information][b_2.3]  
+   2.4 [The handbook of brain theory and neural networks][b_2.3]  
+   
 3. Programming  
    3.1 [Matlab for Neuroscientists][b_3.1]  
    3.2 [SciPy and NumPy][b_3.2]  
@@ -24,6 +26,8 @@ Note that this is a living document and it will regularly be updated.
 [b_1.1]: http://www.amazon.com/Cognitive-Neuroscience-Biology-Mind-Edition/dp/0393111369
 [b_2.1]: http://www.gatsby.ucl.ac.uk/~dayan/book/
 [b_2.2]: http://www.amazon.com/Introduction-Theory-Neural-Computation-Institute/dp/0201515601 
+[b_2.3]: http://www.amazon.com/Vision-Computational-Investigation-Representation-Information/dp/0262514621
+[b_2.4]: http://mitpress.mit.edu/books/handbook-brain-theory-and-neural-networks
 [b_3.1]: http://www.amazon.com/MATLAB-Neuroscientists-Introduction-Scientific-Computing/dp/0123745519
 [b_3.2]: http://shop.oreilly.com/product/0636920020219.do
 [b_3.3]: http://shop.oreilly.com/product/0636920023784.do
@@ -33,12 +37,13 @@ Note that this is a living document and it will regularly be updated.
 #### Publications
 
 1. Review articles  
-
+  
 2. Classic papers  
 
+
+[p_1.5]: http://www.sciencedirect.com/science/article/pii/S0893608006000268
    
 #### Software
-
 
 1. Modelling   
    1.1 Simulators  
@@ -186,6 +191,9 @@ https://github.com/OpenSourceBrain/OSB_Documentation/blob/master/contents/Help/0
 #### Other resources
 
 1. [Computational Neuroscience on the web][or_1]
-
+2. [Interesting (Computational) Neuroscience papers ][or_2]
+3. [Comments on Theoretical Neuroscience Books][or_3] 
 
 [or_1]: http://home.earthlink.net/~perlewitz/
+[or_2]: http://compneuropapers.tumblr.com/
+[or_3]: http://compneuro.uwaterloo.ca/research/theoretical-neuroscience/comments-on-theoretical-neuroscience-books.html
