@@ -1,26 +1,34 @@
+
 ### Computational Neuroscience
+
 This document prepared to enable newcomers to get into computational neuroscience.
 Note that this is a living document and it will regularly be updated.
 [Offers of help](https://github.com/OpenSourceBrain/Contribute/issues/3) to complete this are very welcome!
 
 #### Books
-1. Neuroscience  
 
+1. Neuroscience  
+   1.1 [Cognitive Neuroscience][b_1.1]  
+   
 2. Computational modelling  
+   2.1 [Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems][b_2.1]  
+   2.2 [Introduction To The Theory Of Neural Computation][b_2.2]  
 
 3. Programming  
-   3.1 [Matlab for Neuroscientists][b_1]  
-   3.2 [SciPy and NumPy][b_2]  
-   3.3 [Python for Data Analysis][b_3]  
-   3.4 [Think Stats][b_4]  
-   3.5 [Dive into Python][b_5]  
+   3.1 [Matlab for Neuroscientists][b_3.1]  
+   3.2 [SciPy and NumPy][b_3.2]  
+   3.3 [Python for Data Analysis][b_3.3]  
+   3.4 [Think Stats][b_3.4]  
+   3.5 [Dive into Python][b_3.5]  
 
-[b_1]: http://www.amazon.com/MATLAB-Neuroscientists-Introduction-Scientific-Computing/dp/0123745519
-[b_2]: http://shop.oreilly.com/product/0636920020219.do
-[b_3]: http://shop.oreilly.com/product/0636920023784.do
-[b_4]: http://greenteapress.com/thinkstats/
-[b_5]: www.diveintopython.net/
-
+[b_1.1]: http://www.amazon.com/Cognitive-Neuroscience-Biology-Mind-Edition/dp/0393111369
+[b_2.1]: http://www.gatsby.ucl.ac.uk/~dayan/book/
+[b_2.2]: http://www.amazon.com/Introduction-Theory-Neural-Computation-Institute/dp/0201515601 
+[b_3.1]: http://www.amazon.com/MATLAB-Neuroscientists-Introduction-Scientific-Computing/dp/0123745519
+[b_3.2]: http://shop.oreilly.com/product/0636920020219.do
+[b_3.3]: http://shop.oreilly.com/product/0636920023784.do
+[b_3.4]: http://greenteapress.com/thinkstats/
+[b_3.5]: http://www.diveintopython.net/
 
 #### Publications
 
@@ -28,12 +36,41 @@ Note that this is a living document and it will regularly be updated.
 
 2. Classic papers  
 
+   
 #### Software
 
 1. Modelling   
  (link to review)
  
-2. Data analysis  
+2. Data analysis and scientific computing  
+   2.1 [Pandas, python][s_2.1]  
+   2.2 [NumPy, python][s_2.2]  
+   2.3 [SciPy, python][s_2.3]  
+   
+3. Data visualization  
+   3.1 [matplotlib, python][s_3.1]  
+   3.2 [prettyplotlib, python][s_3.2]  
+   3.3 [bokeh, python][s_3.3]  
+   3.4 [ggplot, R][s_3.4]  
+
+4. Machine learning  
+  4.1 [PyBrain, python][s_4.1]  
+  4.2 [SciKit, python][s_4.2]  
+  4.3 [Plearn2, python][s_4.2]  
+  4.4 [Theano, python][s_4.2]  
+  
+[s_2.1]: http://pandas.pydata.org
+[s_2.2]: http://www.numpy.org
+[s_2.3]: http://scipy.org/index.html 
+[s_3.1]: http://matplotlib.org/
+[s_3.2]: http://blog.olgabotvinnik.com/prettyplotlib/
+[s_3.3]: http://bokeh.pydata.org/en/latest/
+[s_3.4]: http://ggplot2.org/
+[s_4.1]: http://pybrain.or
+[s_4.2]: http://scikit-learn.org/stable/
+[s_4.3]: http://deeplearning.net/software/pylearn2/
+[s_4.4]: http://deeplearning.net/software/theano/
+
 
 #### Databases 
 
@@ -52,7 +89,7 @@ Note that this is a living document and it will regularly be updated.
 #### Organisations 
 
 1. Organization for Computational Neurosciences [(OCNS)][o_1]  
-2. International Neuroinformatics Coordinating Facility[(INCF)][o_2]  
+2. International Neuroinformatics Coordinating Facility [(INCF)][o_2]  
 
 [o_1]: http://www.cnsorg.org/
 [o_2]: http://www.incf.org/
@@ -115,7 +152,7 @@ Note that this is a living document and it will regularly be updated.
 3. Wulfram Gerstner  
   3.1 [Neuronal Dynamics - Computational Neuroscience of Single Neurons][oc_3.1]  
   3.2 [Modeling of Biological Neurons and Neural Networks][oc_3.2]
-
+  
 4. OCW MIT  
   4.1 [Introduction to Computational Neuroscience][oc_4.1]  
   4.2 [Computational Cognitive Science][oc_4.2]  
@@ -134,5 +171,6 @@ Note that this is a living document and it will regularly be updated.
 #### Other resources
 
 1. [Computational Neuroscience on the web][or_1]
+
 
 [or_1]: http://home.earthlink.net/~perlewitz/
