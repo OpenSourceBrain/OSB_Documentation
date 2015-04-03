@@ -39,9 +39,22 @@ Note that this is a living document and it will regularly be updated.
    
 #### Software
 
+
 1. Modelling   
- (link to review)
- 
+   1.1 Simulators  
+   &nbsp;&nbsp;&nbsp;&nbsp;1.1.1 Simulator software packages' links are available in the [simulators.md](
+https://github.com/OpenSourceBrain/OSB_Documentation/blob/master/contents/Help/07_Simulators.md) file.  
+
+   1.2 Markup Languages  
+   &nbsp;&nbsp;&nbsp;&nbsp;1.2.1 A Model Description Language for Computational Neuroscience [(NeuroML)][s_1.2.1]  
+   &nbsp;&nbsp;&nbsp;&nbsp;1.2.2 Systems Biology Markup Language [(SBML)][s_1.2.2]  
+   &nbsp;&nbsp;&nbsp;&nbsp;1.2.3 [CellML][s_1.2.3]  
+
+[s_1.2.1]: http://www.neuroml.org/home
+[s_1.2.2]: http://www.neuroml.org/home
+[s_1.2.3]: http://www.cellml.org/
+
+
 2. Data analysis and scientific computing  
    2.1 [Pandas, python][s_2.1]  
    2.2 [NumPy, python][s_2.2]  
@@ -79,12 +92,14 @@ Note that this is a living document and it will regularly be updated.
 3. Digitally Reconstructed Neurons Database [(NeuroMorpho)][d_3]  
 4. Neuroscience Information Framework [(NIF)][d_4]  
 5. Brain Operation Database System [(BODB)][d_5]  
+6. BioModels Database [(BioModelDB)][d_6]  
 
 [d_1]: https://senselab.med.yale.edu/ModelDB/
 [d_2]: http://opensourcebrain.org/
 [d_3]: http://neuromorpho.org/neuroMorpho/index.jsp
 [d_4]: http://www.neuinfo.org/about/index.shtm
 [d_5]: http://bodb.usc.edu/bodb/
+[d_6]: http://www.ebi.ac.uk/biomodels-main/
 
 #### Organisations 
 
