@@ -6,7 +6,7 @@ Converting models to the simulator independent format [NeuroML 2](https://www.ne
 
 At the moment, there is no "magic button" to press in simulators to export your model into valid NeuroML 2. Presently the best approach is to look at some of the [core examples of NeuroML 2](https://github.com/NeuroML/NeuroML2/tree/master/examples), the [OSB projects being converted to NeuroML 2](https://github.com/OpenSourceBrain/redmine/issues/125), look at the XML examples there and start manual conversion of the models based on these. There are some suggestions below for work to help with this
 
-**Use jNeuroML to validate/execute/convert the NeuroML 2 files**
+**Use jNeuroML to validate/execute/convert/view the NeuroML 2 files**
 
 [jNeuroML](https://github.com/NeuroML/jNeuroML) can be used to validate NeuroML2 files:
   
@@ -15,6 +15,13 @@ At the moment, there is no "magic button" to press in simulators to export your 
 This will validate the file against the latest XSD Schema document, as well as perfom a number of other checks on the structure of the model.
 
 Creating a LEMS simulation file to specify how long to run the simulation, timestep, what to plot/save etc. allows the model to be run with jNeuroML. See examples [here](https://github.com/NeuroML/NeuroML2/tree/master/LEMSexamples) and most of [these OSB projects](https://github.com/OpenSourceBrain/redmine/issues/125) have at least one LEMS simulation file too.
+
+To quickly visualise cells and networks in NeuroML 2 (as opposed to loading them in neuroConstruct or viewing on OSB), models can be converted to SVG format (for viewing in a web browser etc.):
+
+     jnml MyNeuron.cell.nml -svg
+     jnml MyCircuit.net.nml -svg
+
+Installing the **latest development version from source** as outlined [here](https://github.com/NeuroML/jNeuroML/blob/master/README.md) is **highly recommended** to get the latest features of jNeuroML.
 
 **Use PyNeuroML to export NeuroML2 morphologies from NEURON**
 
