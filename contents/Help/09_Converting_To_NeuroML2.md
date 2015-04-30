@@ -23,7 +23,7 @@ To quickly visualise cells and networks in NeuroML 2 (as opposed to loading them
 
 Installing the **latest development version from source** as outlined [here](https://github.com/NeuroML/jNeuroML/blob/master/README.md) is **highly recommended** to get the latest features of jNeuroML.
 
-**Use PyNeuroML to export NeuroML2 morphologies from NEURON**
+**Use pyNeuroML to export NeuroML2 morphologies from NEURON**
 
 Work in progress: [pyNeuroML](https://github.com/NeuroML/pyNeuroML) is a Python package which makes many of the features of [jNeuroML](https://github.com/NeuroML/jNeuroML) accessible in Python scrips by bundling the jNeuroML jar file and using the functionality of that package. 
 
@@ -33,6 +33,19 @@ This feature was used to extract a number of cell models from the original NEURO
 
 ![30 cells](https://raw.githubusercontent.com/OpenSourceBrain/MiglioreEtAl14_OlfactoryBulb3D/master/images/30cells.jpg)
 
+**Use pyNeuroML to help convert channels to NeuroML 2**
+
+Another feature being worked on is a set of scripts to help conversion of ion channel models (e.g. in NEURON's NMODL format) to NeuroML 2. These scripts can be accessed after pyNeuroML is installed using:
+
+    pynml-channelanalysis NaConductance.channel.nml   # Analyse a NeuroML 2 channel
+    pynml-modchananalysis NaConductance               # Analyse a NEURON channel e.g. from NaConductance.mod
+    
+These scripts, while they take different approaches to generating the traces for activation/inactivation variables, produce comparable plots:
+
+![pynml](https://raw.githubusercontent.com/OpenSourceBrain/OSB_Documentation/master/resources/images/pynml_analyse.png)
+
+To be clear, these scripts don't (currently) help you extract the equations from the NMODL file and put them in the correct place in the NeuroML file, they just help comparing the behaviour of the 2 channel formats to check for errors in a manual conversion.
+    
 
 **Use neuroConstruct to help conversion to NeuroML v1/2**
 
