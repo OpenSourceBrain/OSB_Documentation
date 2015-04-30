@@ -44,6 +44,8 @@ These scripts, while they take different approaches to generating the traces for
 
 ![pynml](https://raw.githubusercontent.com/OpenSourceBrain/OSB_Documentation/master/resources/images/pynml_analyse.png)
 
+On the left are the plots produced from the NeuroML file (e.g. see [here](https://github.com/NeuroML/pyNeuroML/blob/master/examples/analyseNaNml2.sh)) and on the right from the NMODL version (see [here](https://github.com/NeuroML/pyNeuroML/blob/master/examples/analyseNaMod.sh)).
+
 To be clear, these scripts don't (currently) help you extract the equations from the NMODL file and put them in the correct place in the NeuroML file, they just help comparing the behaviour of the 2 channel formats to check for errors in a manual conversion.
     
 
