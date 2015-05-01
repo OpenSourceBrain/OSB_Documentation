@@ -1,25 +1,94 @@
+
 ### Computational Neuroscience
 
-Some information for newcomers to computational neuroscience.
-
-_(Work in progress. [Offers of help](https://github.com/OpenSourceBrain/Contribute/issues/3) to complete this are very welcome!)_
+This document prepared to enable newcomers to get into computational neuroscience.
+Note that this is a living document and it will regularly be updated.
+[Offers of help](https://github.com/OpenSourceBrain/Contribute/issues/3) to complete this are very welcome!
 
 #### Books
 
-...
+1. Neuroscience  
+   1.1 [Cognitive Neuroscience][b_1.1]  
+   
+2. Computational modelling  
+   2.1 [Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems][b_2.1]  
+   2.2 [Introduction To The Theory Of Neural Computation][b_2.2]  
+   2.3 [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information][b_2.3]  
+   2.4 [The handbook of brain theory and neural networks][b_2.3]  
+   
+3. Programming  
+   3.1 [Matlab for Neuroscientists][b_3.1]  
+   3.2 [SciPy and NumPy][b_3.2]  
+   3.3 [Python for Data Analysis][b_3.3]  
+   3.4 [Think Stats][b_3.4]  
+   3.5 [Dive into Python][b_3.5]  
+
+[b_1.1]: http://www.amazon.com/Cognitive-Neuroscience-Biology-Mind-Edition/dp/0393111369
+[b_2.1]: http://www.gatsby.ucl.ac.uk/~dayan/book/
+[b_2.2]: http://www.amazon.com/Introduction-Theory-Neural-Computation-Institute/dp/0201515601 
+[b_2.3]: http://www.amazon.com/Vision-Computational-Investigation-Representation-Information/dp/0262514621
+[b_2.4]: http://mitpress.mit.edu/books/handbook-brain-theory-and-neural-networks
+[b_3.1]: http://www.amazon.com/MATLAB-Neuroscientists-Introduction-Scientific-Computing/dp/0123745519
+[b_3.2]: http://shop.oreilly.com/product/0636920020219.do
+[b_3.3]: http://shop.oreilly.com/product/0636920023784.do
+[b_3.4]: http://greenteapress.com/thinkstats/
+[b_3.5]: http://www.diveintopython.net/
 
 #### Publications
 
-Review articles
+1. Review articles  
+  
+2. Classic papers  
 
-Classic papers
 
+[p_1.5]: http://www.sciencedirect.com/science/article/pii/S0893608006000268
+   
 #### Software
 
-Modelling 
- (link to review)
- 
-Data analysis
+1. Modelling   
+   1.1 Simulators  
+   &nbsp;&nbsp;&nbsp;&nbsp;1.1.1 Simulator software packages' links are available in the [simulators.md](
+https://github.com/OpenSourceBrain/OSB_Documentation/blob/master/contents/Help/07_Simulators.md) file.  
+
+   1.2 Markup Languages  
+   &nbsp;&nbsp;&nbsp;&nbsp;1.2.1 A Model Description Language for Computational Neuroscience [(NeuroML)][s_1.2.1]  
+   &nbsp;&nbsp;&nbsp;&nbsp;1.2.2 Systems Biology Markup Language [(SBML)][s_1.2.2]  
+   &nbsp;&nbsp;&nbsp;&nbsp;1.2.3 [CellML][s_1.2.3]  
+
+[s_1.2.1]: http://www.neuroml.org/home
+[s_1.2.2]: http://www.neuroml.org/home
+[s_1.2.3]: http://www.cellml.org/
+
+
+2. Data analysis and scientific computing  
+   2.1 [Pandas, python][s_2.1]  
+   2.2 [NumPy, python][s_2.2]  
+   2.3 [SciPy, python][s_2.3]  
+   
+3. Data visualization  
+   3.1 [matplotlib, python][s_3.1]  
+   3.2 [prettyplotlib, python][s_3.2]  
+   3.3 [bokeh, python][s_3.3]  
+   3.4 [ggplot, R][s_3.4]  
+
+4. Machine learning  
+  4.1 [PyBrain, python][s_4.1]  
+  4.2 [SciKit, python][s_4.2]  
+  4.3 [Plearn2, python][s_4.2]  
+  4.4 [Theano, python][s_4.2]  
+  
+[s_2.1]: http://pandas.pydata.org
+[s_2.2]: http://www.numpy.org
+[s_2.3]: http://scipy.org/index.html 
+[s_3.1]: http://matplotlib.org/
+[s_3.2]: http://blog.olgabotvinnik.com/prettyplotlib/
+[s_3.3]: http://bokeh.pydata.org/en/latest/
+[s_3.4]: http://ggplot2.org/
+[s_4.1]: http://pybrain.or
+[s_4.2]: http://scikit-learn.org/stable/
+[s_4.3]: http://deeplearning.net/software/pylearn2/
+[s_4.4]: http://deeplearning.net/software/theano/
+
 
 #### Databases 
 
@@ -28,17 +97,19 @@ Data analysis
 3. Digitally Reconstructed Neurons Database [(NeuroMorpho)][d_3]  
 4. Neuroscience Information Framework [(NIF)][d_4]  
 5. Brain Operation Database System [(BODB)][d_5]  
+6. BioModels Database [(BioModelDB)][d_6]  
 
 [d_1]: https://senselab.med.yale.edu/ModelDB/
 [d_2]: http://opensourcebrain.org/
 [d_3]: http://neuromorpho.org/neuroMorpho/index.jsp
 [d_4]: http://www.neuinfo.org/about/index.shtm
 [d_5]: http://bodb.usc.edu/bodb/
+[d_6]: http://www.ebi.ac.uk/biomodels-main/
 
 #### Organisations 
 
 1. Organization for Computational Neurosciences [(OCNS)][o_1]  
-2. International Neuroinformatics Coordinating Facility[(INCF)][o_2]  
+2. International Neuroinformatics Coordinating Facility [(INCF)][o_2]  
 
 [o_1]: http://www.cnsorg.org/
 [o_2]: http://www.incf.org/
@@ -50,10 +121,12 @@ Data analysis
    1.2 [RIKEN Brain Science Institute (BSI)][larg_1.2]  
    1.3 [Neural Computation Unit, OIST][larg_1.3]  
    1.4 [Computational Neuroscience Unit, OIST][larg_1.4]  
+
 2. Europe  
    2.1 [National Bernstein Network Computational Neuroscience][larg_2.1]  
    2.2 [Gatsby Computational Neuroscience Unit][larg_2.2]  
    2.3 [Centre for Computational Neuroscience and Cognitive Robotics (CNCR)][larg_2.3]  
+
 3. USA  
 
 [larg_1.1]: http://www.cns.atr.jp/en/home-3/cns/
@@ -99,7 +172,7 @@ Data analysis
 3. Wulfram Gerstner  
   3.1 [Neuronal Dynamics - Computational Neuroscience of Single Neurons][oc_3.1]  
   3.2 [Modeling of Biological Neurons and Neural Networks][oc_3.2]
-
+  
 4. OCW MIT  
   4.1 [Introduction to Computational Neuroscience][oc_4.1]  
   4.2 [Computational Cognitive Science][oc_4.2]  
@@ -118,5 +191,9 @@ Data analysis
 #### Other resources
 
 1. [Computational Neuroscience on the web][or_1]
+2. [Interesting (Computational) Neuroscience papers ][or_2]
+3. [Comments on Theoretical Neuroscience Books][or_3] 
 
 [or_1]: http://home.earthlink.net/~perlewitz/
+[or_2]: http://compneuropapers.tumblr.com/
+[or_3]: http://compneuro.uwaterloo.ca/research/theoretical-neuroscience/comments-on-theoretical-neuroscience-books.html
