@@ -1,6 +1,6 @@
 ### OSB Kick off meeting, Sardinia, 13-15 May 2013
 
-![](/attachments/download/42/osbbanner.png)
+![](http://opensourcebrain.org/attachments/download/42/osbbanner.png)
 
 Dates: **9am Monday 13th - 5pm Wednesday 15th May, 2013**
 
@@ -13,7 +13,7 @@ Organising committee: [Matteo Cantarelli](/users/43), [Sharon Crook](/users/8), 
 
 The focus of this meeting was on **cerebellar cell & network models**.
 
-Some notes taken during the discussion sessions are currently being converted into **minutes** of the meeting, but in the mean time, see the slides below from a number of the presenters, or see a [blog post from the OpenWorm project](http://blog.openworm.org/post/50745024122/tales-from-the-open-source-brain-kick-off) on the meeting.
+See the slides below from a number of the presenters, or see a [blog post from the OpenWorm project](http://blog.openworm.org/post/50745024122/tales-from-the-open-source-brain-kick-off) on the meeting.
 
 One specific outcome of the meeting was the setting up of a project to try to create a community developed model (or models) of the [cerebellar granule cell](http://www.opensourcebrain.org/projects/cerebellar-granule-cell-modelling/wiki/Wiki).
 
