@@ -17,8 +17,8 @@
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="CNS2105_WS.svg"
    inkscape:export-filename="/home/padraig/OSB_Documentation/resources/images/CNS2105_WS.png"
-   inkscape:export-xdpi="104.85651"
-   inkscape:export-ydpi="104.85651">
+   inkscape:export-xdpi="88.779938"
+   inkscape:export-ydpi="88.779938">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,8 +26,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.03"
-     inkscape:cx="422.22333"
+     inkscape:zoom="1.07"
+     inkscape:cx="271.28875"
      inkscape:cy="165.17406"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -391,15 +391,15 @@
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
        xml:space="preserve"><tspan
          id="tspan3008"
-         style="font-size:24px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#26547b;fill-opacity:1;font-family:GFS Olga;-inkscape-font-specification:GFS Olga Bold Italic"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#464848;fill-opacity:1;font-family:GFS Olga;-inkscape-font-specification:GFS Olga Bold"
          y="89.617844"
          x="386.30743"
          sodipodi:role="line">Open Collaboration in Computational Neuroscience</tspan><tspan
-         style="font-size:16px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#26547b;fill-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Oblique"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#464848;fill-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:GFS Olga Bold"
          y="111.64385"
          x="386.30743"
          sodipodi:role="line"
-         id="tspan4908">Workshop at CNS2015, Prague</tspan></text>
+         id="tspan4908">A workshop at CNS2015, Prague</tspan></text>
     <image
        width="58.495144"
        height="94.372169"
@@ -530,5 +530,15 @@
        id="path3910-2"
        d="m 318.94917,409.91406 c 19.73175,-4.14227 46.39287,-0.0478 64.07767,7.76698"
        style="fill:none;stroke:#e3a600;stroke-width:3.0999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2MstartA);marker-end:url(#Arrow2MendZ)" />
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3965"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Arial;font-style:normal;font-weight:normal;font-size:8px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Arial;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
+         id="flowRegion3967"><rect
+           id="rect3969"
+           width="572.89722"
+           height="29.906542"
+           x="-57.009346"
+           y="9.2022963" /></flowRegion><flowPara
+         id="flowPara3971"></flowPara></flowRoot>  </g>
 </svg>
