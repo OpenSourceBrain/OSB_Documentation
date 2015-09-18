@@ -57,7 +57,7 @@ No. You can browse the OSB projects and use most of the OSB tools. However, if y
 
 We are happy to hear from anyone interested in helping out with this initiative. We are particularly keen to get modellers or software developers in computational neuroscience involved.
 
-**There is a central list for projects in OSB (and related NeuroML tools) which require help from volunteers. See [here](http://opensourcebrain.org/docs#Contribute_to_OSB).**
+**There is a central list for projects in OSB (and related NeuroML tools) which require help from volunteers. See [here](http://opensourcebrain.org/docs#Contribute_To_OSB).**
 
 Please sign up [here](/account/register) to be part of OSB or [contact us directly](mailto:info@opensourcebrain.org) for more information. You can also sign up to the **[OSB Announce mailing list](https://groups.google.com/forum/#!forum/osb-announce)** to get updates of progress, or the **[OSB Discuss mailing list](https://groups.google.com/forum/#!forum/osb-discuss)** for more detailed discussions on the various projects on OSB. If you find an issue or you would like to request a feature, you can create a [new issue](https://github.com/OpenSourceBrain/redmine/issues/new) our [GitHub repository](https://github.com/OpenSourceBrain/redmine).
 
