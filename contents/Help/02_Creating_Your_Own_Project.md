@@ -24,6 +24,10 @@ Go to http://www.opensourcebrain.org when you’re logged in. There should be a 
 
 Enter the long name of the project (this can be edited later), the short ID (this can't be changed), a description of the project and the path to the GitHub repository. If the code is not on GitHub yet, or if you host it elsewhere leave this blank. The repository URL can be added manually at a later point.
 
+### Add some documentation
+
+There is information [here](http://www.opensourcebrain.org/docs#Write_Your_Project_Documentation) on adding documentation to your OSB project.
+
 ### Say hello…
 
 Now is a good time to drop us a line on info@opensourcebrain.org, and let us know your plans for what you’d like to get out of OSB. We’re always happy to hear from new users.
