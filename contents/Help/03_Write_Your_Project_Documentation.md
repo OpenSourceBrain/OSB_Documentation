@@ -1,6 +1,15 @@
+There are 2 main options for adding documentation to an OSB project:
+
+  1) Add Wiki pages on the OSB project
+  2) Add README files in your GitHub (or other VCS) repository and point to these from the OSB project
+
+## 1) Adding Wiki pages to OSB projects
+
+To add a new Wiki page to your OSB project click on the "Wiki" link on the project option bar (when logged in) and start editing the wiki page.
+
 OSB documentation is written in [Markdown format syntax](https://daringfireball.net/projects/markdown/basics), together with some further Redmine and OSB specific additions (See below for further information). Note Markdown allows you to include most HTML syntax (i.e. videos...). In order to be as compatible as possible with GitHub wikis, OSB uses [GitHub Flavored Markdown](https://help.github.com/articles/markdown-basics). You can find a cheatsheet [here](/help/en/wiki_markdown_syntax.html).  
 
-We describe briefly below some OSB/Redmine features to enhance wiki pages on OSB.
+We describe briefly below some OSB/Redmine features to enhance Wiki pages on OSB.
 
 #### Reference to a Repository file. 
 
@@ -48,7 +57,7 @@ This will automatically generate the following image using the [google chart API
 
 #### Link to Wiki page
 
-If you want to link to other wiki page:
+If you want to link to other Wiki page:
 
 <code>[[Wiki page]]</code>
 
@@ -69,3 +78,9 @@ If you want to link to a commit in your repository:
 <code>commit:f30e13e43</code>
 
 <a href="#">f30e13e4</a>
+
+### 2) Add README files in your GitHub
+
+Instead of adding Wiki pages on OSB, you can simply add [Markdown format](https://daringfireball.net/projects/markdown/basics) files to your GitHub repo (e.g. README.md) and point to these from an OSB Wiki page (or the main project description) using:
+
+<code>github:README.md</code>
