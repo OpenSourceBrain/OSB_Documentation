@@ -10,11 +10,12 @@ Note that this is a living document and it will regularly be updated.
 1. Neuroscience  
    - [Cognitive Neuroscience][b_1.1]  
    
-2. Computational modelling  
-   - [Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems][b_2.1], Dayan and Abbott
-   - [Introduction To The Theory Of Neural Computation][b_2.2]  
-   - [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information][b_2.3]  
-   - [The handbook of brain theory and neural networks][b_2.3]  
+2. Computational modelling/theoretical neuroscience  
+   - [Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems][b_2.1], Peter Dayan and LF Abbott
+   - [Methods in Neuronal Modeling: from Ions to Networks][kochsegev]. C. Koch and I. Segev (eds.)
+   - [Introduction To The Theory Of Neural Computation][b_2.2], John A. Hertz, Anders S. Krogh and Richard G. Palmer
+   - [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information][b_2.3], David Marr  
+   - [The handbook of brain theory and neural networks][b_2.3], Michael A. Arbib (ed.)
    
 3. Programming  
    - [Matlab for Neuroscientists][b_3.1]  
@@ -28,6 +29,7 @@ Note that this is a living document and it will regularly be updated.
 [b_2.2]: http://www.amazon.com/Introduction-Theory-Neural-Computation-Institute/dp/0201515601 
 [b_2.3]: http://www.amazon.com/Vision-Computational-Investigation-Representation-Information/dp/0262514621
 [b_2.4]: http://mitpress.mit.edu/books/handbook-brain-theory-and-neural-networks
+[kochsegev]: https://mitpress.mit.edu/books/methods-neuronal-modeling
 [b_3.1]: http://www.amazon.com/MATLAB-Neuroscientists-Introduction-Scientific-Computing/dp/0123745519
 [b_3.2]: http://shop.oreilly.com/product/0636920020219.do
 [b_3.3]: http://shop.oreilly.com/product/0636920023784.do
