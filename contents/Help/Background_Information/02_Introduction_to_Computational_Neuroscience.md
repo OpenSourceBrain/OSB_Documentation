@@ -50,9 +50,12 @@ Note that this is a living document and it will regularly be updated.
 2. Classic papers  
    - TODO...
 
-
 [p_1.5]: http://www.sciencedirect.com/science/article/pii/S0893608006000268
    
+#### Open Source Brain projects
+
+See [here](http://www.opensourcebrain.org/search_custom_field?f[]=43&op[43]=~&v[43][]=Tutorial) for a list of OSB projects which contain tutorials, exercises, etc. in computational neuroscience.
+
 #### Software
 
 1. Modelling   
