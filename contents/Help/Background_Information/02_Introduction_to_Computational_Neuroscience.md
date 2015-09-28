@@ -12,7 +12,9 @@ Note that this is a living document and it will regularly be updated.
    
 2. Computational modelling/theoretical neuroscience  
    - [Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems][b_2.1], Peter Dayan and LF Abbott
-   - [Methods in Neuronal Modeling: from Ions to Networks][kochsegev]. C. Koch and I. Segev (eds.)
+   - [Methods in Neuronal Modeling: from Ions to Networks][kochsegev], C. Koch and I. Segev (eds.)
+   - [Principles of Computational Modelling in Neuroscience][willshaw], David Sterratt, Bruce Graham, Andrew Gillies and David Willshaw (eds.)
+   - [Neuronal Dynamics - from single neurons to networks and models of cognition][gerstner], Wulfram Gerstner, Werner M. Kistler, Richard Naud and Liam Paninski (**[freely available online!][gerstner]**)
    - [Computational Neuroscience: Realistic Modeling for Experimentalists][deschutter]. E. De Schutter (ed.)
    - [Introduction To The Theory Of Neural Computation][b_2.2], John A. Hertz, Anders S. Krogh and Richard G. Palmer
    - [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information][b_2.3], David Marr  
@@ -31,6 +33,8 @@ Note that this is a living document and it will regularly be updated.
 [b_2.3]: http://www.amazon.com/Vision-Computational-Investigation-Representation-Information/dp/0262514621
 [b_2.4]: http://mitpress.mit.edu/books/handbook-brain-theory-and-neural-networks
 [kochsegev]: https://mitpress.mit.edu/books/methods-neuronal-modeling
+[willshaw]: http://www.compneuroprinciples.org/
+[gerstner]: http://neuronaldynamics.epfl.ch/
 [deschutter]: http://www.amazon.co.uk/Computational-Neuroscience-Realistic-Experimentalists-Frontiers/dp/0849320682
 [b_3.1]: http://www.amazon.com/MATLAB-Neuroscientists-Introduction-Scientific-Computing/dp/0123745519
 [b_3.2]: http://shop.oreilly.com/product/0636920020219.do
