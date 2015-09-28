@@ -49,7 +49,7 @@ Note that this is a living document and it will regularly be updated.
 
 1. Modelling   
    - Simulators  
-   &nbsp;&nbsp;&nbsp;&nbsp;1.1.1 Simulator software packages' links are available in the [simulators.md](
+      -  Simulator software packages' links are available in the [simulators.md](
 https://github.com/OpenSourceBrain/OSB_Documentation/blob/master/contents/Help/07_Simulators.md) file.  
 
    - Markup Languages  
