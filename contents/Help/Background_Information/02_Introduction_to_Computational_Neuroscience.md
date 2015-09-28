@@ -1,7 +1,7 @@
 
 ### Computational Neuroscience
 
-This document prepared to enable newcomers to get into computational neuroscience.
+This document is intended to help newcomers to get into computational neuroscience.
 Note that this is a living document and it will regularly be updated.
 [Offers of help](https://github.com/OpenSourceBrain/Contribute/issues/3) to complete this are very welcome!
 
@@ -11,7 +11,7 @@ Note that this is a living document and it will regularly be updated.
    1.1 [Cognitive Neuroscience][b_1.1]  
    
 2. Computational modelling  
-   2.1 [Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems][b_2.1]  
+   2.1 [Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems][b_2.1], Peter Dayan and LF Abbott 
    2.2 [Introduction To The Theory Of Neural Computation][b_2.2]  
    2.3 [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information][b_2.3]  
    2.4 [The handbook of brain theory and neural networks][b_2.3]  
