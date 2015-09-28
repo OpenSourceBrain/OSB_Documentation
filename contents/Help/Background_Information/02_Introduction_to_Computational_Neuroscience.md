@@ -37,8 +37,10 @@ Note that this is a living document and it will regularly be updated.
 #### Publications
 
 1. Review articles  
+   - TODO...
   
 2. Classic papers  
+   - TODO...
 
 
 [p_1.5]: http://www.sciencedirect.com/science/article/pii/S0893608006000268
@@ -51,9 +53,9 @@ Note that this is a living document and it will regularly be updated.
 https://github.com/OpenSourceBrain/OSB_Documentation/blob/master/contents/Help/07_Simulators.md) file.  
 
    - Markup Languages  
-   &nbsp;&nbsp;&nbsp;&nbsp;1.2.1 A Model Description Language for Computational Neuroscience [(NeuroML)][s_1.2.1]  
-   &nbsp;&nbsp;&nbsp;&nbsp;1.2.2 Systems Biology Markup Language [(SBML)][s_1.2.2]  
-   &nbsp;&nbsp;&nbsp;&nbsp;1.2.3 [CellML][s_1.2.3]  
+      - A Model Description Language for Computational Neuroscience [(NeuroML)][s_1.2.1]  
+      - Systems Biology Markup Language [(SBML)][s_1.2.2]  
+      - [CellML][s_1.2.3]  
 
 [s_1.2.1]: http://www.neuroml.org/home
 [s_1.2.2]: http://www.neuroml.org/home
