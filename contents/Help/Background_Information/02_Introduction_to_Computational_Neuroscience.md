@@ -8,20 +8,20 @@ Note that this is a living document and it will regularly be updated.
 #### Books
 
 1. Neuroscience  
-   1.1 [Cognitive Neuroscience][b_1.1]  
+   - [Cognitive Neuroscience][b_1.1]  
    
 2. Computational modelling  
-   2.1 [Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems][b_2.1], Peter Dayan and LF Abbott 
-   2.2 [Introduction To The Theory Of Neural Computation][b_2.2]  
-   2.3 [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information][b_2.3]  
-   2.4 [The handbook of brain theory and neural networks][b_2.3]  
+   - [Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems][b_2.1], Dayan and Abbott
+   - [Introduction To The Theory Of Neural Computation][b_2.2]  
+   - [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information][b_2.3]  
+   - [The handbook of brain theory and neural networks][b_2.3]  
    
 3. Programming  
-   3.1 [Matlab for Neuroscientists][b_3.1]  
-   3.2 [SciPy and NumPy][b_3.2]  
-   3.3 [Python for Data Analysis][b_3.3]  
-   3.4 [Think Stats][b_3.4]  
-   3.5 [Dive into Python][b_3.5]  
+   - [Matlab for Neuroscientists][b_3.1]  
+   - [SciPy and NumPy][b_3.2]  
+   - [Python for Data Analysis][b_3.3]  
+   - [Think Stats][b_3.4]  
+   - [Dive into Python][b_3.5]  
 
 [b_1.1]: http://www.amazon.com/Cognitive-Neuroscience-Biology-Mind-Edition/dp/0393111369
 [b_2.1]: http://www.gatsby.ucl.ac.uk/~dayan/book/
@@ -46,11 +46,11 @@ Note that this is a living document and it will regularly be updated.
 #### Software
 
 1. Modelling   
-   1.1 Simulators  
+   - Simulators  
    &nbsp;&nbsp;&nbsp;&nbsp;1.1.1 Simulator software packages' links are available in the [simulators.md](
 https://github.com/OpenSourceBrain/OSB_Documentation/blob/master/contents/Help/07_Simulators.md) file.  
 
-   1.2 Markup Languages  
+   - Markup Languages  
    &nbsp;&nbsp;&nbsp;&nbsp;1.2.1 A Model Description Language for Computational Neuroscience [(NeuroML)][s_1.2.1]  
    &nbsp;&nbsp;&nbsp;&nbsp;1.2.2 Systems Biology Markup Language [(SBML)][s_1.2.2]  
    &nbsp;&nbsp;&nbsp;&nbsp;1.2.3 [CellML][s_1.2.3]  
@@ -61,21 +61,21 @@ https://github.com/OpenSourceBrain/OSB_Documentation/blob/master/contents/Help/0
 
 
 2. Data analysis and scientific computing  
-   2.1 [Pandas, python][s_2.1]  
-   2.2 [NumPy, python][s_2.2]  
-   2.3 [SciPy, python][s_2.3]  
+   - [Pandas, python][s_2.1]  
+   - [NumPy, python][s_2.2]  
+   - [SciPy, python][s_2.3]  
    
 3. Data visualization  
-   3.1 [matplotlib, python][s_3.1]  
-   3.2 [prettyplotlib, python][s_3.2]  
-   3.3 [bokeh, python][s_3.3]  
-   3.4 [ggplot, R][s_3.4]  
+   - [matplotlib, python][s_3.1]  
+   - [prettyplotlib, python][s_3.2]  
+   - [bokeh, python][s_3.3]  
+   - [ggplot, R][s_3.4]  
 
 4. Machine learning  
-  4.1 [PyBrain, python][s_4.1]  
-  4.2 [SciKit, python][s_4.2]  
-  4.3 [Plearn2, python][s_4.2]  
-  4.4 [Theano, python][s_4.2]  
+   - [PyBrain, python][s_4.1]  
+   - [SciKit, python][s_4.2]  
+   - [Plearn2, python][s_4.2]  
+   - [Theano, python][s_4.2]  
   
 [s_2.1]: http://pandas.pydata.org
 [s_2.2]: http://www.numpy.org
@@ -117,15 +117,15 @@ https://github.com/OpenSourceBrain/OSB_Documentation/blob/master/contents/Help/0
 #### Institutions, Laboratories and Research Groups
 
 1. Asia  
-   1.1 [Computational Neuroscience Laboratories, ATR][larg_1.1]  
-   1.2 [RIKEN Brain Science Institute (BSI)][larg_1.2]  
-   1.3 [Neural Computation Unit, OIST][larg_1.3]  
-   1.4 [Computational Neuroscience Unit, OIST][larg_1.4]  
+   - [Computational Neuroscience Laboratories, ATR][larg_1.1]  
+   - [RIKEN Brain Science Institute (BSI)][larg_1.2]  
+   - [Neural Computation Unit, OIST][larg_1.3]  
+   - [Computational Neuroscience Unit, OIST][larg_1.4]  
 
 2. Europe  
-   2.1 [National Bernstein Network Computational Neuroscience][larg_2.1]  
-   2.2 [Gatsby Computational Neuroscience Unit][larg_2.2]  
-   2.3 [Centre for Computational Neuroscience and Cognitive Robotics (CNCR)][larg_2.3]  
+   - [National Bernstein Network Computational Neuroscience][larg_2.1]  
+   - [Gatsby Computational Neuroscience Unit][larg_2.2]  
+   - [Centre for Computational Neuroscience and Cognitive Robotics (CNCR)][larg_2.3]  
 
 3. USA  
 
@@ -141,9 +141,9 @@ https://github.com/OpenSourceBrain/OSB_Documentation/blob/master/contents/Help/0
 #### Mailing Lists, Blogs and News  
 
 1. Mailing lists  
-  1.1 Computational Neuroscience [(neuroinf)][mlbn_1.1]  
-  1.2 Computational and Systems Neuroscience [(Cosyne)][mlbn_1.2]  
-  1.3 The connectionists mailing list [(connectionists)][mlbn_1.3]
+   - Computational Neuroscience [(neuroinf)][mlbn_1.1]  
+   - Computational and Systems Neuroscience [(Cosyne)][mlbn_1.2]  
+   - The connectionists mailing list [(connectionists)][mlbn_1.3]
 
 2. Blogs  
 
@@ -160,22 +160,22 @@ https://github.com/OpenSourceBrain/OSB_Documentation/blob/master/contents/Help/0
 #### Online courses 
 
 1. Coursera   
-  1.1 [Computational Neuroscience][oc_1.1]  
-  1.2 [Exploring Neural Data][oc_1.2]  
-  1.3 [Machine Learning][oc_1.3]  
-  1.4 [Synapses, Neurons and Brains][oc_1.4]  
+   - [Computational Neuroscience][oc_1.1]  
+   - [Exploring Neural Data][oc_1.2]  
+   - [Machine Learning][oc_1.3]  
+   - [Synapses, Neurons and Brains][oc_1.4]  
 
 2. edX  
-  2.1 [Fundamentals of Neuroscience, Part I][oc_2.1]  
-  2.2 [Fundamentals of Neuroscience, Part II][oc_2.2]
+   - [Fundamentals of Neuroscience, Part I][oc_2.1]  
+   - [Fundamentals of Neuroscience, Part II][oc_2.2]
   
 3. Wulfram Gerstner  
-  3.1 [Neuronal Dynamics - Computational Neuroscience of Single Neurons][oc_3.1]  
-  3.2 [Modeling of Biological Neurons and Neural Networks][oc_3.2]
+   - [Neuronal Dynamics - Computational Neuroscience of Single Neurons][oc_3.1]  
+   - [Modeling of Biological Neurons and Neural Networks][oc_3.2]
   
 4. OCW MIT  
-  4.1 [Introduction to Computational Neuroscience][oc_4.1]  
-  4.2 [Computational Cognitive Science][oc_4.2]  
+   - [Introduction to Computational Neuroscience][oc_4.1]  
+   - [Computational Cognitive Science][oc_4.2]  
 
 [oc_1.1]: https://www.coursera.org/course/compneuro
 [oc_1.2]: https://www.coursera.org/course/neuraldata
