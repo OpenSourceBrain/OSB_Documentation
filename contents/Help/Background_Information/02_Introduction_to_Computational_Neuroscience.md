@@ -87,8 +87,8 @@ https://github.com/OpenSourceBrain/OSB_Documentation/blob/master/contents/Help/0
 4. Machine learning  
    - [PyBrain, python][s_4.1]  
    - [SciKit, python][s_4.2]  
-   - [Plearn2, python][s_4.2]  
-   - [Theano, python][s_4.2]  
+   - [Pylearn2, python][s_4.3]  
+   - [Theano, python][s_4.4]  
   
 [s_2.1]: http://pandas.pydata.org
 [s_2.2]: http://www.numpy.org
