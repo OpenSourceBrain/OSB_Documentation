@@ -88,7 +88,8 @@ https://github.com/OpenSourceBrain/OSB_Documentation/blob/master/contents/Help/0
    - [PyBrain, python][s_4.1]  
    - [SciKit, python][s_4.2]  
    - [Pylearn2, python][s_4.3]  
-   - [Theano, python][s_4.4]  
+   - [Theano, python][s_4.4] 
+   - [nilearn, python][s_4.5]
   
 [s_2.1]: http://pandas.pydata.org
 [s_2.2]: http://www.numpy.org
@@ -101,7 +102,7 @@ https://github.com/OpenSourceBrain/OSB_Documentation/blob/master/contents/Help/0
 [s_4.2]: http://scikit-learn.org/stable/
 [s_4.3]: http://deeplearning.net/software/pylearn2/
 [s_4.4]: http://deeplearning.net/software/theano/
-
+[s_4.5]: http://nilearn.github.io/
 
 #### Databases 
 
@@ -141,6 +142,8 @@ https://github.com/OpenSourceBrain/OSB_Documentation/blob/master/contents/Help/0
    - [Centre for Computational Neuroscience and Cognitive Robotics (CNCR)][larg_2.3]  
 
 3. USA  
+   - [Allen Institute of Brain Science][larg_2.4]
+   - [Child Mind Institute][larg_2.5]
 
 [larg_1.1]: http://www.cns.atr.jp/en/home-3/cns/
 [larg_1.2]: http://www.brain.riken.jp/en/
@@ -149,7 +152,8 @@ https://github.com/OpenSourceBrain/OSB_Documentation/blob/master/contents/Help/0
 [larg_2.1]: http://www.nncn.de/en
 [larg_2.2]: http://www.gatsby.ucl.ac.uk/
 [larg_2.3]: http://www.birmingham.ac.uk/research/activity/cncr/index.aspx
-
+[larg_2.4]: https://www.alleninstitute.org/our-science/brain-science/
+[larg_2.5]: http://www.childmind.org/
 
 #### Mailing Lists, Blogs and News  
 
