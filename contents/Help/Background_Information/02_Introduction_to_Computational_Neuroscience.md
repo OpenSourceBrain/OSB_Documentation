@@ -143,7 +143,6 @@ https://github.com/OpenSourceBrain/OSB_Documentation/blob/master/contents/Help/0
 
 3. USA  
    - [Allen Institute of Brain Science][larg_2.4]
-   - [Child Mind Institute][larg_2.5]
 
 [larg_1.1]: http://www.cns.atr.jp/en/home-3/cns/
 [larg_1.2]: http://www.brain.riken.jp/en/
@@ -152,8 +151,7 @@ https://github.com/OpenSourceBrain/OSB_Documentation/blob/master/contents/Help/0
 [larg_2.1]: http://www.nncn.de/en
 [larg_2.2]: http://www.gatsby.ucl.ac.uk/
 [larg_2.3]: http://www.birmingham.ac.uk/research/activity/cncr/index.aspx
-[larg_2.4]: https://www.alleninstitute.org/our-science/brain-science/
-[larg_2.5]: http://www.childmind.org/
+[larg_2.4]: http://www.alleninstitute.org/our-science/brain-science/research/open-science-resources/
 
 #### Mailing Lists, Blogs and News  
 
