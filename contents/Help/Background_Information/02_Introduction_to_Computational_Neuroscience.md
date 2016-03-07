@@ -8,7 +8,8 @@ Note that this is a living document and it will regularly be updated.
 #### Books
 
 1. Neuroscience  
-   - [Cognitive Neuroscience][b_1.1]  
+   - [Cognitive Neuroscience][b_1.1], Michael S. Gazzaniga, Richard B. Ivry and George R. Mangun
+   - [Principles of Neural Science][b_1.2], Eric Kandel
    
 2. Computational modelling/theoretical neuroscience  
    - [Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems][b_2.1], Peter Dayan and LF Abbott
@@ -27,7 +28,12 @@ Note that this is a living document and it will regularly be updated.
    - [Think Stats][b_3.4]  
    - [Dive into Python][b_3.5]  
 
-[b_1.1]: http://www.amazon.com/Cognitive-Neuroscience-Biology-Mind-Edition/dp/0393111369
+4. Machine learning
+   -  [Pattern Recognition and Machine Learnign][b_4.1], Christopher M Bishop
+   -  [Machine Learning, A Probabalistic perspective][b_4.2], Kevin P. Murphy
+
+[b_1.1]: http://www.amazon.com/Cognitive-Neuroscience-Biology-Mind-4th/dp/0393913481/ref=sr_1_1?s=books&ie=UTF8&qid=1457248826&sr=1-1&keywords=cognitive+neuroscience+gazzaniga
+[b_1.2]: http://www.amazon.com/Principles-Neural-Science-Eric-Kandel/dp/0838577016
 [b_2.1]: http://www.gatsby.ucl.ac.uk/~dayan/book/
 [b_2.2]: http://www.amazon.com/Introduction-Theory-Neural-Computation-Institute/dp/0201515601 
 [b_2.3]: http://www.amazon.com/Vision-Computational-Investigation-Representation-Information/dp/0262514621
@@ -41,6 +47,8 @@ Note that this is a living document and it will regularly be updated.
 [b_3.3]: http://shop.oreilly.com/product/0636920023784.do
 [b_3.4]: http://greenteapress.com/thinkstats/
 [b_3.5]: http://www.diveintopython.net/
+[b_4.1]: http://www.amazon.com/Pattern-Recognition-Machine-Learning-Christopher/dp/8132209060/ref=pd_sim_14_4?ie=UTF8&dpID=51qDRMnf9LL&dpSrc=sims&preST=_AC_UL160_SR118%2C160_&refRID=1N99QG8VBWEBCHJ893BR
+[b_4.2]: https://mitpress.mit.edu/books/machine-learning-0
 
 #### Publications
 
