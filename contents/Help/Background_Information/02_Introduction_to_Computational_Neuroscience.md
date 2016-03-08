@@ -123,13 +123,6 @@ channel gating and the detailed positions of the channels themselves.
 It supports representation of ion channels as kinetic schemes involving
 one or more serial gating complexes. 
 
-- [SNNAP](http://snnap.uth.tmc.edu): Simulator for Neural Networks and Action Potentials is a
-tool for rapid development and simulation of realistic models of single
-neurons and neural networks. It includes mathematical descriptions of
-ion currents and intracellular second-messengers and ions. In addition,
-current flow can be simulated in compartmental models of neurons.
-
-
 ####1.2 Models of subcellular processes
 
 - [GEPASI](http://www.gepasi.org): GEPASI is for modelling biochemical systems. It translates
@@ -151,11 +144,6 @@ to neuronal networks, and to still larger systems.
 fire or small compartment Hodgkin–Huxley neurons. It is written
 in Python and runs on many platforms.
 
-- [CATACOMB2](http://www.compneuro.org/catacomb): Components And Tools for Accessible COMputer
-Modelling in Biology. CATACOMB 2 is a workbench for developing
-biologically plausible network models to perform behavioural tasks in
-virtual environments.
-
 - [LENS](http://tedlab.mit.edu/~dr/Lens/index.html): The Light, Efficient Network Simulator for running artificial
 neural network models. 
 
@@ -176,20 +164,13 @@ be heterogeneous collections of different model spiking point neurons.
 [s_1.2.3]: http://www.cellml.org/
 
 
-####3. Data analysis and scientific computing
+####3. Data analysis
 
-- [Colquhoun&rsquo;s analysis programs](http://www.ucl.ac.uk/Pharmacology/dcpr95.html):
-A suite of programs, developed by David Colquhoun and coworkers (Colquhoun et al., 1996), which analyse
-single-channel data to determine opening and closing times, and
-then find the maximum likelihood fit of the kinetic scheme to the open
-and close time distributions.  
-
-- [QuB](http://www.qub.buffalo.edu): QuB is an alternative suite of programs to the Colquhoun programs,
-which use a different algorithm (Qin et al., 1996) to infer kinetic
+- [QuB](http://www.qub.buffalo.edu): Based on (Qin et al., 1996) to infer kinetic
 scheme parameters from single-channel data.
 
 ####4. Libraries  
-Various uself libraries include-  
+Various usefull libraries include-  
 
 ####4.1 Data analysis and scientific computing
    - [Pandas, python][s_2.1]  
@@ -231,14 +212,14 @@ Various uself libraries include-
 - Digitally Reconstructed Neurons Database [(NeuroMorpho)][d_3]  
 - Neuroscience Information Framework [(NIF)][d_4]  
 - Brain Operation Database System [(BODB)][d_5]  
-- BioModels Database [(BioModelDB)][d_6]  
+- BioModels Database [(BioModelDB)][d_6]
 
 [d_1]: https://senselab.med.yale.edu/ModelDB/
 [d_2]: http://opensourcebrain.org/
 [d_3]: http://neuromorpho.org/neuroMorpho/index.jsp
 [d_4]: http://www.neuinfo.org/about/index.shtm
 [d_5]: http://bodb.usc.edu/bodb/
-[d_6]: http://www.ebi.ac.uk/biomodels-main/
+[d_6]: http://www.ebi.ac.uk/biomodels-main/  
 
 ### Organisations 
 
@@ -254,24 +235,44 @@ Various uself libraries include-
    - [Computational Neuroscience Laboratories, ATR][larg_1.1]  
    - [RIKEN Brain Science Institute (BSI)][larg_1.2]  
    - [Neural Computation Unit, OIST][larg_1.3]  
-   - [Computational Neuroscience Unit, OIST][larg_1.4]  
+   - [Computational Neuroscience Unit, OIST][larg_1.4]
+   - [Neurophysics lab, Hebrew University of Jerusalem, Israel][larg_1.5]
+   - [Prof. Upinder S. Bhalla, NCBS, India][larg_1.6]
 
 ####2. Europe  
    - [National Bernstein Network Computational Neuroscience][larg_2.1]  
    - [Gatsby Computational Neuroscience Unit][larg_2.2]  
-   - [Centre for Computational Neuroscience and Cognitive Robotics (CNCR)][larg_2.3]  
+   - [Centre for Computational Neuroscience and Cognitive Robotics (CNCR)][larg_2.3]
+   - [Prof. Wolfgang Maass, Institute for Theoretical Computer Science, TU Graz][larg_2.4]  
 
 ####3. USA  
-   - [Allen Institute of Brain Science][larg_2.4]
+   - [Allen Institute of Brain Science][larg_3.1]
+   - [Swartz Center for Computational Neuroscience, UCSD, CA][larg_3.2]
+   - [Center for the Neural Basis of Cognition][larg_3.3]
+   - [Seung Lab, Priceton, NY][larg_3.4]
+   - [Neural Dynamics and Computation Lab, Stanford, CA][larg_3.5]
+   - [Center for Theoretical Neuroscience, Columbia University, NY][larg_3.6]
+   - [Sejnowski Lab, UCSD, CA][larg_3.7]  
 
+A more comprehensive list of laboratories can be found [here](http://home.earthlink.net/~perlewitz/labs.html).
+  
 [larg_1.1]: http://www.cns.atr.jp/en/home-3/cns/
 [larg_1.2]: http://www.brain.riken.jp/en/
 [larg_1.3]: https://groups.oist.jp/ncu/research
 [larg_1.4]: https://groups.oist.jp/cnu/
+[larg_1.5]: http://neurophysics.huji.ac.il/
+[larg_1.6]: https://www.ncbs.res.in/faculty/bhalla-research
 [larg_2.1]: http://www.nncn.de/en
 [larg_2.2]: http://www.gatsby.ucl.ac.uk/
 [larg_2.3]: http://www.birmingham.ac.uk/research/activity/cncr/index.aspx
-[larg_2.4]: http://www.alleninstitute.org/our-science/brain-science/research/open-science-resources/
+[larg_2.4]: http://www.igi.tugraz.at/maass/#Research
+[larg_3.1]: http://www.alleninstitute.org/our-science/brain-science/research/open-science-resources/
+[larg_3.2]: http://sccn.ucsd.edu/
+[larg_3.3]: http://www.cnbc.cmu.edu/computational-neuroscience
+[larg_3.4]: http://seunglab.org/ 
+[larg_3.5]: http://ganguli-gang.stanford.edu/
+[larg_3.6]: http://www.neurotheory.columbia.edu/index.html
+[larg_3.7]: http://cnl.salk.edu/
 
 ### Mailing Lists, Blogs and News  
 
@@ -280,15 +281,27 @@ Various uself libraries include-
    - Computational and Systems Neuroscience [(Cosyne)][mlbn_1.2]  
    - The connectionists mailing list [(connectionists)][mlbn_1.3]
 
-####2. Blogs  
+####2. Blogs
+   - [Neuroskeptic][mlbn_2.1]
+   - [Oscillatory Thoughts][mlbn_2.2]
+   - [The Scicurious Brain][mlbn_2.3]
+   - [xcorr : comp neuro][mlbn_2.4]
+   - [PLOS Neuro][mlbn_2.5]
+   - [Brain Box][mlbn_2.6]    
 
 ####3. News  
-  3.1 [Science Daily][mlbn_3.1]  
-  3.2 [Neuroscience News][mlbn_3.2]  
-
+   - [Science Daily][mlbn_3.1]  
+   - [Neuroscience News][mlbn_3.2]  
+   
 [mlbn_1.1]: http://www.neuroinf.org/mailman/listinfo/comp-neuro
 [mlbn_1.2]: https://groups.google.com/forum/#!forum/cosyne-announce
 [mlbn_1.3]: http://www.cnbc.cmu.edu/connectionists
+[mlbn_2.1]: http://blogs.discovermagazine.com/neuroskeptic/#.Vt59D5x9600
+[mlbn_2.2]: http://blog.ketyov.com/
+[mlbn_2.3]: http://blogs.scientificamerican.com/scicurious-brain/
+[mlbn_2.4]: https://xcorr.net/
+[mlbn_2.5]: http://blogs.plos.org/neuro/
+[mlbn_2.6]: http://the-brain-box.blogspot.in/
 [mlbn_3.1]: http://www.sciencedaily.com/articles/c/computational_neuroscience.htm
 [mlbn_3.2]: http://neurosciencenews.com/neuroscience-terms/computational-neuroscience/
 
@@ -327,8 +340,10 @@ Various uself libraries include-
 
 - [Computational Neuroscience on the web][or_1]
 - [Interesting (Computational) Neuroscience papers ][or_2]
-- [Comments on Theoretical Neuroscience Books][or_3] 
+- [Comments on Theoretical Neuroscience Books][or_3]
+- [Introductory lectures on computational neuroscience][or_4] 
 
 [or_1]: http://home.earthlink.net/~perlewitz/
 [or_2]: http://compneuropapers.tumblr.com/
 [or_3]: http://compneuro.uwaterloo.ca/research/theoretical-neuroscience/comments-on-theoretical-neuroscience-books.html
+[or_4]: http://www.genesis-sim.org/cnslecs/cnslecs.html
