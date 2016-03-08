@@ -19,7 +19,7 @@ Note that this is a living document and it will regularly be updated.
    - [Computational Neuroscience: Realistic Modeling for Experimentalists][deschutter]. E. De Schutter (ed.)
    - [Introduction To The Theory Of Neural Computation][b_2.2], John A. Hertz, Anders S. Krogh and Richard G. Palmer
    - [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information][b_2.3], David Marr  
-   - [The handbook of brain theory and neural networks][b_2.3], Michael A. Arbib (ed.)
+   - [The handbook of brain theory and neural networks][b_2.4], Michael A. Arbib (ed.)
    
 ####3. Programming  
    - [Matlab for Neuroscientists][b_3.1]  
@@ -37,7 +37,7 @@ Note that this is a living document and it will regularly be updated.
 [b_2.1]: http://www.gatsby.ucl.ac.uk/~dayan/book/
 [b_2.2]: http://www.amazon.com/Introduction-Theory-Neural-Computation-Institute/dp/0201515601 
 [b_2.3]: http://www.amazon.com/Vision-Computational-Investigation-Representation-Information/dp/0262514621
-[b_2.4]: http://mitpress.mit.edu/books/handbook-brain-theory-and-neural-networks
+[b_2.4]: http://www.amazon.com/Handbook-Brain-Theory-Neural-Networks/dp/0262011972
 [kochsegev]: https://mitpress.mit.edu/books/methods-neuronal-modeling
 [willshaw]: http://www.compneuroprinciples.org/
 [gerstner]: http://neuronaldynamics.epfl.ch/
@@ -190,7 +190,7 @@ Various usefull libraries include-
    - [SciKit, python][s_4.2]  
    - [Pylearn2, python][s_4.3]  
    - [Theano, python][s_4.4] 
-   - [nilearn, python][s_4.5]
+   - [Nilearn, python][s_4.5]
   
 [s_2.1]: http://pandas.pydata.org
 [s_2.2]: http://www.numpy.org
@@ -199,7 +199,7 @@ Various usefull libraries include-
 [s_3.2]: http://blog.olgabotvinnik.com/prettyplotlib/
 [s_3.3]: http://bokeh.pydata.org/en/latest/
 [s_3.4]: http://ggplot2.org/
-[s_4.1]: http://pybrain.or
+[s_4.1]: http://pybrain.org
 [s_4.2]: http://scikit-learn.org/stable/
 [s_4.3]: http://deeplearning.net/software/pylearn2/
 [s_4.4]: http://deeplearning.net/software/theano/
@@ -254,7 +254,7 @@ Various usefull libraries include-
    - [Center for Theoretical Neuroscience, Columbia University, NY][larg_3.6]
    - [Sejnowski Lab, UCSD, CA][larg_3.7]  
 
-A more comprehensive list of laboratories can be found [here](http://home.earthlink.net/~perlewitz/labs.html).
+A more comprehensive list of labs, centers and researchers can be found [here](http://home.earthlink.net/~perlewitz/labs.html).
   
 [larg_1.1]: http://www.cns.atr.jp/en/home-3/cns/
 [larg_1.2]: http://www.brain.riken.jp/en/
@@ -277,7 +277,7 @@ A more comprehensive list of laboratories can be found [here](http://home.earthl
 ### Mailing Lists, Blogs and News  
 
 ####1. Mailing lists  
-   - Computational Neuroscience [(neuroinf)][mlbn_1.1]  
+   - Computational Neuroscience [(Comp-neuro)][mlbn_1.1]  
    - Computational and Systems Neuroscience [(Cosyne)][mlbn_1.2]  
    - The connectionists mailing list [(connectionists)][mlbn_1.3]
 
