@@ -60,13 +60,30 @@ Note that this is a living document and it will regularly be updated.
    - Brette, R., Rudolph, M., Carnevale, T., Hines, M., Beeman, D., Bower, J.M., Diesmann, M., Morrison, A., Goodman, P.H., Harris Jr, F.C. and Zirpe, M., 2007. [Simulation of networks of spiking neurons: a review of tools and strategies.][p_1.4] Journal of computational neuroscience, 23(3), pp.349-398.
 
 2. Classic papers  
-   - TODO...
+   -  Hodgkin, A.L. and Huxley, A.F., 1952. [A quantitative description of membrane current and its application to conduction and excitation in nerve.][p_2.1] The Journal of physiology, 117(4), p.500.
+   -  McCulloch, W.S. and Pitts, W., 1943. [A logical calculus of the ideas immanent in nervous activity.][p_2.2] The bulletin of mathematical biophysics, 5(4), pp.115-133.
+   -  Donald O.Hebb, [The Organization of Behavior,][p_2.3] New York: Wiley, Introduction and Chapter 4, "The first stage of perception: growth of the assembly," pp. xi-xix, 60-78.
+   - Lashley, K.S., 1950. [In search of the engram.][p_2.4]
+   - Von Neumann, J. and Kurzweil, R., 2012. [The computer and the brain.][p_2.5] Yale University Press.
+   - Rosenblatt, F., 1958. [The perceptron: a probabilistic model for information storage and organization in the brain.][p_2.6] Psychological review, 65(6), p.386
+   - Marr, D. and Poggio, T., 1976. [Cooperative computation of stereo disparity.][p_2.7] Science, 194(4262), pp.283-287.
+   - Grossberg, S., 1982. [How does a brain build a cognitive code?.][p_2.8] In Studies of mind and brain (pp. 1-52). Springer Netherlands.
+   - Ackley, D.H., Hinton, G.E. and Sejnowski, T.J., 1985. [A learning algorithm for Boltzmann machines.][p_2.9] Cognitive science, 9(1), pp.147-169.
 
 [p_1.1]: http://invibe.net/biblio_database_dyva/woda/data/att/0b79.file.pdf
 [p_1.2]: ftp://134.76.12.4/pub/misc2/neuron/papers/nsimenv.pdf
 [p_1.3]: http://link.springer.com/book/10.1007/978-1-4614-1424-7
 [p_1.4]: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2638500/
 [p_1.5]: http://www.sciencedirect.com/science/article/pii/S0893608006000268
+[p_2.1]: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392413/
+[p_2.2]: http://www.minicomplexity.org/pubs/1943-mcculloch-pitts-bmb.pdf
+[p_2.3]: http://www.cs.cmu.edu/~bhiksha/courses/deeplearning/Fall.2013/slides.2014/3.Srivaths.Hebb.pdf
+[p_2.4]: http://gureckislab.org/courses/fall13/learnmem/papers/Lashley1950.pdf
+[p_2.5]: https://books.google.co.in/books/about/The_Computer_and_the_Brain.html?id=Q30MqJjRv1gC&redir_esc=y
+[p_2.6]: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.335.3398
+[p_2.7]: http://www.dtic.mil/dtic/tr/fulltext/u2/a030748.pdf
+[p_2.8]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.228.3623&rep=rep1&type=pdf
+[p_2.9]: http://onlinelibrary.wiley.com/doi/10.1207/s15516709cog0901_7/pdf
    
 #### Open Source Brain projects
 
