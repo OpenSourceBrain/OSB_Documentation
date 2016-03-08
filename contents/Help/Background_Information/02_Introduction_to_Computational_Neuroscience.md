@@ -52,12 +52,20 @@ Note that this is a living document and it will regularly be updated.
 
 #### Publications
 
-1. Review articles  
-   - TODO...
-  
+1. Review articles 
+   - Atick, J.J., 1992. [Could information theory provide an ecological theory of sensory processing?.][p_1.1] Network: Computation in neural systems, 3(2), pp.213-251.
+   - Hines, M.L. and Carnevale, N.T., 1997. [The NEURON simulation environment.][p_1.2] Neural computation, 9(6), pp.1179-1209.
+   - Oztop, E., Kawato, M. and Arbib, M., 2006. [Mirror neurons and imitation: A computationally guided review.][p_1.5] Neural Networks, 19(3), pp.254-271.
+   - Bower, J.M., 2013. [20 years of computational neuroscience.][p_1.3] New York: Springer.  
+   - Brette, R., Rudolph, M., Carnevale, T., Hines, M., Beeman, D., Bower, J.M., Diesmann, M., Morrison, A., Goodman, P.H., Harris Jr, F.C. and Zirpe, M., 2007. [Simulation of networks of spiking neurons: a review of tools and strategies.][p_1.4] Journal of computational neuroscience, 23(3), pp.349-398.
+
 2. Classic papers  
    - TODO...
 
+[p_1.1]: http://invibe.net/biblio_database_dyva/woda/data/att/0b79.file.pdf
+[p_1.2]: ftp://134.76.12.4/pub/misc2/neuron/papers/nsimenv.pdf
+[p_1.3]: http://link.springer.com/book/10.1007/978-1-4614-1424-7
+[p_1.4]: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2638500/
 [p_1.5]: http://www.sciencedirect.com/science/article/pii/S0893608006000268
    
 #### Open Source Brain projects
