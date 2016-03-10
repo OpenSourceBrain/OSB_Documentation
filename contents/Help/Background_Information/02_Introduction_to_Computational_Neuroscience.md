@@ -95,65 +95,6 @@ See [here](http://www.opensourcebrain.org/search_custom_field?f[]=43&op[43]=~&v[
 
 An overview of the main target simulators for models in Open Source Brain can be found [here](https://github.com/OpenSourceBrain/OSB_Documentation/blob/master/contents/Help/08_Simulators.md).
 
-####1.1 Compartmental models of neurons and ensembles of neurons
-
-The following popular neural simulators are available.
-   
-- [NEURON](http://www.neuron.yale.edu): Cell models and their simulation are specified with the
-   HOC scripting language, or with GUI tools. The NMODL language
-   allows for adding new components such as new ion channel models.
-   A large user base and many example models are freely available
-   through ModelDB (see below). 
-
-- [GENESIS](http://www.genesis-sim.org): GEneral NEural SImulation System. Similar remit and functionality to NEURON. It also has a large user base and is undergoing continual development and improvement. 
-
-- [neuroConstruct](http://www.neuroconstruct.org): neuroConstruct (Gleeson et al., 2007) automates the
-generation of script files for other simulation platforms, principally
-NEURON and GENESIS. It provides a framework for creating networks
-of conductance-based neuronal models, visualising and analysing
-networks of cells in 3D, managing simulations and analysing network
-firing behaviour. It uses the target platform to actually run simulations.
-
-
-- [PSICS](http://www.psics.org): Parallel Stochastic Ion Channel Simulator is designed to carry
-out simulation of compartmental models containing stochastic ion
-channels represented by kinetic schemes. PSICS computes the behaviour
-of neurons, taking account of the stochastic nature of ion
-channel gating and the detailed positions of the channels themselves.
-It supports representation of ion channels as kinetic schemes involving
-one or more serial gating complexes. 
-
-####1.2 Models of subcellular processes
-
-- [GEPASI](http://www.gepasi.org): GEPASI is for modelling biochemical systems. It translates
-the language of chemistry (reactions) to mathematics (matrices and differential
-equations) in a transparent way. It simulates the kinetics of
-systems of biochemical reactions and provides a number of tools to
-fit models to data, optimise any function of the model, perform
-metabolic control analysis and linear stability analysis.
-
-- [MOOSE](http://moose.sourceforge.net): Multiscale Object-Oriented Simulation Environment is the
-base and numerical core for large, detailed simulations in computational
-neuroscience and systems biology. MOOSE spans the range
-from single molecules to subcellular networks, from single cells
-to neuronal networks, and to still larger systems.
-
-####1.3 Models of simplified neurons and their networks
-
-- [BRIAN](http://www.briansimulator.org): BRIAN is a simulator for spiking neural networks of integrate and-
-fire or small compartment Hodgkin–Huxley neurons. It is written
-in Python and runs on many platforms.
-
-- [LENS](http://tedlab.mit.edu/~dr/Lens/index.html): The Light, Efficient Network Simulator for running artificial
-neural network models. 
-
-- [NEST](http://www.nest-initiative.org): NEural Simulation Technology for large-scale biologically realistic
-(spiking) neuronal networks.Neural models are usually point neurons, such as integrate-and-fire.
-
-- [PCSIM](http://www.lsm.tugraz.at/pcsim): Parallel neural Circuit SIMulator is a tool for simulating networks
-of millions of neurons and billions of synapses. Networks can
-be heterogeneous collections of different model spiking point neurons.
-
 ####2. Markup Languages  
    - A Model Description Language for Computational Neuroscience [(NeuroML)][s_1.2.1]  
    - Systems Biology Markup Language [(SBML)][s_1.2.2]  
@@ -163,11 +104,6 @@ be heterogeneous collections of different model spiking point neurons.
 [s_1.2.2]: http://sbml.org/Main_Page
 [s_1.2.3]: http://www.cellml.org/
 
-
-####3. Data analysis
-
-- [QuB](http://www.qub.buffalo.edu): Based on (Qin et al., 1996) to infer kinetic
-scheme parameters from single-channel data.
 
 ####4. Libraries  
 Various usefull libraries include-  
