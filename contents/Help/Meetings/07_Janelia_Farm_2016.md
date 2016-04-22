@@ -12,4 +12,4 @@ researchers alike. This conference will bring together a range of experimentalis
 and neuroinformatics developers with the aim of facilitating a global, open infrastructure for 
 collaborative model development in neuroscience.
 
-More information [here](https://www.janelia.org/you-janelia/conferences/collaborative-development-data-driven-models-neural-systems).
+More information on the conference, and details on how to register can be found [here](https://www.janelia.org/you-janelia/conferences/collaborative-development-data-driven-models-neural-systems).
