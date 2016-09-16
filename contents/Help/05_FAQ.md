@@ -7,7 +7,7 @@ The Open Source Brain repository (OSB) is a public repository for detailed neuro
 
 While the models can be collaboratively developed in any simulator format, the ultimate aim is to get as much of the model as possible into simulator independent formats like [NeuroML](http://www.neuroml.org) and [PyNN](http://neuralensemble.org/trac/PyNN) to ensure modularity, accessibility and cross simulator portability.
 
-<img src="https://www.neuroml.org/images/neuro_1.png" alt="NeuroML" style="width: 350px;"/>
+<img src="https://www.neuroml.org/images/neuro_1.png" alt="NeuroML" width="200"/>
 
 
 ### Who’s behind OSB?
