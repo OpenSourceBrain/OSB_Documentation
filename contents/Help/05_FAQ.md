@@ -5,7 +5,7 @@ There are an increasing number of detailed single neuron and network models from
 
 The Open Source Brain repository (OSB) is a public repository for detailed neuronal models in standardised formats, with curated, stable releases which will evolve in line with new experimental findings, the latest modelling paradigms and simulator technology development. Anyone can contribute to any of the models on OSB, either through fixing a bug, adding new features or improving documentation for published models.
 
-While the models can be collaboratively developed in any simulator format, the ultimate aim is to get as much of the model as possible into simulator independent formats like [NeuroML](http://www.neuroml.org) and [PyNN](http://neuralensemble.org/trac/PyNN) to ensure modularity, accessibility and cross simulator portability.
+While the models can be collaboratively developed in any simulator format, the ultimate aim is to get as much of the model as possible into simulator independent formats like [NeuroML](http://www.neuroml.org) and [PyNN](http://neuralensemble.org/trac/PyNN) to ensure modularity, accessibility, cross simulator portability and to enable in-browser visualisation, analysis and simulation.
 
 <img src="https://www.neuroml.org/images/neuro_1.png" alt="NeuroML" width="200"/>
 
@@ -45,19 +45,20 @@ Yes! **If the model is already published, please submit to [ModelDB](http://sens
 
 If your model is not yet published but it still public (we salute you; you are [the future](http://www.openworm.org)) we’re very happy to have it, but would ask that you make sure the versions used in publications are archived in ModelDB.
 
-### I don't have my model in a public repository. Can I still create a project for my model?
-
-Yes! In order to create a project you only need a name. The more you add to your OSB project the more tools you can use in OSB. For instance by publish your model in a [repository](/docs/Help/Some_Extra_Information) and link it to your OSB projects you may look at it with the OSB Explorer or use some of the validation tools.
 
 ### Do I have to be registered for accessing OSB projects and tools?
 
-No. You can browse the OSB projects and use most of the OSB tools. However, if you would like to create your own project you should sign up. 
+No. You can browse the OSB projects and use most of the OSB tools. However, if you would like to create your own project you should sign up. Also, the new functionality for executing and replaying your own simulations through the OSB interface is only available for logged in users.
+
+### What is the licence/terms of use for models on OSB?
+
+Since the model code on OSB all resides in autonomous...
 
 ### How can I contribute?
 
 We are happy to hear from anyone interested in helping out with this initiative. We are particularly keen to get modellers or software developers in computational neuroscience involved.
 
-**There is a central list for projects in OSB (and related NeuroML tools) which require help from volunteers. See [here](http://opensourcebrain.org/docs#Contribute_To_OSB).**
+**Note: There is a central list for projects in OSB (and related NeuroML tools) which require help from volunteers. See [here](http://opensourcebrain.org/docs#Contribute_To_OSB).**
 
 Please sign up [here](/account/register) to be part of OSB or [contact us directly](mailto:info@opensourcebrain.org) for more information. You can also sign up to the **[OSB Announce mailing list](https://groups.google.com/forum/#!forum/osb-announce)** to get updates of progress, or the **[OSB Discuss mailing list](https://groups.google.com/forum/#!forum/osb-discuss)** for more detailed discussions on the various projects on OSB. If you find an issue or you would like to request a feature, you can create a [new issue](https://github.com/OpenSourceBrain/redmine/issues/new) our [GitHub repository](https://github.com/OpenSourceBrain/redmine).
 
