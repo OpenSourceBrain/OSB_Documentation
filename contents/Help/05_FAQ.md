@@ -52,7 +52,9 @@ No. You can browse the OSB projects and use most of the OSB tools. However, if y
 
 ### What is the licence/terms of use for models on OSB?
 
-Since the model code on OSB all resides in autonomous...
+Since all the scripts for models on OSB reside in autonomous repositories (e.g. on GitHub), each repository can (and should...) contain its own licence information. Unfortunately this is not the case for most of the repositories on OSB (which is a more widespread problem in scientific software development). Nevertheless, the clue is in the title... a user placing a model on **Open Source** Brain is probably keen to have it used and reused widely. If in doubt though and you want to be sure, open an issue on the repository in question (or mail [info@opensourcebrain.org](mailto:info@opensourcebrain.org)) requesting licence info be added to the repository.
+
+Don't forget the golden rule however (more important to scientists than software licences...): **if you use a model, reference the original publication which describes the model**. If there are significant changes in the OSB repo from the original model which you want to cite, we can generate a DOI/reference for a specific version of the model (e.g. [here](https://zenodo.org/communities/opensourcebrain/?page=1&size=20)).
 
 ### How can I contribute?
 
