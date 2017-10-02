@@ -16,7 +16,7 @@ This project was started in the [Silver Lab](http://www.ucl.ac.uk/silverlab) at 
 
 ![](http://www.neuroconstruct.org/images/wct.png)
 
-The Principal Investigator for the OSB project is [Angus Silver](/users/6) and the core team at UCL consists of [Padraig Gleeson](/users/4) (Project Manager), [Adrian Quintan](/users311), [Boris Marin](/users/67), [Eugenio Piasini](/users/3). A special thanks to [Matteo Cantarelli](/users/43) for his significant contributions to OSB while at UCL.
+The Principal Investigator for the OSB project is [Angus Silver](/users/6) and the core team at UCL consists of [Padraig Gleeson](/users/4) (Project Manager) and [Matt Earnshaw](users/751). Special thanks to [Matteo Cantarelli](/users/43), [Adrian Quintan](/users311), [Boris Marin](/users/67) and [Eugenio Piasini](/users/3) for their significant contributions to OSB while at UCL.
 
 A number of international research groups and organizations are currently involved in the Open Source Brain Initiative. See [here](/about) for more details.
 
