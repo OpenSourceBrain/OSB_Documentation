@@ -4,11 +4,11 @@ It is possible to run simulations on OSB directly from your browser
 
 TODO...
 
-#### Supported simulations
+### Supported simulations
 
 TODO...
 
-#### Connect to Dropbox
+### Connect to Dropbox
 
 TODO...
 
