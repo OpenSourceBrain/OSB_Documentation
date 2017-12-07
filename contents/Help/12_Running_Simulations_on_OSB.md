@@ -6,10 +6,18 @@ TODO...
 
 ### Supported simulations
 
-* Neuron
-* NetPyNE
+Neuron on OSB, jNeuroML on OSB, and NetPyNE on OSB simulation options run on the OSB platform's own server. Limitations on the size and duration of simulations apply.
+
+Neuron on NSG and NetPyNE on NSG run on the Neuroscience Gateway Portal. NetPyNE on NSG simulations can be run on up to 64 processors.
 
 ### Connect to Dropbox
 
-TODO...
+Simulation results in HDF5 format can be automatically sent to a Dropbox App folder.
 
+To enable this, click the "Configure Dropbox…" button in the run dialog.
+
+You will be asked to give Geppetto access to its own folder. Copy and paste the code into the dialog.
+
+![](https://raw.githubusercontent.com/OpenSourceBrain/OSB_Documentation/master/resources/images/dropbox-auth.png)
+
+After completing this configuration, the "Upload results to Dropbox on completion" option will be checked by default in the run dialog, and results files should appear automatically in your Apps/Geppetto folder.
