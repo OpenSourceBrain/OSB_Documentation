@@ -6,7 +6,8 @@ TODO...
 
 ### Supported simulations
 
-TODO...
+* Neuron
+* NetPyNE
 
 ### Connect to Dropbox
 
