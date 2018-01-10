@@ -1,7 +1,7 @@
 ### Welcome to Open Source Brain!
 
-We hope you'll find the information you require here, but if not, please [get in touch](/docs#How_To_Contact_Us).
-Below is a brief video tour, see the [five minute introduction](/docs#Five_Minute_Introduction) for a more detailed guide.
+We hope you'll find the information you require here, but if not, please [get in touch](http://www.opensourcebrain.org/docs#How_To_Contact_Us).
+Below is a brief video tour, see the [five minute introduction](http://www.opensourcebrain.org/docs#Five_Minute_Introduction) for a more detailed guide.
 
 ### Browse the projects currently available on OSB
 
