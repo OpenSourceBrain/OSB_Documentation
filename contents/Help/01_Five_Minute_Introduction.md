@@ -42,11 +42,11 @@ Once you are logged in and the project is persisted, you can begin working with 
 
 <img src="images/help/Fig-4-Clone.gif" class="img-help">
 
-**Recording variables** Any state variable that exists in the model can be recorded prior to running a simulation, meaning it will be possible to subsequently plot its values once the simulation is complete. You can record a variable by searching for it in the search bar (open it using the little <icon class="icon-search icon-2x"></icon> icon on the left hand side of the screen or pressing Ctrl+Space) and clicking on the Record icon <icon class="icon-circle-blank icon-2x"></icon>. The icon signifying state variables that can be recorded is <icon class="icon-superscript icon-2x"></icon> 
+**Recording variables** Any state variable that exists in the model can be recorded prior to running a simulation, meaning it will be possible to subsequently plot its values once the simulation is complete. You can record a variable by searching for it in the search bar (open it using the little <i class="fas fa-search"></i> icon on the left hand side of the screen or pressing Ctrl+Space) and clicking on the Record icon <i class="fas fa-circle-blank"></i>. The icon signifying state variables that can be recorded is <i class="fas fa-superscript"></i> 
 
 <img src="images/help/RecordVariable.gif" class="img-help">
 
-**Setting a parameter** Any parameter in the model can be dynamically changed to see what the impact of different values will be. Prior to running an experiment you can modify the values by searching for the parameter name in the search bar and changing the value in the input box. The icon signifying a parameter name is <icon class="icon-signin icon-2x"></icon>
+**Setting a parameter** Any parameter in the model can be dynamically changed to see what the impact of different values will be. Prior to running an experiment you can modify the values by searching for the parameter name in the search bar and changing the value in the input box. The icon signifying a parameter name is <i class="fas fa-signin"></i>
 
 <img src="images/help/SetParameters.gif" class="img-help">
 

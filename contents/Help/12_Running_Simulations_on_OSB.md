@@ -12,7 +12,7 @@ If you simply wish to record all membrane potentials, membrane potentials at the
 
 After setting the parameters (see below for advice on simulators), hit Submit. If no variables have been selected you will be presented with shortcut options:
 
-![](https://raw.githubusercontent.com/OpenSourceBrain/OSB_Documentation/master/resources/images/run-shortcuts.png)
+<img src="https://raw.githubusercontent.com/OpenSourceBrain/OSB_Documentation/master/resources/images/run-shortcuts.png" class="img-help">
 
 After choosing an option, you should see the status of your experiment change to queued (blue circle) and then to running (yellow circle). Experiments will continue to run if the browser is closed.
 
@@ -20,7 +20,7 @@ Finally the experiment status should change to completed (green circle) – you 
 
 For more fine grained control of state variable recording, parameter variation, and result plotting, the control panel is your friend. The control panel can be opened with the <i class="fas fa-list"></i> button in the left hand control panel. There are three primary views: Visual Objects, State Variables, and Parameters. For simulations we are interested in the latter two.
 
-In the State Variables and Parameter views there are three basic filter levels. From right to left, you may view and plot results (State Variables) or view parameters from experiments in any of your projects (<i class="fas fa-globe"></i>), or from any experiment in the current project (<i class="gpt-flask"></i>), or you may set which variables you wish to be recorded or change parameters for the current experiment (<i class="gpt-activeExp"></i>). In the latter filter you may also see what variables have been selected using the <i class="fas fa-dot-circle-o"></i> Please note: you can only set state variables or change parameters of an experiment when it is in DESIGN mode (orange circle). Experiments that have completed (green circle) cannot be modified, but you may clone them using the <i class="fas fa-clone"></i> button in the Experiments tab.
+In the State Variables and Parameter views there are three basic filter levels. From right to left, you may view and plot results (State Variables) or view parameters from experiments in any of your projects (<i class="fas fa-globe"></i>), or from any experiment in the current project (<i class="fas fa-flask"></i>), or you may set which variables you wish to be recorded or change parameters for the current experiment (<i class="gpt-activeExp"></i>). In the latter filter you may also see what variables have been selected using the <i class="fas fa-dot-circle"></i> Please note: you can only set state variables or change parameters of an experiment when it is in DESIGN mode (orange circle). Experiments that have completed (green circle) cannot be modified, but you may clone them using the <i class="fas fa-clone"></i> button in the Experiments tab.
 
 For more information, see also the [Geppetto Documentation](http://docs.geppetto.org/en/latest/userdocs.html).
 
