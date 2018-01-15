@@ -18,13 +18,13 @@ After choosing an option, you should see the status of your experiment change to
 
 Finally the experiment status should change to completed (green circle) – you can then use the Results menu to plot recorded state variables, replay the simulation with coloured morphologies, etc.
 
-For more fine grained control of state variable recording, parameter variation, and result plotting, the control panel is your friend. The control panel can be opened with the <i class="icon-list icon-2x"></i> button in the left hand control panel. There are three primary views: Visual Objects, State Variables, and Parameters. For simulations we are interested in the latter two.
+For more fine grained control of state variable recording, parameter variation, and result plotting, the control panel is your friend. The control panel can be opened with the <i class="fas fa-list"></i> button in the left hand control panel. There are three primary views: Visual Objects, State Variables, and Parameters. For simulations we are interested in the latter two.
 
-In the State Variables and Parameter views there are three basic filter levels. From right to left, you may view and plot results (State Variables) or view parameters from experiments in any of your projects (<i class="icon-globe icon-2x"></i>), or from any experiment in the current project (<i class="gpt-flask icon-2x"></i>), or you may set which variables you wish to be recorded or change parameters for the current experiment (<i class="gpt-activeExp icon-2x"></i>). In the latter filter you may also see what variables have been selected using the <i class="fa-dot-circle-o icon-2x"></i> Please note: you can only set state variables or change parameters of an experiment when it is in DESIGN mode (orange circle). Experiments that have completed (green circle) cannot be modified, but you may clone them using the <i class="fa fa-clone icon-2x"></i> button in the Experiments tab.
+In the State Variables and Parameter views there are three basic filter levels. From right to left, you may view and plot results (State Variables) or view parameters from experiments in any of your projects (<i class="fas fa-globe"></i>), or from any experiment in the current project (<i class="gpt-flask"></i>), or you may set which variables you wish to be recorded or change parameters for the current experiment (<i class="gpt-activeExp"></i>). In the latter filter you may also see what variables have been selected using the <i class="fas fa-dot-circle-o"></i> Please note: you can only set state variables or change parameters of an experiment when it is in DESIGN mode (orange circle). Experiments that have completed (green circle) cannot be modified, but you may clone them using the <i class="fas fa-clone"></i> button in the Experiments tab.
 
 For more information, see also the [Geppetto Documentation](http://docs.geppetto.org/en/latest/userdocs.html).
 
-#### Protocols
+### Protocols
 
 For models with a [pulseGenerator](https://www.neuroml.org/NeuroML2CoreTypes/Inputs.html#pulseGenerator), a batch of experiments for a range of amplitudes can be generated using the Add & Run Protocol option in the Run menu.
 
