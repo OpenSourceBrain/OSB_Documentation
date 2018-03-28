@@ -1,5 +1,8 @@
 A number of meetings have been organised/are planned to promote OSB, including:
 
+- A tutorial on [Neuroinformatics Resources for Computational Modellers](http://www.cnsorg.org/cns-2018-tutorials), including OSB and related resources at [CNS 2018 in Seattle](www.cnsorg.org/cns-2018)
+- A workshop on [Developing, standardising and sharing large scale cortical network models](http://www.opensourcebrain.org/docs/Help/Meetings#CNS_2018) at [CNS 2018 in Seattle](www.cnsorg.org/cns-2018)
+
 - A tutorial on [Neuroinformatics Resources for Computational Modellers](http://www.cnsorg.org/cns-2017-tutorials#t6), including OSB and related resources at [CNS 2017 in Antwerp](www.cnsorg.org/cns-2017)
 - [Collaborative Development of Data-Driven Models of Neural Systems](https://www.janelia.org/you-janelia/conferences/collaborative-development-data-driven-models-neural-systems): a conference at Janelia Research Campus in Sept 2016 organised by the OSB team.
 - [Open collaboration in computational neuroscience](http://www.opensourcebrain.org/docs/Help/Meetings#CNS_2015): a workshop at [CNS 2015](http://www.cnsorg.org/cns-2015-prague)
