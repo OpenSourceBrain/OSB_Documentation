@@ -1,6 +1,6 @@
 #### Collaborative Development of Data-Driven Models of Neural Systems
 
-*September 18 - 21, 2016, Janelia Farm Research Campus, Virginia, USA*
+*September 18 - 21, 2016, Janelia Research Campus, Virginia, USA*
 
 Detailed computational models are critical for elucidating neuronal and network function. 
 They enable different levels of description to be linked, a wide range of neurophysiological 
