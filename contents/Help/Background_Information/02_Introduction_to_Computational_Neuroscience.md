@@ -7,11 +7,11 @@ Note that this is a living document and it will regularly be updated.
 
 ### Books
 
-####1. Neuroscience  
+1. Neuroscience  
    - [Cognitive Neuroscience][b_1.1], Michael S. Gazzaniga, Richard B. Ivry and George R. Mangun
    - [Principles of Neural Science][b_1.2], Eric Kandel
    
-####2. Computational modelling/theoretical neuroscience  
+2. Computational modelling/theoretical neuroscience  
    - [Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems][b_2.1], Peter Dayan and LF Abbott
    - [Methods in Neuronal Modeling: from Ions to Networks][kochsegev], C. Koch and I. Segev (eds.)
    - [Principles of Computational Modelling in Neuroscience][willshaw], David Sterratt, Bruce Graham, Andrew Gillies and David Willshaw (eds.)
@@ -21,14 +21,14 @@ Note that this is a living document and it will regularly be updated.
    - [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information][b_2.3], David Marr  
    - [The handbook of brain theory and neural networks][b_2.4], Michael A. Arbib (ed.)
    
-####3. Programming  
+3. Programming  
    - [Matlab for Neuroscientists][b_3.1]  
    - [SciPy and NumPy][b_3.2]  
    - [Python for Data Analysis][b_3.3]  
    - [Think Stats][b_3.4]  
    - [Dive into Python][b_3.5]  
 
-####4. Machine learning
+4. Machine learning
    -  [Pattern Recognition and Machine Learnign][b_4.1], Christopher M Bishop
    -  [Machine Learning, A Probabalistic perspective][b_4.2], Kevin P. Murphy
 
@@ -52,14 +52,14 @@ Note that this is a living document and it will regularly be updated.
 
 ### Publications
 
-####1. Review articles 
+1. Review articles 
    - Atick, J.J., 1992. [Could information theory provide an ecological theory of sensory processing?.][p_1.1] Network: Computation in neural systems, 3(2), pp.213-251.
    - Hines, M.L. and Carnevale, N.T., 1997. [The NEURON simulation environment.][p_1.2] Neural computation, 9(6), pp.1179-1209.
    - Oztop, E., Kawato, M. and Arbib, M., 2006. [Mirror neurons and imitation: A computationally guided review.][p_1.5] Neural Networks, 19(3), pp.254-271.
    - Bower, J.M., 2013. [20 years of computational neuroscience.][p_1.3] New York: Springer.  
    - Brette, R., Rudolph, M., Carnevale, T., Hines, M., Beeman, D., Bower, J.M., Diesmann, M., Morrison, A., Goodman, P.H., Harris Jr, F.C. and Zirpe, M., 2007. [Simulation of networks of spiking neurons: a review of tools and strategies.][p_1.4] Journal of computational neuroscience, 23(3), pp.349-398.
 
-####2. Classic papers  
+2. Classic papers  
    -  Hodgkin, A.L. and Huxley, A.F., 1952. [A quantitative description of membrane current and its application to conduction and excitation in nerve.][p_2.1] The Journal of physiology, 117(4), p.500.
    -  McCulloch, W.S. and Pitts, W., 1943. [A logical calculus of the ideas immanent in nervous activity.][p_2.2] The bulletin of mathematical biophysics, 5(4), pp.115-133.
    -  Donald O.Hebb, [The Organization of Behavior,][p_2.3] New York: Wiley, Introduction and Chapter 4, "The first stage of perception: growth of the assembly," pp. xi-xix, 60-78.
@@ -91,11 +91,11 @@ See [here](http://www.opensourcebrain.org/search_custom_field?f[]=43&op[43]=~&v[
 
 ### Software
 
-####1. Modelling   
+1. Modelling   
 
 An overview of the main target simulators for models in Open Source Brain can be found [here](https://github.com/OpenSourceBrain/OSB_Documentation/blob/master/contents/Help/08_Simulators.md).
 
-####2. Markup Languages  
+2. Markup Languages  
    - A Model Description Language for Computational Neuroscience [(NeuroML)][s_1.2.1]  
    - Systems Biology Markup Language [(SBML)][s_1.2.2]  
    - [CellML][s_1.2.3]  
@@ -104,23 +104,22 @@ An overview of the main target simulators for models in Open Source Brain can be
 [s_1.2.2]: http://sbml.org/Main_Page
 [s_1.2.3]: http://www.cellml.org/
 
-
-####4. Libraries  
+3. Libraries  
 Various usefull libraries include-  
 
-####4.1 Data analysis and scientific computing
+3.1 Data analysis and scientific computing
    - [Pandas, python][s_2.1]  
    - [NumPy, python][s_2.2]  
    - [SciPy, python][s_2.3]  
    
-####4.2 Data visualization  
+3.2 Data visualization  
 
    - [matplotlib, python][s_3.1]  
    - [prettyplotlib, python][s_3.2]  
    - [bokeh, python][s_3.3]  
    - [ggplot, R][s_3.4]  
 
-####4.3 Machine learning  
+3.3 Machine learning  
 
    - [PyBrain, python][s_4.1]  
    - [SciKit, python][s_4.2]  
@@ -167,7 +166,7 @@ Various usefull libraries include-
 
 ### Institutions, Laboratories and Research Groups
 
-####1. Asia  
+1. Asia  
    - [Computational Neuroscience Laboratories, ATR][larg_1.1]  
    - [RIKEN Brain Science Institute (BSI)][larg_1.2]  
    - [Neural Computation Unit, OIST][larg_1.3]  
@@ -175,13 +174,13 @@ Various usefull libraries include-
    - [Neurophysics lab, Hebrew University of Jerusalem, Israel][larg_1.5]
    - [Prof. Upinder S. Bhalla, NCBS, India][larg_1.6]
 
-####2. Europe  
+2. Europe  
    - [National Bernstein Network Computational Neuroscience][larg_2.1]  
    - [Gatsby Computational Neuroscience Unit][larg_2.2]  
    - [Centre for Computational Neuroscience and Cognitive Robotics (CNCR)][larg_2.3]
    - [Prof. Wolfgang Maass, Institute for Theoretical Computer Science, TU Graz][larg_2.4]  
 
-####3. USA  
+3. USA  
    - [Allen Institute of Brain Science][larg_3.1]
    - [Swartz Center for Computational Neuroscience, UCSD, CA][larg_3.2]
    - [Center for the Neural Basis of Cognition][larg_3.3]
@@ -212,12 +211,12 @@ A more comprehensive list of labs, centers and researchers can be found [here](h
 
 ### Mailing Lists, Blogs and News  
 
-####1. Mailing lists  
+1. Mailing lists  
    - Computational Neuroscience [(Comp-neuro)][mlbn_1.1]  
    - Computational and Systems Neuroscience [(Cosyne)][mlbn_1.2]  
    - The connectionists mailing list [(connectionists)][mlbn_1.3]
 
-####2. Blogs
+2. Blogs
    - [Neuroskeptic][mlbn_2.1]
    - [Oscillatory Thoughts][mlbn_2.2]
    - [The Scicurious Brain][mlbn_2.3]
@@ -225,7 +224,7 @@ A more comprehensive list of labs, centers and researchers can be found [here](h
    - [PLOS Neuro][mlbn_2.5]
    - [Brain Box][mlbn_2.6]    
 
-####3. News  
+3. News  
    - [Science Daily][mlbn_3.1]  
    - [Neuroscience News][mlbn_3.2]  
    
@@ -243,21 +242,21 @@ A more comprehensive list of labs, centers and researchers can be found [here](h
 
 ### Online courses 
 
-####1. Coursera   
+1. Coursera   
    - [Computational Neuroscience][oc_1.1]  
    - [Exploring Neural Data][oc_1.2]  
    - [Machine Learning][oc_1.3]  
    - [Synapses, Neurons and Brains][oc_1.4]  
 
-####2. edX  
+2. edX  
    - [Fundamentals of Neuroscience, Part I][oc_2.1]  
    - [Fundamentals of Neuroscience, Part II][oc_2.2]
   
-####3. Wulfram Gerstner  
+3. Wulfram Gerstner  
    - [Neuronal Dynamics - Computational Neuroscience of Single Neurons][oc_3.1]  
    - [Modeling of Biological Neurons and Neural Networks][oc_3.2]
   
-####4. OCW MIT  
+4. OCW MIT  
    - [Introduction to Computational Neuroscience][oc_4.1]  
    - [Computational Cognitive Science][oc_4.2]  
 
