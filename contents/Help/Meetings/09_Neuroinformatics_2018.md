@@ -1,5 +1,4 @@
 
-### A workshop on Open Source Brain
 
 <img alt="OSB" src="https://raw.githubusercontent.com/OpenSourceBrain/OSB_Documentation/master/resources/images/osb2018.png" width="800"/>
 
@@ -9,16 +8,17 @@ This workshop will take place on the morning of the day prior to the main Neuroi
 
 **Organisers:** Padraig Gleeson & Angus Silver (University College London)
 
-#### Program
+**Registration:** The workshop is free, but registration is required. _**Please [register here](https://www.eventbrite.com/e/open-source-brain-workshop-2018-tickets-46115287065)**_.
+
+### Program
 
 **Morning**
 
-- Introduction to the aims of the Open Source Brain initiative
-- NeuroML
-- PyNN
-- Latest OSB functionality
-- Showcase of available models
-- Converting models to NeuroML
+|:---|:---|
+| **Angus Silver** | Introduction to the aims of the Open Source Brain initiative |
+| **Sharon Crook** | NeuroML |
+| **Andrew Davison** | PyNN |
+| **Padraig Gleeson** | Latest OSB functionality; Showcase of available models; Converting models to NeuroML |
 
 **Afternoon**
 
