@@ -14,11 +14,13 @@ This workshop will take place on the morning of the day prior to the main Neuroi
 
 **Morning**
 
-|:---|:---|
+| Speaker | Topic |
+| ------------- | ------------- |
 | **Angus Silver** | Introduction to the aims of the Open Source Brain initiative |
 | **Sharon Crook** | NeuroML |
 | **Andrew Davison** | PyNN |
-| **Padraig Gleeson** | Latest OSB functionality; Showcase of available models; Converting models to NeuroML |
+| **Padraig Gleeson** | Latest OSB functionality <br/> Showcase of available models<br/> Converting models to NeuroML |
+
 
 **Afternoon**
 
