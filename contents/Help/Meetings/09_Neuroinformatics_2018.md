@@ -1,5 +1,6 @@
 
 ### A workshop on Open Source Brain
+![OSB](https://raw.githubusercontent.com/OpenSourceBrain/OSB_Documentation/master/resources/images/osb2018.png)
 
 A workshop at [Neuroinformatics 2018](http://www.neuroinformatics2018.org), Wed 8th August,  McGill University, Montréal 
 
