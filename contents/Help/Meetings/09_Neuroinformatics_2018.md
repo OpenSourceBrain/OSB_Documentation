@@ -18,7 +18,7 @@ The workshop will take place on the morning of the day prior to the main Neuroin
 | ------------- | ------------- |
 | **Angus Silver** | Introduction to the aims of the Open Source Brain initiative |
 | **Sharon Crook** | NeuroML |
-| **Andrew Davison** | PyNN |
+| **Pedro Garcia** | PyNN |
 | **Padraig Gleeson** | Latest OSB functionality <br/> Showcase of available models<br/> Converting models to NeuroML |
 
 
