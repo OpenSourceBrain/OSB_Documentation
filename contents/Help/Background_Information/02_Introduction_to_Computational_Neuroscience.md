@@ -243,8 +243,7 @@ A more comprehensive list of labs, centers and researchers can be found [here](h
 ### Online courses 
 
 1. Coursera   
-   - [Computational Neuroscience][oc_1.1]  
-   - [Exploring Neural Data][oc_1.2]  
+   - [Computational Neuroscience][oc_1.1]   
    - [Machine Learning][oc_1.3]  
    - [Synapses, Neurons and Brains][oc_1.4]  
 
