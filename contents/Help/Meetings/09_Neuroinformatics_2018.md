@@ -10,16 +10,19 @@ The workshop will take place on the morning of the day prior to the main Neuroin
 
 **Registration:** The workshop is free, but registration is required. _**Please [register here](https://www.eventbrite.com/e/open-source-brain-workshop-2018-tickets-46115287065)**_.
 
+**Location:** Room 613 in the [Education Building](http://virtualcampustour.mcgill.ca/en/details/18/education-building), 3700 McTavish Street, Montréal ([map](https://www.google.com/maps/place/Education+Building/@45.5042713,-73.58032,20.36z/data=!4m5!3m4!1s0x4cc91a38e84fa7bb:0x497c892c6508dfa4!8m2!3d45.5044013!4d-73.5804096))
+ 
 ### Program
 
 **Morning**
 
-| Speaker | Topic |
-| ------------- | ------------- |
-| **Angus Silver** | Introduction to the aims of the Open Source Brain initiative |
-| **Sharon Crook** | NeuroML |
-| **Pedro Garcia** | PyNN |
-| **Padraig Gleeson** | Latest OSB functionality <br/> Showcase of available models<br/> Converting models to NeuroML |
+| | Speaker | Topic |
+| --- | ------------- | ------------- |
+| 9:00 | **Angus Silver** | Introduction to the aims of the Open Source Brain initiative |
+| 9:15 | **Sharon Crook** | NeuroML |
+| 9:45 | **Pedro Garcia** | PyNN |
+| 10:15 | | Break |
+| 10:30 | **Padraig Gleeson** | Latest OSB functionality <br/> Showcase of available models<br/> Converting models to NeuroML |
 
 
 **Afternoon**
