@@ -27,9 +27,7 @@ The workshop will take place on the morning of the day prior to the main Neuroin
 
 **Afternoon**
 
-As part of the Hackathon sessions, the speakers will be available for hands on assistance 
-using OSB & converting models to standardised formats. 
-
+As part of the Hackathon sessions, the speakers will be available for hands on assistance using OSB & converting models to standardised formats. 
 
 
 For any enquiries about this workshop, please contact Padraig Gleeson (p.gleeson -at- ucl.ac.uk)
