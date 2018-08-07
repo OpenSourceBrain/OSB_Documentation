@@ -19,15 +19,16 @@ The workshop will take place on the morning of the day prior to the main Neuroin
 | | Speaker | Topic |
 | --- | ------------- | ------------- |
 | 9:00 | **Angus Silver** | Introduction to the aims of the Open Source Brain initiative |
-| 9:15 | **Sharon Crook** | NeuroML |
-| 9:45 | **Pedro Garcia** | PyNN |
-| 10:15 | | Break |
+| 9:15 | **Sharon Crook** | Overview of NeuroML 2 and LEMS |
+| 9:45 | **Pedro Garcia** | PyNN - A common scripting language for neuroscience simulators|
+| 10:15 | Coffee Break| *Thompson House*  |
 | 10:30 | **Padraig Gleeson** | Latest OSB functionality <br/> Showcase of available models<br/> Converting models to NeuroML |
+| 12:30 | Lunch | *Thompson House* |
 
 
 **Afternoon**
 
-As part of the Hackathon sessions, the speakers will be available for hands on assistance using OSB & converting models to standardised formats. 
+As part of the **Hackathon sessions** (taking place in Thompson House in the ballroom), the speakers will be available for hands on assistance using OSB & converting models to standardised formats. 
 
 
 For any enquiries about this workshop, please contact Padraig Gleeson (p.gleeson -at- ucl.ac.uk)
