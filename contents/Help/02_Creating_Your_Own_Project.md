@@ -6,7 +6,7 @@ Placing a model on OSB after submission to ModelDB is an indication that you wis
 
 ### Sign up to OSB
 
-Register as a user of OSB [here](/account/register). Add your GitHub username and [INCF user profile](http://incf.org/community/people) if you have one.
+Register as a user of OSB [here](/account/register). Add your [GitHub](https://github.com/) username and [ORCID ID](https://orcid.org/) if you have one.
 
 You should also add the URL of your project, software or lab. In the latter case, if the PI is in agreement, we can add the group to the list of [labs taking part in the OSB initiative](/about#who_about). Please send a mail to info@opensourcebrain.org if you are interested in that.
 
