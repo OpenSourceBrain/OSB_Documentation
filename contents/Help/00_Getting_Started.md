@@ -19,7 +19,7 @@ Some **[frequently asked questions](http://www.opensourcebrain.org/docs#FAQ)** a
 
 #### OSB Meetings
 
-Find out about past and upcoming **[OSB meetings](http://www.opensourcebrain.org/docs#Meetings)**. 
+Find out about past and upcoming **[OSB workshops and meetings](http://www.opensourcebrain.org/docs#Meetings)**. 
 
 
 #### Contact us
