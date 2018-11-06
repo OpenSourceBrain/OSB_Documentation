@@ -44,9 +44,7 @@ This will retrieve the file content and display it in the OSB wiki page. This al
 
 <code>pubmed:17442244</code> 
 
-This syntax will generate a reference link like this (only visible on OSB): pubmed:17442244
-
-and a bibliography section will be automatically generated at the bottom of the page. 
+This syntax will generate a reference link like this (link only correctly rendered on OSB): pubmed:17442244 and a bibliography section will be automatically generated at the bottom of the page. 
 
 
 #### Create a formula

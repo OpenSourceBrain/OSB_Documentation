@@ -2,9 +2,9 @@ A number of the projects on the OSB are based on [neuroConstruct](http://www.neu
 
 ### Install the latest version of neuroConstruct
 
-First, get the latest version of neuroConstruct. While there are binary installers available on the neuroConstruct download page, it’s best to **use the latest version of this application from GitHub**, as this will most likely be the version in which the projects on OSB were last saved.
+First, get the latest version of neuroConstruct. While there are binary installers available on the neuroConstruct download page, it's best to **use the latest version of this application from GitHub**, as this will most likely be the version in which the projects on OSB were last saved.
 
-Get the latest version of Git (see [here](http://www.opensourcebrain.org/projects/gitintro/wiki/Wiki) for more about Git). Detailed instructions for installing neuroConstruct from source can be found [here](https://github.com/NeuralEnsemble/neuroConstruct/blob/master/INSTALL).
+Get the latest version of Git (see [here](http://www.opensourcebrain.org/projects/gitintro/wiki/Wiki) for more about Git). Detailed instructions for installing neuroConstruct from source can be found [here](https://github.com/NeuralEnsemble/neuroConstruct/blob/master/INSTALL.md).
 
 ### Install your simulator(s) of choice
 
@@ -23,14 +23,14 @@ Go to tab **Generate** and press **Generate Cell Positions and Connections**.
 Go to tab **Export** and then the tab for your chosen simulator (e.g. NEURON), press **Create XXX files**, then **Run XXX simulation**.
 For more details on the interaction of neuroConstruct with these simulators see [here](http://www.neuroconstruct.org/docs/interact.html).
 
-### Get all of the neuroConstruct based projects on OSB
+### Get all neuroConstruct based projects on OSB
 
-To clone all of the projects on OSB which contain neuroConstruct projects use the **checkOSB** script in the **osb** subfolder of the neuroConstruct home directory:
+To clone all of the projects on OSB which contain neuroConstruct projects (and many others) use the **checkOSB** script in the **osb** subfolder of the neuroConstruct home directory:
 
     cd osb
     ./checkOsb.sh -u (Linux/Mac)
     checkOsb.bat -u  (Windows)
     
-This will clone \~15 projects, which will be accessible under the File - Open Source Brain Project:
+This will clone \~70 projects with \~20 containing neuroConstruct projects, which will be accessible under the File - Open Source Brain Project:
 
 ![](/attachments/download/51/nCmenu.png)
