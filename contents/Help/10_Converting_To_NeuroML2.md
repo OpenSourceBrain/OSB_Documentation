@@ -6,7 +6,7 @@ Converting models to the simulator independent format [NeuroML 2](https://www.ne
 
 At the moment, there is no "magic button" to press in simulators to export your model into valid NeuroML 2. Presently the best approach is to look at some of the [core examples of NeuroML 2](https://github.com/NeuroML/NeuroML2/tree/master/examples), the [OSB projects being converted to NeuroML 2](https://github.com/OpenSourceBrain/redmine/issues/125), look at the XML examples there and start manual conversion of the models based on these. 
 
-**_There is a step by step guide: Converting conductance based cell models to NeuroML2 under development [here](https://docs.google.com/document/d/12x-iAIKJuW4P3OY46Kj15eckWO61_iBwlJ3Kmzxd5VU/edit)_!**
+**There is a step by step guide: _Converting conductance based cell models to NeuroML2_ under development [here](https://docs.google.com/document/d/12x-iAIKJuW4P3OY46Kj15eckWO61_iBwlJ3Kmzxd5VU/edit)!**
 
 There are some suggestions below for tools to use in this process.
 
