@@ -14,14 +14,14 @@ You can explore the models on OSB in multiple ways:
 
 #### Frequently Asked Questions
 
-Some **[frequently asked questions](http://www.opensourcebrain.org/docs#FAQ)** are answered [here](http://www.opensourcebrain.org/docs#FAQ). 
+Some frequently asked questions are answered <b><a href="http://www.opensourcebrain.org/docs#FAQ" onclick="javascript:function(event){ enableDocSection($(this).attr('href')); if(window.history.pushState) {window.history.pushState(null, null, $(this).attr('href'));} event.preventDefault(); }">here</a></b>.
 
 
 #### OSB Meetings
 
-Find out about past and upcoming **[OSB workshops and meetings](http://www.opensourcebrain.org/docs#Meetings)**. 
+Find out about past and upcoming <b><a href="http://www.opensourcebrain.org/docs#Meetings" onclick="javascript:function(event){ enableDocSection($(this).attr('href')); if(window.history.pushState) {window.history.pushState(null, null, $(this).attr('href'));} event.preventDefault(); }">OSB meetings and workshops</a></b>. 
 
 
 #### Contact us
 
-We hope you'll find the information you require here, but if not, please **[get in touch](http://www.opensourcebrain.org/docs#How_To_Contact_Us)**.
+We hope you'll find the information you require here, but if not, please <b><a href="http://www.opensourcebrain.org/docs#How_To_Contact_Us" onclick="javascript:function(event){ enableDocSection($(this).attr('href')); if(window.history.pushState) {window.history.pushState(null, null, $(this).attr('href'));} event.preventDefault(); }">get in touch</a></b>.
