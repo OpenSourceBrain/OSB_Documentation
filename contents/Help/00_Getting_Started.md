@@ -2,7 +2,7 @@
 
 #### Quick Introduction to OSB
 
-See the **[five minute introduction](http://www.opensourcebrain.org/docs#Five_Minute_Introduction)** for an overview of the current functionality of OSB.
+See the <b><a href="http://www.opensourcebrain.org/docs#Five_Minute_Introduction" onclick="javascript:function(event){ enableDocSection($(this).attr('href')); if(window.history.pushState) {window.history.pushState(null, null, $(this).attr('href'));} event.preventDefault(); }">five minute introduction</a></b> for an overview of the current functionality of OSB.
 
 #### Explore the models on OSB
 
