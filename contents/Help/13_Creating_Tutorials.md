@@ -28,4 +28,4 @@ You can explore our existing tutorials [here](http://www.opensourcebrain.org/tut
 
 #### Support
 
-Please [get in contact](http://www.opensourcebrain.org/docs#How_To_Contact_Us) at any stage of preparing your tutorial. 
+Please <b><a href="http://www.opensourcebrain.org/docs#How_To_Contact_Us" onclick="javascript:(function(event){ enableDocSection($(this).attr('href')); if(window.history.pushState) {window.history.pushState(null, null, $(this).attr('href'));} event.preventDefault(); })">get in contact</a></b> at any stage of preparing your tutorial. 
