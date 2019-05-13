@@ -103,26 +103,23 @@ An overview of the main target simulators for models in Open Source Brain can be
 [s_1.2.2]: http://sbml.org/Main_Page
 [s_1.2.3]: http://www.cellml.org/
 
-3. Libraries  
-Various useful libraries include:
-
-    3.1 Data analysis and scientific computing
-    - [Pandas, python][s_2.1]  
-    - [NumPy, python][s_2.2]  
-    - [SciPy, python][s_2.3]  
+3. Libraries: Data analysis and scientific computing
+   - [Pandas, python][s_2.1]  
+   - [NumPy, python][s_2.2]  
+   - [SciPy, python][s_2.3]  
    
-    3.2 Data visualization  
+4. Libraries: Data visualization  
     - [matplotlib, python][s_3.1]  
     - [prettyplotlib, python][s_3.2]  
     - [bokeh, python][s_3.3]  
     - [ggplot, R][s_3.4]  
 
-    3.3 Machine learning  
-    - [PyBrain, python][s_4.1]  
-    - [SciKit, python][s_4.2]  
-    - [Pylearn2, python][s_4.3]  
-    - [Theano, python][s_4.4] 
-    - [Nilearn, python][s_4.5]
+3. Libraries: Machine learning  
+   - [PyBrain, python][s_4.1]  
+   - [SciKit, python][s_4.2]  
+   - [Pylearn2, python][s_4.3]  
+   - [Theano, python][s_4.4] 
+   - [Nilearn, python][s_4.5]
   
 [s_2.1]: http://pandas.pydata.org
 [s_2.2]: http://www.numpy.org
