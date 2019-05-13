@@ -29,8 +29,8 @@ Note that this is a living document and it will regularly be updated.
    - [Dive into Python][b_3.5]  
 
 4. Machine learning
-   -  [Pattern Recognition and Machine Learnign][b_4.1], Christopher M Bishop
-   -  [Machine Learning, A Probabalistic perspective][b_4.2], Kevin P. Murphy
+   -  [Pattern Recognition and Machine Learning][b_4.1], Christopher M Bishop
+   -  [Machine Learning, A Probabilistic perspective][b_4.2], Kevin P. Murphy
 
 [b_1.1]: http://www.amazon.com/Cognitive-Neuroscience-Biology-Mind-4th/dp/0393913481/ref=sr_1_1?s=books&ie=UTF8&qid=1457248826&sr=1-1&keywords=cognitive+neuroscience+gazzaniga
 [b_1.2]: http://www.amazon.com/Principles-Neural-Science-Eric-Kandel/dp/0838577016
@@ -54,7 +54,6 @@ Note that this is a living document and it will regularly be updated.
 
 1. Review articles 
    - Atick, J.J., 1992. [Could information theory provide an ecological theory of sensory processing?.][p_1.1] Network: Computation in neural systems, 3(2), pp.213-251.
-   - Hines, M.L. and Carnevale, N.T., 1997. [The NEURON simulation environment.][p_1.2] Neural computation, 9(6), pp.1179-1209.
    - Oztop, E., Kawato, M. and Arbib, M., 2006. [Mirror neurons and imitation: A computationally guided review.][p_1.5] Neural Networks, 19(3), pp.254-271.
    - Bower, J.M., 2013. [20 years of computational neuroscience.][p_1.3] New York: Springer.  
    - Brette, R., Rudolph, M., Carnevale, T., Hines, M., Beeman, D., Bower, J.M., Diesmann, M., Morrison, A., Goodman, P.H., Harris Jr, F.C. and Zirpe, M., 2007. [Simulation of networks of spiking neurons: a review of tools and strategies.][p_1.4] Journal of computational neuroscience, 23(3), pp.349-398.
@@ -67,7 +66,7 @@ Note that this is a living document and it will regularly be updated.
    - Von Neumann, J. and Kurzweil, R., 2012. [The computer and the brain.][p_2.5] Yale University Press.
    - Rosenblatt, F., 1958. [The perceptron: a probabilistic model for information storage and organization in the brain.][p_2.6] Psychological review, 65(6), p.386
    - Marr, D. and Poggio, T., 1976. [Cooperative computation of stereo disparity.][p_2.7] Science, 194(4262), pp.283-287.
-   - Grossberg, S., 1982. [How does a brain build a cognitive code?.][p_2.8] In Studies of mind and brain (pp. 1-52). Springer Netherlands.
+   - Grossberg, S., 1982. [How does a brain build a cognitive code?][p_2.8] In Studies of mind and brain (pp. 1-52). Springer Netherlands.
    - Ackley, D.H., Hinton, G.E. and Sejnowski, T.J., 1985. [A learning algorithm for Boltzmann machines.][p_2.9] Cognitive science, 9(1), pp.147-169.
 
 [p_1.1]: http://invibe.net/biblio_database_dyva/woda/data/att/0b79.file.pdf
@@ -105,27 +104,27 @@ An overview of the main target simulators for models in Open Source Brain can be
 [s_1.2.3]: http://www.cellml.org/
 
 3. Libraries  
-Various usefull libraries include-  
+Various useful libraries include:
 
-3.1 Data analysis and scientific computing
-   - [Pandas, python][s_2.1]  
-   - [NumPy, python][s_2.2]  
-   - [SciPy, python][s_2.3]  
+    1. Data analysis and scientific computing
+        - [Pandas, python][s_2.1]  
+        - [NumPy, python][s_2.2]  
+        - [SciPy, python][s_2.3]  
    
-3.2 Data visualization  
+    2. Data visualization  
 
-   - [matplotlib, python][s_3.1]  
-   - [prettyplotlib, python][s_3.2]  
-   - [bokeh, python][s_3.3]  
-   - [ggplot, R][s_3.4]  
+        - [matplotlib, python][s_3.1]  
+        - [prettyplotlib, python][s_3.2]  
+        - [bokeh, python][s_3.3]  
+        - [ggplot, R][s_3.4]  
 
-3.3 Machine learning  
+    3. Machine learning  
 
-   - [PyBrain, python][s_4.1]  
-   - [SciKit, python][s_4.2]  
-   - [Pylearn2, python][s_4.3]  
-   - [Theano, python][s_4.4] 
-   - [Nilearn, python][s_4.5]
+        - [PyBrain, python][s_4.1]  
+        - [SciKit, python][s_4.2]  
+        - [Pylearn2, python][s_4.3]  
+        - [Theano, python][s_4.4] 
+        - [Nilearn, python][s_4.5]
   
 [s_2.1]: http://pandas.pydata.org
 [s_2.2]: http://www.numpy.org
@@ -142,12 +141,12 @@ Various usefull libraries include-
 
 ### Databases 
 
-- Model Database [(ModelDB)][d_1]  
-- Open Source Brain Project [(OSB)][d_2]  
-- Digitally Reconstructed Neurons Database [(NeuroMorpho)][d_3]  
+- ModelDB: model database for computational neuroscience [(ModelDB)][d_1]  
+- Open Source Brain [(OSB)][d_2]  
+- Digitally Reconstructed Neuron Database [(NeuroMorpho)][d_3]  
 - Neuroscience Information Framework [(NIF)][d_4]  
 - Brain Operation Database System [(BODB)][d_5]  
-- BioModels Database [(BioModelDB)][d_6]
+- BioModels Database [(BioModels)][d_6]
 
 [d_1]: https://senselab.med.yale.edu/ModelDB/
 [d_2]: http://opensourcebrain.org/
@@ -189,7 +188,7 @@ Various usefull libraries include-
    - [Center for Theoretical Neuroscience, Columbia University, NY][larg_3.6]
    - [Sejnowski Lab, UCSD, CA][larg_3.7]  
 
-A more comprehensive list of labs, centers and researchers can be found [here](http://home.earthlink.net/~perlewitz/labs.html).
+A more comprehensive list of labs, centers and researchers can be found [here](https://compneuroweb.com/labs.html).
   
 [larg_1.1]: http://www.cns.atr.jp/en/home-3/cns/
 [larg_1.2]: http://www.brain.riken.jp/en/
@@ -214,14 +213,14 @@ A more comprehensive list of labs, centers and researchers can be found [here](h
 1. Mailing lists  
    - Computational Neuroscience [(Comp-neuro)][mlbn_1.1]  
    - Computational and Systems Neuroscience [(Cosyne)][mlbn_1.2]  
-   - The connectionists mailing list [(connectionists)][mlbn_1.3]
+   - The Connectionists mailing list [(connectionists)][mlbn_1.3]
 
 2. Blogs
    - [Neuroskeptic][mlbn_2.1]
    - [Oscillatory Thoughts][mlbn_2.2]
    - [The Scicurious Brain][mlbn_2.3]
    - [xcorr : comp neuro][mlbn_2.4]
-   - [PLOS Neuro][mlbn_2.5]
+   - [PLoS Neuro][mlbn_2.5]
    - [Brain Box][mlbn_2.6]    
 
 3. News  
@@ -277,7 +276,7 @@ A more comprehensive list of labs, centers and researchers can be found [here](h
 - [Comments on Theoretical Neuroscience Books][or_3]
 - [Introductory lectures on computational neuroscience][or_4] 
 
-[or_1]: http://home.earthlink.net/~perlewitz/
+[or_1]: https://compneuroweb.com
 [or_2]: http://compneuropapers.tumblr.com/
 [or_3]: http://compneuro.uwaterloo.ca/research/theoretical-neuroscience/comments-on-theoretical-neuroscience-books.html
 [or_4]: http://www.genesis-sim.org/cnslecs/cnslecs.html
