@@ -107,20 +107,17 @@ An overview of the main target simulators for models in Open Source Brain can be
 Various useful libraries include:
 
     3.1 Data analysis and scientific computing
-        
     - [Pandas, python][s_2.1]  
     - [NumPy, python][s_2.2]  
     - [SciPy, python][s_2.3]  
    
     3.2 Data visualization  
-        
     - [matplotlib, python][s_3.1]  
     - [prettyplotlib, python][s_3.2]  
     - [bokeh, python][s_3.3]  
     - [ggplot, R][s_3.4]  
 
     3.3 Machine learning  
-        
     - [PyBrain, python][s_4.1]  
     - [SciKit, python][s_4.2]  
     - [Pylearn2, python][s_4.3]  
