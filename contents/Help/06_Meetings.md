@@ -10,6 +10,7 @@
 
 A number of meetings have been organised/are planned to promote OSB, including:
 
+- A workshop at the online [CNS*2020](https://www.cnsorg.org/cns-2020) on [Tools and resources for developing and sharing models in computational neuroscience](https://neuralensemble.github.io/Networks_SIG/CNS2020).
 - [OSB 2019](http://www.opensourcebrain.org/docs/Help/Meetings#OSB_2019) in Sardinia in September 2019
 - A workshop on Open Source Brain at [Neuroinformatics 2018](http://www.opensourcebrain.org/docs/Help/Meetings#Neuroinformatics_2018) on Wed 8th August 2018 at McGill University, Montréal
 - A tutorial on [Neuroinformatics Resources for Computational Modellers](http://www.cnsorg.org/cns-2018-tutorials), including OSB and related resources at [CNS 2018 in Seattle](http://www.cnsorg.org/cns-2018)
