@@ -1,13 +1,14 @@
-### Send feedback
+### Get in touch
 
-We’d love to hear your thoughts on the initiative in general, the website or any of the technologies being used. Please send us a mail at info@opensourcebrain.org. If you prefer mailing humans directly, contact [Padraig Gleeson](http://www.opensourcebrain.org/users/4).
-
-To get in contact with the whole OSB community see the [OSB discuss](https://groups.google.com/forum/?fromgroups#!forum/osb-discuss) and [OSB announce](https://groups.google.com/forum/?fromgroups#!forum/osb-announce) mailing lists.
+Please subscribe to the [OSB announce](https://groups.google.com/forum/?fromgroups#!forum/osb-announce) mailing list for announcements and updates related to the Open Source Brain project.
+You can e-mail us on the [OSB discuss](https://groups.google.com/forum/?fromgroups#!forum/osb-discuss) mailing list at  [osb-discuss@googlegroups.com](mailto:osb-discuss@googlegroups.com) any queries, suggestions, or feedback.
 
 ### Report a bug / Request a feature
 
-To report an issue or request a feature with the OSB website, create a [new issue](https://github.com/OpenSourceBrain/geppetto-osb/issues/new) on our [GitHub repository](https://github.com/OpenSourceBrain/geppetto-osb). Note that you will have to [register](https://github.com/join) and be [logged in](https://github.com/login) to GitHub to create a new issue.
+All Open Source Brain development happens openly on [GitHub](https://github.com/OpenSourceBrain/).
+Please follow the repositories there to keep up with OSB development.
+You can also report any issues you run into on the [issue tracker](https://github.com/OpenSourceBrain/geppetto-osb/issues/new) there.
 
 ### Follow us on Twitter at @OSBTeam
 
-You can follow us on Twitter at [@OSBTeam](https://twitter.com/OSBTeam) to find out what's new with OSB.
+Please follow us on Twitter at [@OSBTeam](https://twitter.com/OSBTeam) to keep up with updates also.
