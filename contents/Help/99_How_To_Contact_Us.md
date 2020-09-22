@@ -2,6 +2,7 @@
 
 Please subscribe to the [OSB announce](https://groups.google.com/forum/?fromgroups#!forum/osb-announce) mailing list for announcements and updates related to the Open Source Brain project.
 You can e-mail us on the [OSB discuss](https://groups.google.com/forum/?fromgroups#!forum/osb-discuss) mailing list at  [osb-discuss@googlegroups.com](mailto:osb-discuss@googlegroups.com) any queries, suggestions, or feedback.
+If you have trouble with your account, the administrators are reachable at [info@opensourcebrain.org](mailto:info@opensourcebrain.org).
 
 ### Report a bug / Request a feature
 
