@@ -8,9 +8,11 @@
 <a href="http://www.cnsorg.org/cns-2018-tutorials"><img src="https://raw.githubusercontent.com/NeuralEnsemble/NeuroinformaticsTutorial/master/Exercises/images/Logos.png" height="80"/></a>   &nbsp;&nbsp;
 <a href="http://www.opensourcebrain.org/docs/Help/Meetings#Neuroinformatics_2018"><img src="https://raw.githubusercontent.com/OpenSourceBrain/OSB_Documentation/master/resources/images/osb2018.png" height="80"/></a> </p>
 
-A number of meetings have been organised/are planned to promote OSB, including:
+A number of **meetings/workshops/hackathons** have been organised and are planned to promote OSB and related technologies, including:
 
+- [NWB Explorer/OSB](http://nwbexplorer.opensourcebrain.org/) sessions at the [9th Neurodata Without Borders User Days Workshop](https://neurodatawithoutborders.github.io/nwb_hackathons/HCK09_2020_Remote/), September 21-23, 2020
 - A workshop at the online [CNS*2020](https://www.cnsorg.org/cns-2020) on [Tools and resources for developing and sharing models in computational neuroscience](https://neuralensemble.github.io/Networks_SIG/CNS2020).
+- [NWB Explorer/OSB](http://nwbexplorer.opensourcebrain.org/) sessions at the [8th Neurodata Without Borders User Days Workshop](https://neurodatawithoutborders.github.io/nwb_hackathons/HCK08_2020_Remote/), May 12-15, 2020
 - [OSB 2019](http://www.opensourcebrain.org/docs/Help/Meetings#OSB_2019) in Sardinia in September 2019
 - A workshop on Open Source Brain at [Neuroinformatics 2018](http://www.opensourcebrain.org/docs/Help/Meetings#Neuroinformatics_2018) on Wed 8th August 2018 at McGill University, Montréal
 - A tutorial on [Neuroinformatics Resources for Computational Modellers](http://www.cnsorg.org/cns-2018-tutorials), including OSB and related resources at [CNS 2018 in Seattle](http://www.cnsorg.org/cns-2018)
