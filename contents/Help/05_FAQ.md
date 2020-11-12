@@ -14,9 +14,9 @@ While the models can be collaboratively developed in any simulator format, the u
 
 This project was started in the [Silver Lab](http://www.ucl.ac.uk/silverlab) at UCL as part of a [Wellcome Trust](http://www.wellcome.ac.uk) funded project to encourage collaborative development of models in computational neuroscience.
 
-![](http://www.neuroconstruct.org/images/wct.png)
+<p><img src="https://www.opensourcebrain.org/images/wellcome-logo-black.png" width="150"/></p>
 
-The Principal Investigator for the OSB project is [Angus Silver](/users/6) and the core team at UCL consists of [Padraig Gleeson](/users/4) (Project Manager) and [Matt Earnshaw](users/751). Special thanks to [Matteo Cantarelli](/users/43), [Adrian Quintan](/users311), [Boris Marin](/users/67) and [Eugenio Piasini](/users/3) for their significant contributions to OSB while at UCL.
+The Principal Investigator for the OSB project is [Angus Silver](/users/6) and the core team at UCL consists of [Padraig Gleeson](/users/4) (Project Manager) and [Ankur Sinha](/users/434). Special thanks to [Matt Earnshaw](users/751), [Matteo Cantarelli](/users/43), [Adrian Quintan](/users311), [Boris Marin](/users/67) and [Eugenio Piasini](/users/3) for their significant contributions to OSB while at UCL.
 
 A number of international research groups and organizations are currently involved in the Open Source Brain Initiative. See [here](/about) for more details.
 
@@ -52,9 +52,9 @@ No. You can browse the OSB projects and use most of the OSB tools. However, if y
 
 ### What is the licence/terms of use for models on OSB?
 
-Since all the scripts for models on OSB reside in autonomous repositories (e.g. on GitHub), each repository can (and should...) contain its own licence information. Unfortunately this is not the case for most of the repositories on OSB (which is a more widespread problem in scientific software development). Nevertheless, the clue is in the title... a user placing a model on **Open Source** Brain is probably keen to have it used and reused widely. If in doubt though and you want to be sure, open an issue on the repository in question (or mail [info@opensourcebrain.org](mailto:info@opensourcebrain.org)) requesting licence info be added to the repository.
+Since all the scripts for models on OSB reside in autonomous repositories (e.g. on GitHub), each repository can (and should...) contain its own licence information. Unfortunately this is not the case for most of the repositories on OSB (which is a more widespread problem in scientific software development). Nevertheless, the clue is in the title... a user placing a model on <u>Open Source</u> Brain is probably keen to have it used and reused widely. If in doubt though and you want to be sure, open an issue on the repository in question (or mail [info@opensourcebrain.org](mailto:info@opensourcebrain.org)) requesting licence info be added to the repository.
 
-Don't forget the golden rule however (more important to scientists than software licences...): **if you use a model, reference the original publication which describes the model**. If there are significant changes in the OSB repo from the original model which you want to cite, we can generate a DOI/reference for a specific version of the model (e.g. [here](https://zenodo.org/communities/opensourcebrain/?page=1&size=20)).
+Don't forget the golden rule however (more important to scientists than software licences...): **if you use a model, please cite the original publication which describes the model**. If there are significant changes in the OSB repo from the original model which you want to cite, we can generate a DOI/reference for a specific version of the model (e.g. [here](https://zenodo.org/communities/opensourcebrain/?page=1&size=20)).
 
 ### How can I contribute?
 
