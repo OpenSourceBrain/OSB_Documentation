@@ -7,14 +7,10 @@ The Open Source Brain repository (OSB) is a public repository for detailed neuro
 
 While the models can be collaboratively developed in any simulator format, the ultimate aim is to get as much of the model as possible into simulator independent formats like [NeuroML](http://www.neuroml.org) and [PyNN](http://neuralensemble.org/trac/PyNN) to ensure modularity, accessibility, cross simulator portability and to enable in-browser visualisation, analysis and simulation.
 
-<img src="https://www.neuroml.org/images/neuro_1.png" alt="NeuroML" width="200"/>
-
 
 ### Who’s behind OSB?
 
 This project was started in the [Silver Lab](http://www.ucl.ac.uk/silverlab) at UCL as part of a [Wellcome Trust](http://www.wellcome.ac.uk) funded project to encourage collaborative development of models in computational neuroscience.
-
-<p><img src="https://www.opensourcebrain.org/images/wellcome-logo-black.png" width="150"/></p>
 
 The Principal Investigator for the OSB project is [Angus Silver](/users/6) and the core team at UCL consists of [Padraig Gleeson](/users/4) (Project Manager) and [Ankur Sinha](/users/434). Special thanks to [Matt Earnshaw](users/751), [Matteo Cantarelli](/users/43), [Adrian Quintan](/users311), [Boris Marin](/users/67) and [Eugenio Piasini](/users/3) for their significant contributions to OSB while at UCL.
 
@@ -30,8 +26,6 @@ We are also planning deep links to databases such as [ModelDB](http://senselab.m
 See [here](http://www.opensourcebrain.org/projects/neuroinformatics/wiki/Wiki) for more details on interactions with other Neuroinformatics resources.
 
 A number of the contributors to this initiative are involved with the various national nodes of the [INCF](http://www.incf.org).
-
-![](/images/incf.png)
 
 ### What types of models can be developed?
 
