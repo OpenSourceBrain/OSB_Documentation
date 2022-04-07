@@ -1,3 +1,10 @@
+**Note! This documentation is being migrated to the Jupyter Book based, joint OSBv1/OSBv2 documentation here: https://github.com/OpenSourceBrain/Documentation**
+
+
+
+
+
+
 OSB Documentation
 =================
 
