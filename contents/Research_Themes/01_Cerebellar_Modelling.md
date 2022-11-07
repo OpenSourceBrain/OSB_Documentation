@@ -1,3 +1,5 @@
+## Note: OSB documentation has been moved! Please see latest documentation (covering both OSBv1 and OSBv2) at: https://docs.opensourcebrain.org
+
 The following is a list of the cell and network models from the cerebellum which are available in the OSB.
 
 [*Cerebellum on NeuroLex*](http://neurolex.org/wiki/Category:Cerebellum)

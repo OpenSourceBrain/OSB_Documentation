@@ -1,3 +1,5 @@
+## Note: OSB documentation has been moved! Please see latest documentation (covering both OSBv1 and OSBv2) at: https://docs.opensourcebrain.org
+
 ### Get in touch
 
 Please subscribe to the [OSB announce](https://groups.google.com/forum/?fromgroups#!forum/osb-announce) mailing list for announcements and updates related to the Open Source Brain project.

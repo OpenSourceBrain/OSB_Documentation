@@ -1,3 +1,5 @@
+## Note: OSB documentation has been moved! Please see latest documentation (covering both OSBv1 and OSBv2) at: https://docs.opensourcebrain.org
+
 ### Towards community developed cerebellar granule cell models
 
 This project was started following the [2013 OSB kickoff meeting](http://www.opensourcebrain.org/projects/osb/wiki/Meetings). At that meeting it was decided that the development of individual cell models from the cerebellum would be a good test case for exploring the requirements on technical infrastructure and the social aspects of collaborative model development. Due to the many independent granule cell layer networks being developed by participants at the OSB meeting, the cerebellar granule cell was identified as a good first cell model to focus on.

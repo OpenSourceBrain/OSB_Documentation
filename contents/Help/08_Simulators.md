@@ -1,3 +1,5 @@
+## Note: OSB documentation has been moved! Please see latest documentation (covering both OSBv1 and OSBv2) at: https://docs.opensourcebrain.org
+
 An overview of the main target simulators for models in OSB
 
 **Note: not all simulators will be able to execute all models.** See [here](/status) for more information on the simulators supported by each of the models on OSB.
@@ -6,7 +8,7 @@ For more tools (e.g. for visualization, analysis of models) which can handle the
 
 ### Brian
 
-Brian is available for download [here](http://briansimulator.org). There is a [Brian Showcase](http://www.opensourcebrain.org/projects/brianshowcase) project on OSB. 
+Brian is available for download [here](http://briansimulator.org). There is a [Brian Showcase](http://www.opensourcebrain.org/projects/brianshowcase) project on OSB.
 
 Greater native support for converting models in NeuroML to (and from) Brian is in development in [NeuroML v2.0](http:///www.neuroml.org/neuroml2). See [here](https://github.com/NeuroML/org.neuroml.export/blob/development/src/main/java/org/neuroml/export/brian/BrianWriter.java).
 

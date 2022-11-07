@@ -1,3 +1,5 @@
+## Note: OSB documentation has been moved! Please see latest documentation (covering both OSBv1 and OSBv2) at: https://docs.opensourcebrain.org
+
 We encourage users to turn their OSB projects into new tutorials.
 
 An example tutorial repository can be found [here](https://github.com/mattearnshaw/tutorials). We refer to this example below.
@@ -22,10 +24,10 @@ To create interactive aspects, the `quickExperiment` javascript function can be 
 
 Finally we need to add our tutorials to the tutorial widget by editing the json file downloaded in the step above (Configuring the default session). It may help to run this file through [a formatter](https://jsonformatter.org/json-pretty-print) before editing. To the data field of the tutorial widget, add URLs pointing to the json file(s) that you created above (see [here](https://github.com/mattearnshaw/tutorials/blob/master/models/hodgkinHuxley/GEPPETTO.json) for an example). You may also wish to change the `activeTutorial` field under `componentSpecific` to the title of tutorial you wish to be initially displayed. Tutees may switch between tutorials using the book icon at the top-left corner of tutorial widget.
 
-#### Existing tutorials 
+#### Existing tutorials
 
 You can explore our existing tutorials [here](http://www.opensourcebrain.org/tutorials). The synaptic integration tutorial is still under development.
 
 #### Support
 
-Please <b><a href="http://www.opensourcebrain.org/docs#How_To_Contact_Us" onclick="javascript:(function(event){ enableDocSection($(this).attr('href')); if(window.history.pushState) {window.history.pushState(null, null, $(this).attr('href'));} event.preventDefault(); })">get in contact</a></b> at any stage of preparing your tutorial. 
+Please <b><a href="http://www.opensourcebrain.org/docs#How_To_Contact_Us" onclick="javascript:(function(event){ enableDocSection($(this).attr('href')); if(window.history.pushState) {window.history.pushState(null, null, $(this).attr('href'));} event.preventDefault(); })">get in contact</a></b> at any stage of preparing your tutorial.

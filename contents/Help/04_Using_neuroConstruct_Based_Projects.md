@@ -1,3 +1,5 @@
+## Note: OSB documentation has been moved! Please see latest documentation (covering both OSBv1 and OSBv2) at: https://docs.opensourcebrain.org
+
 A number of the projects on the OSB are based on [neuroConstruct](http://www.neuroconstruct.org/) projects (see [here](http://opensourcebrain.org/search_custom_field?f[]=43&op[43]=~&v[43][]=neuroConstruct)). neuroConstruct is used to import model elements in NeuroML (e.g. exported from a simulator or other application), can generate code for multiple simulators, and can export NeuroML in various formats.
 
 ### Install the latest version of neuroConstruct
@@ -30,7 +32,7 @@ To clone all of the projects on OSB which contain neuroConstruct projects (and m
     cd osb
     ./checkOsb.sh -u (Linux/Mac)
     checkOsb.bat -u  (Windows)
-    
+
 This will clone \~70 projects with \~20 containing neuroConstruct projects, which will be accessible under the File - Open Source Brain Project:
 
 ![](/attachments/download/51/nCmenu.png)

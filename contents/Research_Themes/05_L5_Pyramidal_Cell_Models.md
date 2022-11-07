@@ -1,3 +1,5 @@
+## Note: OSB documentation has been moved! Please see latest documentation (covering both OSBv1 and OSBv2) at: https://docs.opensourcebrain.org
+
 ### Projects with L5 pyramidal cells currently in OSB
 
 ![](http://www.opensourcebrain.org/attachments/download/27/mainen95.png)

@@ -1,3 +1,5 @@
+## Note: OSB documentation has been moved! Please see latest documentation (covering both OSBv1 and OSBv2) at: https://docs.opensourcebrain.org
+
 
 <p align="centre"><a href="http://www.opensourcebrain.org/docs/Help/Meetings#Sardinia_2013"><img src="http://opensourcebrain.org/attachments/download/42/osbbanner.png" height="80"/></a>  &nbsp;&nbsp;
 <a href="http://www.opensourcebrain.org/docs/Help/Meetings#Hackathon_2013"><img src="http://opensourcebrain.org/attachments/download/106/OSBHackathon1.png" height="80"/></a>  &nbsp; &nbsp;

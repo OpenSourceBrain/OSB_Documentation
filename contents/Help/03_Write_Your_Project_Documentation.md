@@ -1,3 +1,5 @@
+## Note: OSB documentation has been moved! Please see latest documentation (covering both OSBv1 and OSBv2) at: https://docs.opensourcebrain.org
+
 There are two main options for adding documentation to an OSB project:
 
   1) Add README files in your GitHub repository and point to these from the OSB project
@@ -21,12 +23,12 @@ OSB documentation is written in [Markdown format syntax](https://daringfireball.
 
 We describe briefly below some OSB/Redmine features to enhance Wiki pages on OSB (these can also be used in the text field for the main project description in Settings).
 
-#### Reference to a Repository file. 
+#### Reference to a Repository file.
 
 You can point to any file (markdown or plain text) in your GitHub or Bitbucket repository (the repository used in your project).
 
 <code>github:[path]</code>
-<code>bitbucket:[path]</code> 
+<code>bitbucket:[path]</code>
 
 This will retrieve the file content and display it in the OSB wiki page. This allows a single file in your repo (e.g. the main README.md) to be the master copy of the documentation for your project, and to make that accessible to someone browsing the project on OSB.
 
@@ -36,15 +38,15 @@ This will retrieve the file content and display it in the OSB wiki page. This al
 <code>bitbucket:help.txt</code>
 
 
-#### Reference to [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/) publication: 
+#### Reference to [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/) publication:
 
 <code>pubmed:[publicationID]</code>
 
 *Example:*
 
-<code>pubmed:17442244</code> 
+<code>pubmed:17442244</code>
 
-This syntax will generate a reference link like this (link only correctly rendered on OSB): pubmed:17442244 and a bibliography section will be automatically generated at the bottom of the page. 
+This syntax will generate a reference link like this (link only correctly rendered on OSB): pubmed:17442244 and a bibliography section will be automatically generated at the bottom of the page.
 
 
 #### Create a formula
@@ -57,7 +59,7 @@ You can write formulas in your documentation using the LaTeX syntax. You only ne
 
 <code>{{latex(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})}}</code>
 
-This will automatically generate the following image using the [google chart API](https://developers.google.com/chart/infographics/docs/formulas): 
+This will automatically generate the following image using the [google chart API](https://developers.google.com/chart/infographics/docs/formulas):
 ![](https://raw.githubusercontent.com/OpenSourceBrain/OSB_Documentation/master/resources/images/formula.png)
 
 #### Link to Wiki page

@@ -1,3 +1,5 @@
+## Note: OSB documentation has been moved! Please see latest documentation (covering both OSBv1 and OSBv2) at: https://docs.opensourcebrain.org
+
 ### Is your model on ModelDB?
 
 First of all, if the model is published, **please submit the original scripts to [ModelDB](http://senselab.med.yale.edu/ModelDB/default.asp)**. This is the correct place for depositing models at the time of publication and should be the first port of call for anyone looking for scripts related to a publication in computational neuroscience.
@@ -12,7 +14,7 @@ You should also add the URL of your project, software or lab. In the latter case
 
 ### Share your code
 
-Create a new repository for your code on GitHub (see [here](http://www.opensourcebrain.org/docs/Help/Background_Information#Introduction_to_Source_Control) if want to know more about Source Code technologies and Git/GitHub). See the introduction to creating a new repository on [GitHub help](https://help.github.com/articles/create-a-repo). 
+Create a new repository for your code on GitHub (see [here](http://www.opensourcebrain.org/docs/Help/Background_Information#Introduction_to_Source_Control) if want to know more about Source Code technologies and Git/GitHub). See the introduction to creating a new repository on [GitHub help](https://help.github.com/articles/create-a-repo).
 
 The repository can be hosted on the [OpenSourceBrain GitHub organisation](https://github.com/OpenSourceBrain), but there is no problem having it under your personal account. If you would like us to host the repository, <a href="mailto:info@opensourcebrain.org">let us know</a> and we’ll add the repository and give your GitHub user full access to it.
 

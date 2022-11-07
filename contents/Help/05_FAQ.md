@@ -1,3 +1,5 @@
+## Note: OSB documentation has been moved! Please see latest documentation (covering both OSBv1 and OSBv2) at: https://docs.opensourcebrain.org
+
 
 ### What is the motivation behind the Open Source Brain repository?
 
@@ -57,4 +59,3 @@ We are happy to hear from anyone interested in helping out with this initiative.
 **Note: There is a central list for projects in OSB (and related NeuroML tools) which require help from volunteers. See [here](http://opensourcebrain.org/docs#Contribute_To_OSB).**
 
 Find out about all the ways to follow the project or get in contact [here](http://www.opensourcebrain.org/docs#How_To_Contact_Us).
-

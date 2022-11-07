@@ -1,3 +1,5 @@
+## Note: OSB documentation has been moved! Please see latest documentation (covering both OSBv1 and OSBv2) at: https://docs.opensourcebrain.org
+
 Below is a list of some important resources in the neuroinformatics, computational neuroscience and systems biology fields and how the Open Source Brian Repository is planning to interact with them.
 
 ### ModelDB

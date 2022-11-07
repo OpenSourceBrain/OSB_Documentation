@@ -1,3 +1,5 @@
+## Note: OSB documentation has been moved! Please see latest documentation (covering both OSBv1 and OSBv2) at: https://docs.opensourcebrain.org
+
 ### Introduction
 
 This page will be updated during the [2013 OSB Hackathon](http://www.opensourcebrain.org/projects/osb/wiki/Meetings).
