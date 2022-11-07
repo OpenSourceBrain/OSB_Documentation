@@ -1,3 +1,6 @@
+## Note: OSB documentation has been moved! Please see latest documentation (for OSBv1 and OSBv2) at https://docs.opensourcebrain.org/OSBv1
+
+
 ### Welcome to Open Source Brain!
 
 #### Quick Introduction to OSB
@@ -19,7 +22,7 @@ Some frequently asked questions are answered <b><a href="http://www.opensourcebr
 
 #### OSB Meetings
 
-Find out about past and upcoming <b><a href="http://www.opensourcebrain.org/docs#Meetings" onclick="javascript:(function(event){ enableDocSection($(this).attr('href')); if(window.history.pushState) {window.history.pushState(null, null, $(this).attr('href'));} event.preventDefault(); })">OSB meetings and workshops</a></b>. 
+Find out about past and upcoming <b><a href="http://www.opensourcebrain.org/docs#Meetings" onclick="javascript:(function(event){ enableDocSection($(this).attr('href')); if(window.history.pushState) {window.history.pushState(null, null, $(this).attr('href'));} event.preventDefault(); })">OSB meetings and workshops</a></b>.
 
 
 #### Contact us
