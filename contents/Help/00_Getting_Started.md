@@ -1,4 +1,4 @@
-## Note: OSB documentation has been moved! Please see latest documentation (for OSBv1 and OSBv2) at https://docs.opensourcebrain.org/OSBv1
+## Note: OSB documentation has been moved! Please see latest documentation (covering both OSBv1 and OSBv2) at: https://docs.opensourcebrain.org
 
 
 ### Welcome to Open Source Brain!
