@@ -24,9 +24,10 @@ Note that this is a living document and it will regularly be updated.
 3. Programming  
    - [Matlab for Neuroscientists][b_3.1]  
    - [SciPy and NumPy][b_3.2]  
-   - [Python for Data Analysis][b_3.3]  
-   - [Think Stats][b_3.4]  
-   - [Dive into Python][b_3.5]  
+   - [Python for Data Analysis][b_3.3]
+   - [Neural Data Science in Python][b_3.4], Aaron J Newman
+   - [Think Stats][b_3.5]  
+   - [Dive into Python][b_3.6]  
 
 4. Machine learning
    -  [Pattern Recognition and Machine Learning][b_4.1], Christopher M Bishop
@@ -45,8 +46,9 @@ Note that this is a living document and it will regularly be updated.
 [b_3.1]: http://www.amazon.com/MATLAB-Neuroscientists-Introduction-Scientific-Computing/dp/0123745519
 [b_3.2]: http://shop.oreilly.com/product/0636920020219.do
 [b_3.3]: http://shop.oreilly.com/product/0636920023784.do
-[b_3.4]: http://greenteapress.com/thinkstats/
-[b_3.5]: http://www.diveintopython.net/
+[b_3.4]: https://neuraldatascience.io/intro.html
+[b_3.5]: http://greenteapress.com/thinkstats/
+[b_3.6]: http://www.diveintopython.net/
 [b_4.1]: http://www.amazon.com/Pattern-Recognition-Machine-Learning-Christopher/dp/8132209060/ref=pd_sim_14_4?ie=UTF8&dpID=51qDRMnf9LL&dpSrc=sims&preST=_AC_UL160_SR118%2C160_&refRID=1N99QG8VBWEBCHJ893BR
 [b_4.2]: https://mitpress.mit.edu/books/machine-learning-0
 
@@ -106,7 +108,8 @@ An overview of the main target simulators for models in Open Source Brain can be
 3. Libraries: Data analysis and scientific computing
    - [Pandas, python][s_2.1]  
    - [NumPy, python][s_2.2]  
-   - [SciPy, python][s_2.3]  
+   - [SciPy, python][s_2.3]
+   - [MNE, python][s_2.4]  
    
 4. Libraries: Data visualization  
     - [matplotlib, python][s_3.1]  
@@ -123,7 +126,8 @@ An overview of the main target simulators for models in Open Source Brain can be
   
 [s_2.1]: http://pandas.pydata.org
 [s_2.2]: http://www.numpy.org
-[s_2.3]: http://scipy.org/index.html 
+[s_2.3]: http://scipy.org/index.html
+[s_2.4]: https://mne.tools/stable/index.html
 [s_3.1]: http://matplotlib.org/
 [s_3.2]: http://blog.olgabotvinnik.com/prettyplotlib/
 [s_3.3]: http://bokeh.pydata.org/en/latest/
@@ -181,7 +185,8 @@ An overview of the main target simulators for models in Open Source Brain can be
    - [Seung Lab, Priceton, NY][larg_3.4]
    - [Neural Dynamics and Computation Lab, Stanford, CA][larg_3.5]
    - [Center for Theoretical Neuroscience, Columbia University, NY][larg_3.6]
-   - [Sejnowski Lab, UCSD, CA][larg_3.7]  
+   - [Sejnowski Lab, UCSD, CA][larg_3.7]
+   - [McGovern Institute for Brain Research at MIT][larg_3.8]
 
 A more comprehensive list of labs, centers and researchers can be found [here](https://compneuroweb.com/labs.html).
   
@@ -202,6 +207,7 @@ A more comprehensive list of labs, centers and researchers can be found [here](h
 [larg_3.5]: http://ganguli-gang.stanford.edu/
 [larg_3.6]: http://www.neurotheory.columbia.edu/index.html
 [larg_3.7]: http://cnl.salk.edu/
+[larg_3.8]: https://mcgovern.mit.edu/
 
 ### Mailing Lists, Blogs and News  
 
